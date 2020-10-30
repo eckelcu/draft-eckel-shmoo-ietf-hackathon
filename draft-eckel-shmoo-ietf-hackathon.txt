@@ -1,0 +1,616 @@
+
+
+
+
+shmoo                                                           C. Eckel
+Internet-Draft                                             Cisco Systems
+Intended status: Informational                          October 30, 2020
+Expires: May 3, 2021
+
+
+                       Running an IETF Hackathon
+                    draft-eckel-shmoo-ietf-hackathon
+
+Abstract
+
+   IETF Hackathons encourage developers to collaborate and develop
+   utilities, ideas, sample code and solutions that show practical
+   implementations of IETF standards.  This document provides a set of
+   practices for running IETF Hackathons.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on May 3, 2021.
+
+Copyright Notice
+
+   Copyright (c) 2020 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents
+   (https://trustee.ietf.org/license-info) in effect on the date of
+   publication of this document.  Please review these documents
+   carefully, as they describe your rights and restrictions with respect
+   to this document.  Code Components extracted from this document must
+   include Simplified BSD License text as described in Section 4.e of
+   the Trust Legal Provisions and are provided without warranty as
+   described in the Simplified BSD License.
+
+
+
+
+Eckel                      Expires May 3, 2021                  [Page 1]
+
+Internet-Draft               ietf-hackathon                 October 2020
+
+
+Table of Contents
+
+   1.  Introduction  . . . . . . . . . . . . . . . . . . . . . . . .   2
+   2.  Conventions and Definitions . . . . . . . . . . . . . . . . .   3
+   3.  Roles and Responsibilities  . . . . . . . . . . . . . . . . .   3
+     3.1.  Hackathon Chair(s)  . . . . . . . . . . . . . . . . . . .   3
+     3.2.  Secretariat . . . . . . . . . . . . . . . . . . . . . . .   4
+     3.3.  Hackathon Sponsor . . . . . . . . . . . . . . . . . . . .   4
+     3.4.  Champions of Projects . . . . . . . . . . . . . . . . . .   4
+     3.5.  IETF LLC, Director of Communications and Operations (was
+           ISOC) . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+     3.6.  Judges  . . . . . . . . . . . . . . . . . . . . . . . . .   5
+   4.  Timing  . . . . . . . . . . . . . . . . . . . . . . . . . . .   5
+     4.1.  Online Timing . . . . . . . . . . . . . . . . . . . . . .   6
+   5.  Technology  . . . . . . . . . . . . . . . . . . . . . . . . .   6
+     5.1.  Datatracker . . . . . . . . . . . . . . . . . . . . . . .   6
+   6.  Statistics and Metrics  . . . . . . . . . . . . . . . . . . .   6
+   7.  Aux Events  . . . . . . . . . . . . . . . . . . . . . . . . .   6
+     7.1.  Hackdemo Happy Hour . . . . . . . . . . . . . . . . . . .   6
+     7.2.  Code Sprint . . . . . . . . . . . . . . . . . . . . . . .   7
+   8.  Online Only . . . . . . . . . . . . . . . . . . . . . . . . .   7
+   9.  Project Presentations . . . . . . . . . . . . . . . . . . . .   8
+     9.1.  Project Pitches . . . . . . . . . . . . . . . . . . . . .   8
+     9.2.  Results Summaries . . . . . . . . . . . . . . . . . . . .   8
+       9.2.1.  Presenting in person  . . . . . . . . . . . . . . . .   9
+       9.2.2.  Presenting Remotely . . . . . . . . . . . . . . . . .   9
+     9.3.  IETF Survey Results . . . . . . . . . . . . . . . . . . .   9
+   10. Hackathon Survey results  . . . . . . . . . . . . . . . . . .  10
+   11. Security Considerations . . . . . . . . . . . . . . . . . . .  10
+   12. IANA Considerations . . . . . . . . . . . . . . . . . . . . .  10
+   13. References  . . . . . . . . . . . . . . . . . . . . . . . . .  10
+     13.1.  Normative References . . . . . . . . . . . . . . . . . .  10
+     13.2.  URIs . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+   Acknowledgments . . . . . . . . . . . . . . . . . . . . . . . . .  11
+   Author's Address  . . . . . . . . . . . . . . . . . . . . . . . .  11
+
+1.  Introduction
+
+   IETF Hackathons encourage developers to collaborate and develop
+   utilities, ideas, sample code and solutions that show practical
+   implementations of IETF standards.  IETF Hackathons aim to:
+
+   o  Advance the pace and relevance of IETF standards activities by
+      bringing the speed and collaborative spirit of open source
+      development into the IETF
+
+   o  Bring developers and young people into IETF and get them exposed
+      to and interested in IETF
+
+
+
+Eckel                      Expires May 3, 2021                  [Page 2]
+
+Internet-Draft               ietf-hackathon                 October 2020
+
+
+   IETF Hackathons are free to attend and open to everyone.  They are
+   collaborative events, not competitions.  Any competitiveness among
+   participants is friendly, and in the spirit of advancing the pace and
+   relevance of new and evolving internet standards.
+
+   This document provides a set of practices for running IETF
+   Hackathons.
+
+2.  Conventions and Definitions
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in BCP
+   14 [RFC2119] [RFC8174] when, and only when, they appear in all
+   capitals, as shown here.
+
+3.  Roles and Responsibilities
+
+3.1.  Hackathon Chair(s)
+
+   The role of a hackathon chair is similar to that of a working group
+   chair.  As with working groups, it is typically best to have co-
+   chairs share responsibilities and workload.  Key responsibilities
+   include:
+
+   o  Organize and deliver a hackathon at each IETF meeting,
+      soliliciting help from all other roles to do much of the heavy
+      lifting
+
+   o  Encourage and provide guidance to champions who volunteer to lead
+      projects
+
+   o  Maintain the hackathon wiki (e.g.
+      https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon) and all
+      of its child pages.
+
+   o  Moderate hackathon@ietf.org email list
+
+   o  Request sessions for hackathon opening and closing at IETF meeting
+      (i.e. https://datatracker.ietf.org/secr/sreq/)
+
+   o  Emcee the hackathon, including the opening and closing sessions
+      and announcements in between
+
+   o  Create and manage the GitHub repo used for each Hackathon (e.g.
+      https://github.com/IETF-Hackathon/ietf108-project-presentations
+      [1]
+
+
+
+
+Eckel                      Expires May 3, 2021                  [Page 3]
+
+Internet-Draft               ietf-hackathon                 October 2020
+
+
+   o  Main point of contact for all Hackathon questions and concerns
+
+3.2.  Secretariat
+
+   o  Configure and manage Hackathon registration system
+
+   o  Maintain web page for Hackathons
+      https://www.ietf.org/how/runningcode/hackathons/
+
+   o  Create web page for each Hackathon (e.g.
+      https://www.ietf.org/how/runningcode/hackathons/109-hackathon/)
+
+   o  Create wiki page for each Hackathon (e.g.
+      https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon).  This
+      is initialized and updated at times by the Secretariat, but the
+      Chair(s) are ultimately responsible for maintaining it.
+
+   o  Handle venue logistics for Hackathon (e.g. reserve room, food and
+      beverages, AV, etc.)
+
+   o  Internal IETF promotion (e.g. email messages to community)
+
+   o  Assist with external outreach, as needed
+
+3.3.  Hackathon Sponsor
+
+   o  Sponsor cost of Hackathon (either per meeting or per year,
+      depending on model)
+
+   o  If desired, provide t-shirts or other giveaways
+
+   o  May provide support staff to assist with Hackathon (not required)
+
+3.4.  Champions of Projects
+
+   Champions of projects are the key to a successful Hackathon.  Key
+   responsibilities for champions include:
+
+   o  Volunteer to lead a project at the Hackathon
+
+   o  Serve as primary contact for the project
+
+   o  Add and manage information on the Hackathon wiki for the project
+
+   o  Promote the project to appropriate groups inside IETF and outside
+      as well
+
+   o  Welcome and organize members of the team
+
+
+
+Eckel                      Expires May 3, 2021                  [Page 4]
+
+Internet-Draft               ietf-hackathon                 October 2020
+
+
+   o  Provide focus, guidance, and leadership for the project
+
+3.5.  IETF LLC, Director of Communications and Operations (was ISOC)
+
+   o  External (outside world) promotion
+
+   o  Outreach to local universities
+
+   o  Provide photographer
+
+3.6.  Judges
+
+   The first several hackathon involved judges who listened to summary
+   presentations by teams at the closing of each hackathon and
+   identified winning teams for an arbitrary number of project
+   categories.  Prizes were made available to members of winning teams.
+   This was done as an incentive to participate in the Hackathon and
+   present results, and to provide a fun yet informative end to the
+   Hackathon that could be appreciated by the entire IETF community.
+   Judging and awarding of prizes led to confusion regarding the nature
+   of the Hackathon, making it appear to some overly competitive.
+   Procurement of appropriate prizes was financially and logistically
+   challenging.  Arrangement of judges, determination of winners, and
+   awarding of prizes all became more time consuming, especially as the
+   number of projects and participants grew.  Ultimately, it was deemed
+   best to eliminate judging, awards, and prizes entirely.  Apparently
+   the IETF community has an innate incentive to participate and present
+   results in the Hackathon.
+
+4.  Timing
+
+   The first IETF Hackathon was held the weekend before the start of the
+   IETF 92 meeting.  The rationale was to avoid conflicts yet make it
+   relatively convenient for those attending the IETF meeting to
+   participate in the hackathon as well.  Holding the hackathon on the
+   weekend was also viewed as making it more accessible to non IETF
+   meeting attendees, including students and working professionals who
+   would have other commitments during the week.  The weekend before was
+   viewed as better than the weekend after such that things learned
+   during the hackathon could be shared and discussed with the rest of
+   the IETF community during working group sessions and the like.  This
+   worked well at IETF 92, was repeated at IETF 93, and quickly became
+   an established norm with the IETF meeting being officially extended
+   to include the hackathon at the start.
+
+
+
+
+
+
+
+Eckel                      Expires May 3, 2021                  [Page 5]
+
+Internet-Draft               ietf-hackathon                 October 2020
+
+
+4.1.  Online Timing
+
+   See Online Only section.
+
+5.  Technology
+
+   The IETF Hackathon makes use of the same tooling used by the IETF
+   community for its work and meetings.  This includes a combination of
+   the Datatracker [2], IETF Website [3], the Meeting Wiki [4], GitHub
+   [5], Meetecho [6], Webex [7], and Gather [8].
+
+5.1.  Datatracker
+
+   Hackathon "Team" in the Datatracker The Datatracker now supports the
+   notion of teams that are not a part of the standards development
+   process (e.g.  EDU team).  This means that we could create rolls in
+   the Datatracker for the Hackathon Chair, Technology Champion, etc.
+   and manage content, work, etc. within the Datatracker.  Would you
+   like to explore this? * Yes
+
+6.  Statistics and Metrics
+
+7.  Aux Events
+
+7.1.  Hackdemo Happy Hour
+
+   Hackdemo Happy Hour provides an opportunity for more in depth sharing
+   and discussion than is possible within the time constraints of the
+   result presentation that occur at the end of the hackathon.  This
+   opportunity is made available to all teams.  As with the results
+   presentation, participation is optional.
+
+   Initially, we did something similar as part of Bits and Bites.  This
+   worked well for the hackathon but the Bits and Bites event was
+   eventually abandoned for other reasons.  Hackademo Happy Hour was
+   created as a low cost, informal event to provide a venue for the IETF
+   community to engage with the Hackathon teams in more in depth
+   discussions related to their projects.
+
+   Hackdemo Happy Hour is typically Monday evening, roughly from 18:00 -
+   19:30, often overlapping a bit with the last working group session of
+   the day but continuing long enough to allow everyone an opportunity
+   to join.  The goal is to make it convenient to attend by not
+   conflicting with other meetings but also no running too late into the
+   night.
+
+   Light snacks and non alcoholic beverages are provided, and a cash bar
+   is available to align with the spirit of a happy hour.
+
+
+
+Eckel                      Expires May 3, 2021                  [Page 6]
+
+Internet-Draft               ietf-hackathon                 October 2020
+
+
+7.2.  Code Sprint
+
+   How can the Hackathon and the Code Sprint work together or
+   potentially be combined (a single two-day event focusing on the
+   development of IETF protocols AND IETF internal tools)?  There is
+   some concern that the events currently compete for resources, but I
+   see a lot of synergistic potential and would like to help realize
+   that potential.  * I proposed combining for Prague, but Henrik and
+   Robert were very against it.  * I still think it is a good idea.  *
+   We had projects creating IETF tools in Hackathon in Dallas and again
+   in Prague
+
+8.  Online Only
+
+   IETF 107 Hackathon was originally scheduled to be the weekend at the
+   start of the IETF meeting in Vancouver.  When COVID-19 hit and it
+   became clear the IETF meeting could not occur in person, the
+   hackathon already had 23 projects and 176 registrations.  With only
+   10 days until the anticipated start of the hackathon, a survey went
+   out to the hackathon community, including all project champions and
+   registered participants, to see if they wanted to participate in the
+   hackathon exactly as planned except with everyone participating
+   remotely rather than in person.  A relatively small number of people
+   expressed interest in participating, with even fewer wanting to
+   continue to champion their projects.  The fact that the hackathon was
+   planned for the weekend before the IETF meeting and in the local time
+   zone, both of which were historically very convenient and attractive
+   to hackathon participants, suddenly became huge obstacles.
+   Consequently, the IETF 107 Hackathon was cancelled.
+
+   We knew more advance that IETF 108 would be an online only meeting.
+   We moved and expanded the schedule to run the entire work week before
+   the rest of the IETF meeting.  The hackathon kickoff was set for
+   Monday, the closing for Friday, with all the time in between left for
+   individual project teams to arrange to meet how and when was most
+   convenient for them.  The kickoff and closing sessions were schedule
+   to align with the time frame established for the IETF 108 meeting.
+   All of this was, of course, not ideal, and it worked much better for
+   some people than for others, but at least everyone knew the plan and
+   corresponding time commitment well in advance and had the ability to
+   plan accordingly.
+
+   The response was great.  We ultimately had 19 projects and almost 300
+   registrations.  It is hard to say how many people actually
+   participated and for how long, but many projects were able to get
+   substantial work done.  For the closing, 10 teams produced and shared
+   presentations summarizing their findings and achievements.  All
+   presentations as well as the agenda and a recording of the closing
+
+
+
+Eckel                      Expires May 3, 2021                  [Page 7]
+
+Internet-Draft               ietf-hackathon                 October 2020
+
+
+   session are available via the IETF 108 Hackathon
+   [wiki]((https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon).
+
+9.  Project Presentations
+
+   Project presentations are an important mechanism for capturing what
+   each team accomplished and sharing this with the IETF community.
+
+   For the first few Hackathons, we had two very distinct types of
+   presentations,
+
+   1.  Presentation that served as project pitches at the start of the
+       Hackathon
+
+   2.  Presentations that summarizes results at the end of the
+       Hackathon.
+
+9.1.  Project Pitches
+
+   The project pitches were 5-10 minute presentations by a champion of a
+   project describing what they wanted to do and how they proposed to
+   accomplish it.  This gave everyone in the room a better understanding
+   of all the projects and helped participants match themselves with
+   appropriate projects.  This was fantastic when we had a small number
+   of projects, but it became unwieldy as the number of projects
+   increased.  As knowledge of the hackathon grew and advanced planning
+   became more common, many participants knew exactly which team they
+   planned to join and wanted to get to work as quickly as possible
+   rather than spend a couple hours listening to presentations.  Project
+   pitches were dropped from the Hackathon.  Champions are encouraged to
+   share this type of information in advance via the Meeting Wiki
+   instead.
+
+9.2.  Results Summaries
+
+   The project presentations are brief summaries by each team of what
+   problem they tried to solve, what they achieved, and highlights that
+   include lessons learned, feedback to associated working groups, and
+   collaboration with open source communities and other standards
+   organizations.  We also highlight individuals who are participating
+   in their first IETF Hackathon or first IETF event to facilitate their
+   introduction into the IETF community.  The production and
+   presentation of results summaries is optional.  Fortunately, despite
+   the lack of awards and prizes, most teams participate.
+
+   As with the project pitches, results presentations can become
+   unwieldy as the number of projects increases.  The formula used is to
+
+
+
+
+Eckel                      Expires May 3, 2021                  [Page 8]
+
+Internet-Draft               ietf-hackathon                 October 2020
+
+
+   limit the total time for all presentations to 2 hours and allocate
+   time slots based on that.  Time slots of minutes are typical.
+
+   All presentation are uploaded to a GitHub repo created specifically
+   for each IETF Hackathon (e.g., https://github.com/IETF-Hackathon/
+   ietf108-project-presentations [9].
+
+   The contents of this repo are used as the source for all project
+   presentations at the end of the hackathon and remain as a reference
+   after the hackathon.  For portability, presentations are requested to
+   be in PDF format.
+
+   One must be a member of the IETF-Hackathon GitHub org to upload a new
+   presentation or update/replace an existing presentation.
+
+   To be added as a member, presenters are asked to
+
+   o  include the name by which they are known in their GitHub profile
+
+   o  enable two factor authentication (2FA)
+
+   o  send your GitHub user name to the Chair(s)
+
+   Presenters are asked to do this at their earliest convenience as the
+   Chair(s) typically get very busy as the start of presentations
+   approaches.
+
+9.2.1.  Presenting in person
+
+   Presentations are run from a shared ChromeBook at the front of the
+   hackathon room.  This Chromebook is provided by the Secretariat.
+
+9.2.2.  Presenting Remotely
+
+   Remote presenters are welcome to run their own presentations using
+   the screen sharing functionality in Meetecho.  Alternatively, the
+   hackathon chairs can share the presentation and advance slides for
+   the presenter.
+
+9.3.  IETF Survey Results
+
+   https://www.ietf.org/media/documents/survey-planning-possible-online-
+   meetings-responses.pdf
+
+   (From L-R: Very important, Important, Neutral, Not important, Not at
+   all important, Score (lower score is more important)) - Hackathon
+   6.73% 20.20% 40.65% 19.70% 12.72% 3.11
+
+
+
+
+Eckel                      Expires May 3, 2021                  [Page 9]
+
+Internet-Draft               ietf-hackathon                 October 2020
+
+
+10.  Hackathon Survey results
+
+   tbd
+
+11.  Security Considerations
+
+   Participant email addresses.
+
+12.  IANA Considerations
+
+   This document has no IANA actions.
+
+13.  References
+
+13.1.  Normative References
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
+              <https://www.rfc-editor.org/info/rfc2119>.
+
+   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
+              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
+              May 2017, <https://www.rfc-editor.org/info/rfc8174>.
+
+13.2.  URIs
+
+   [1] https://github.com/IETF-Hackathon/ietf108-project-presentations
+
+   [2] https://datatracker.ietf.org/
+
+   [3] https://www.ietf.org/how/runningcode/
+
+   [4] https://trac.ietf.org/trac/ietf/meeting/wiki
+
+   [5] https://github.com/ietf-hackathon
+
+   [6] https://www.meetecho.com/
+
+   [7] https://ietf.webex.com/webappng/sites/ietf/dashboard?siteurl=ietf
+
+   [8] https://gather.town/
+
+   [9] https://github.com/IETF-Hackathon/ietf108-project-presentations
+
+
+
+
+
+
+
+Eckel                      Expires May 3, 2021                 [Page 10]
+
+Internet-Draft               ietf-hackathon                 October 2020
+
+
+Acknowledgments
+
+   TODO acknowledgements.
+
+Author's Address
+
+   Charles Eckel
+   Cisco Systems
+
+   Email: eckelcu@cisco.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eckel                      Expires May 3, 2021                 [Page 11]
