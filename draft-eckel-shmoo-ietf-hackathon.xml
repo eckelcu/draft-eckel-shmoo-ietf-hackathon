@@ -73,7 +73,7 @@ when, and only when, they appear in all capitals, as shown here.</t>
 <t>The role of a hackathon chair is similar to that of a working group chair. As with working groups, it is typically best to have co-chairs share responsibilities and workload. Key responsibilities include:</t>
 
 <t><list style="symbols">
-  <t>Organize and deliver a hackathon at each IETF meeting, soliliciting help from all other roles to do much of the heavy lifting</t>
+  <t>Organize and deliver a hackathon at each IETF meeting, soliciting help from all other roles to do much of the heavy lifting</t>
   <t>Encourage and provide guidance to champions who volunteer to lead projects</t>
   <t>Maintain the hackathon wiki (e.g. https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon) and all of its child pages.</t>
   <t>Moderate hackathon@ietf.org email list</t>
@@ -91,18 +91,18 @@ when, and only when, they appear in all capitals, as shown here.</t>
   <t>Maintain web page for Hackathons https://www.ietf.org/how/runningcode/hackathons/</t>
   <t>Create web page for each Hackathon (e.g. https://www.ietf.org/how/runningcode/hackathons/109-hackathon/)</t>
   <t>Create wiki page for each Hackathon (e.g. https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon). This is initialized and updated at times by the Secretariat, but the Chair(s) are ultimately responsible for maintaining it.</t>
-  <t>Handle venue logistics for Hackathon (e.g. reserve room, food and beverages, AV, etc.)</t>
+  <t>Handle venue logistics for Hackathon, Hackdemo Happy Hour, and Code Lounge (e.g. reserve room, food and beverages, AV, etc.)</t>
   <t>Internal IETF promotion (e.g. email messages to community)</t>
-  <t>Assist with external outreach, as needed</t>
+  <t>Assist with external outreach, as needed, including finding sponsors</t>
 </list></t>
 
 </section>
-<section anchor="hackathon-sponsor" title="Hackathon Sponsor">
+<section anchor="sponsor" title="Sponsor">
 
 <t><list style="symbols">
-  <t>Sponsor cost of Hackathon (either per meeting or per year, depending on model)</t>
-  <t>If desired, provide t-shirts or other giveaways</t>
-  <t>May provide support staff to assist with Hackathon (not required)</t>
+  <t>Provide some funding to help offset costs of Hackathon (either per meeting or per year, depending on model)</t>
+  <t>Optionally provide t-shirts or other giveaways</t>
+  <t>Optionally provide support staff to assist with Hackathon</t>
 </list></t>
 
 </section>
@@ -126,6 +126,7 @@ when, and only when, they appear in all capitals, as shown here.</t>
   <t>External (outside world) promotion</t>
   <t>Outreach to local universities</t>
   <t>Provide photographer</t>
+  <t>Laptop stickers</t>
 </list></t>
 
 </section>
@@ -135,13 +136,104 @@ when, and only when, they appear in all capitals, as shown here.</t>
 
 </section>
 </section>
+<section anchor="funding" title="Funding">
+
+<t>The Hackathon requires funding, and that funding increases with the number of participants. Participating has always been free; therefore, funding from other sources than participant fees is required.</t>
+
+<section anchor="sponsorship" title="Sponsorship">
+
+<t>The initial funding model was to have Hackathon sponsors that sign up to sponsor and fund the Hackathon for one year. As part of starting the Hackathon, Cisco volunteered to sponsor and fund the hackathon for its first year (i.e,. three hackathons, one at each IETF meeting during a calendar year). This sponsorship was to rotate. Huawei volunteered to sponsor the second year of the hackathon. After the second year, a sponsor for the 3rd year was not found. However, the hackathon had become a proven success. Consequently, the IETF decided to fund the hackathon as part of the IETF meeting, with hackathon sponsorship being on a best effort basis.</t>
+
+</section>
+<section anchor="expenses" title="Expenses">
+
+<t>The primary costs associated with the hackathon are for the meeting space and for food and beverage. It is often challenging to separate out the cost of the hackathon.</t>
+
+<section anchor="space" title="Space">
+
+<t>The space for the hackathon is sometimes included as part of the overall contract. Other times, additional costs are incurred to secure a large enough space earlier than would otherwise have been required. Typically, the space is needed from Friday afternoon for setup until Sunday afternoon. The space is typically repurposed for the IETF Lounge. If the size of the Hackathon continue to increase, it might be necessary to use the same space as is used for the IETF plenary.</t>
+
+</section>
+<section anchor="food-and-beverage" title="Food and Beverage">
+
+<t>Some portion of the food and beverage cost is often included as part of a minimum spend the IETF is obligated to make. When a Hackathon sponsor is identified, the money is typically used to offset food and beverage costs, or to enhance the food and beverage that is made available versus what would have been made available if no sponsor existed.</t>
+
+<t>The minimum food and beverage for the hackathon has been,</t>
+
+<t><list style="symbols">
+  <t>coffee, tea, and water Saturday and Sunday morning</t>
+  <t>lunch Saturday and Sunday</t>
+</list></t>
+
+<t>Additional items, in order of importance, included when funding is available include,</t>
+
+<t><list style="symbols">
+  <t>beer Saturday evening</t>
+  <t>dinner Saturday evening</t>
+  <t>continental breakfast Saturday and Sunday</t>
+  <t>afternoon snacks Saturday and Sunday</t>
+</list></t>
+
+</section>
+<section anchor="t-shirts" title="T-shirts">
+
+<t>Hackathon t-shirts are an important part of the hackathon. They have been provided for all in-person hackathons and greatly appreciated by most participants. The also serve as great advertising for the IETF, the Hackathon, and sponsors. Cisco or other event sponsors have typically covered the cost of t-shirts. The current model is that the secretariat covers the costs using whatever funding is available.</t>
+
+<t>TBD: include size and cost info?</t>
+
+</section>
+<section anchor="stickers" title="Stickers">
+
+<t>Laptop stickers are popular with software developers. Stickers have been produced made available at the hackathon for those that want them. The cost of producing these and making them available has been covered by the IETF LLC, Director of Communications and Operations.</t>
+
+</section>
+<section anchor="online-meeting-consideration" title="Online meeting consideration">
+
+<t>When the IETF meeting has been online only, all costs in this section are eliminated.</t>
+
+</section>
+</section>
+</section>
 <section anchor="timing" title="Timing">
 
 <t>The first IETF Hackathon was held the weekend before the start of the IETF 92 meeting. The rationale was to avoid conflicts yet make it relatively convenient for those attending the IETF meeting to participate in the hackathon as well. Holding the hackathon on the weekend was also viewed as making it more accessible to non IETF meeting attendees, including students and working professionals who would have other commitments during the week. The weekend before was viewed as better than the weekend after such that things learned during the hackathon could be shared and discussed with the rest of the IETF community during working group sessions and the like. This worked well at IETF 92, was repeated at IETF 93, and quickly became an established norm with the IETF meeting being officially extended to include the hackathon at the start.</t>
 
-<section anchor="online-timing" title="Online Timing">
+<section anchor="agenda" title="Agenda">
 
-<t>See Online Only section.</t>
+<t>The IETF Hackathon is a strenuous event. Though not a competition, participants want to make the most of their time together, much as with the IETF meeting in general. Competitive hackathons typically run non-stop for on the order of 40 hours. There is a strict deadline and teams are judged and winners declared at the end. Afterward everyone is wiped out and heads off to briefly celebrate or commiserate, but mainly to recuperate. As the IETF Hackathon serves as the start of the overall IETF meeting, we aim to strike a compromise that provides enjoy time to get valuable work accomplished without exhausting themselves before the main IETF meeting even starts. While some people participate in the hackathon only, the majority of people remain and plan to be actively engaged in the rest of the IETF meeting.</t>
+
+<t>The typical agenda is as follows:</t>
+
+<figure><artwork><![CDATA[
+Saturday before IETF meeting week
+    08:30: Room open for setup by project champions
+    09:00: Room open for all - Pastries and coffee provided
+    09:30: Hackathon kickoff
+    09:45: Form Teams
+    12:30: Lunch provided
+    15:30: Afternoon break - Snacks provided
+    19:00: Dinner provided
+    22:00: Room closes 
+
+Sunday before IETF meeting week
+    08:30: Room opens - Pastries and coffee provided
+    12:30: Lunch provided
+    13:30: Hacking stops, prepare brief presentation of project
+    14:00: Project presentations to other participants
+    15:45: Closing remarks and opportunities for next time
+    16:00: Hackathon ends
+    17:00: Tear down complete 
+]]></artwork></figure>
+
+<t>The time on Saturday morning provides team champions time to setup and participants time to socialize and learn more about projects and team they might want to join. The kickoff presentation and formalities are kept to minimum to leave as much time as possible for team to work together with their team on their projects. The proximity of teams to each other fosters communication and collaboration across teams as well.</t>
+
+<t>Lunch and dinner are provided as a convenience and an incentive to remain at the hackathon. Participants are free to come and go as they like. It is well understood and accepted that there are other things vying for time and that meeting with friends or colleagues outside of the hackathon is an entirely reasonable thing to do.</t>
+
+<t>The room closes Saturday evening to give hotel staff unfettered access to the room and to encourage people to pace and take care of themselves. There are no rules against continuing work on hackathon projects outside of the hackathon room. Similarly, working on projects long before and after the hackathon is allowed and encouraged.</t>
+
+<t>The end of the Hackathon on Sunday is driven by other IETF meeting events. There typically are Newcomer events that start at 16:00. The IETF hackathon typically includes many newcomers in its list of participants. It is important to provide them time to participate in the Newcomer events. The opening reception typically start at 17:00, and we want to make it easy for all Hackathon participants to join that as well.</t>
+
+<t>Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist to facilitate ongoing discussion and work on projects beyond the official end of the hackathon weekend.</t>
 
 </section>
 </section>
@@ -151,16 +243,58 @@ when, and only when, they appear in all capitals, as shown here.</t>
 
 <section anchor="datatracker" title="Datatracker">
 
-<t>Hackathon “Team” in the Datatracker
-The Datatracker now supports the notion of teams that are not a part of the standards development process (e.g. EDU team). This means that we could create rolls in the Datatracker for the Hackathon Chair, Technology Champion, etc. and manage content, work, etc. within the Datatracker. Would you like to explore this?
-* Yes</t>
+<t>The <eref target="https://datatracker.ietf.org/">Datatracker</eref> supports the notion of Teams that are not a part of the standards development process. The Hackathon exists as one such Team. From the Datatracker menu, navigate to “Other”, “Active Teams”, “hackathon”. Here exists a Datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in <eref target="https://github.com/ietf-hackathon">GitHub</eref> to the Datatracker. Now this is done only when required for integration with other IETF tooling. Hackathon meeting requests and agendas are good examples.</t>
 
+</section>
+<section anchor="ietf-website" title="IETF Website">
+
+<t>todo</t>
+
+</section>
+<section anchor="meeting-wiki" title="Meeting Wiki">
+
+<t>todo</t>
+
+</section>
+<section anchor="github" title="GitHub">
+
+<t>todo</t>
+
+</section>
+<section anchor="meetecho" title="Meetecho">
+
+<t>todo</t>
+
+</section>
+<section anchor="webex" title="Webex">
+
+<t>todo</t>
+
+</section>
+<section anchor="gather" title="Gather">
+
+<t>todo</t>
+
+</section>
+<section anchor="network" title="Network">
+
+<t>Access to the IETF network is an important aspect of the Hackathon. The IETF network provides unfettered internet access that is not typical within many residential, corporate, and university environments. For many of IETF participants and projects, access to the internet and each other via the wireless access to the IETF network is sufficient. However, due to the nature of the work done in the IETF, wired access and special networking capabilities are often required.</t>
+
+<t>The NOC has graciously met the needs of the Hackathon since its inception and continues to add more capabilities over time. Champions are able to request in advance wired access and special networking functionality, including static IPv4 and IPv6 addresses, IPv6 only networking, a closed user group, NAT64, and IPv6PD. All of this, and the IETF network in general, is made available by the start of the Hackathon and in advance for setup to the extent possible.</t>
+
+<section anchor="remote-networking" title="Remote Networking">
+
+<t>Online only meetings present not only a personal networking challenge but a computer networking challenge as well. The NOC came to the rescue with remote networking options to join the IETF network while attending the meeting remotely. With a <eref target="https://www.raspberrypi.org/products/raspberry-pi-4-model-b/">Raspberry Pi</eref> 2 or newer, or <eref target="https://mikrotik.com/product/RB931-2nD">MikroTik hAP mini</eref>, the NOC has a recipe that allow teams to be virtually connected to the IETF network with all the previously mentioned options. Best of all, this same remote networking capability can be used by remote and in-person participants of Hackathons at in-person meetings.</t>
+
+</section>
 </section>
 </section>
 <section anchor="statistics-and-metrics" title="Statistics and Metrics">
 
+<t>todo</t>
+
 </section>
-<section anchor="aux-events" title="Aux Events">
+<section anchor="auxiliary-events" title="Auxiliary Events">
 
 <section anchor="hackdemo-happy-hour" title="Hackdemo Happy Hour">
 
@@ -173,12 +307,16 @@ The Datatracker now supports the notion of teams that are not a part of the stan
 <t>Light snacks and non alcoholic beverages are provided, and a cash bar is available to align with the spirit of a happy hour.</t>
 
 </section>
+<section anchor="code-lounge" title="Code Lounge">
+
+<t>Space for groups to gather and continue to collaborate on running code after the hackathon. It is typically in the IETF Lounge and open the same hours as the IETF Lounge.</t>
+
+</section>
 <section anchor="code-sprint" title="Code Sprint">
 
-<t>How can the Hackathon and the Code Sprint work together or potentially be combined (a single two-day event focusing on the development of IETF protocols AND IETF internal tools)? There is some concern that the events currently compete for resources, but I see a lot of synergistic potential and would like to help realize that potential. 
-* I proposed combining for Prague, but Henrik and Robert were very against it.
-* I still think it is a good idea.
-* We had projects creating IETF tools in Hackathon in Dallas and again in Prague</t>
+<t>Some efforts were made to have the Hackathon and the Code Sprint work together or potentially be combined into a single event focusing on the development of IETF protocols and IETF internal tools. There is some concern that the events currently compete for resources. There is also a great deal of synergistic potential. Several Hackathon projects, such as those related to YANG model validation, involve the creation or modification of IETF tools.</t>
+
+<t>The Code Sprint existed long before the Hackathon and has its own identity and way of doing things. The Code Sprint organizers are against combining the events and potentially losing this identity the benefits of a customized event. The practice that exists today is to locate the events physically close to each other to facilitate switching back and forth between the two events.</t>
 
 </section>
 </section>
@@ -319,137 +457,202 @@ The Datatracker now supports the notion of teams that are not a part of the stan
   </back>
 
 <!-- ##markdown-source:
-H4sIADWfnF8AA9VbbY/bRpL+rl/RZyOAZyFpXpyN4wEW2cmMHc+d7fHN2DEW
-xuLQIltSZ0g2l02OrAQG9ofc/bn9JfdUVTfZlJRgg7sPd/5iiWJ313s9VdUz
-m80mrW0Lc64e3XZVZauV0pW6fvH+pXqls3vdrl31aKIXi8Y84B1r2uVsPfyQ
-u6zSJVbnjV62M5Pdm2Lm16Vzs/Grk0y3ZuWa7bmy1dJNJrZuzlXbdL49Ozl5
-fnI20Y3R5+oHU5lGF5ONa+5Xjevqc8XbTe7NFs/yc3VdtaapTDu7oiMnE9/q
-Kv8PXbgKZGyNn9T2XH1qXTZV3jVtY5Yen7YlffjrZKI7kNOcT9RsovDPVv5c
-Xc7VC6Kcnwg/l2vdFMYnz12z0pX9WbfWVfjd+sypu61vTen5d1NqW5wrFkHW
-/TmjF+aZKyeTyjUllj0YnKpuX16enZ4+P4cEIIf+B/ybzWZKL3zb6AxsjVXg
-laky1zV6ZVRuHkzhatN41TqVuaLQC9dAvNBcHn9VXWsL21oD5m1uNMlAl3Vh
-sCCXN70rOmIG26x1CzG7jarpcJvpQll6uTRVq+UdtxSrYHHrJvdzNXm/tl7B
-BDp6D2vdA47ySitvWloQdsMjcKqaYF87nM2F89LmeWEmk8ek4MblXUbn/v+Q
-wy6N2pYgCUr9g7rIH3SVGWxtVK0zObExhZHHe7spOveBCVaLrVo0kBgJjdb7
-2picNxiYhfHguW0sCxzSqMBP12S9eFg1toKEaAs6DFR9T9umAqRNt67Dw9o4
-kg6vYNLopxX0ieWlMp9r50EEfqTnlnzRwAfoo2y+L4zGqGVjDK9pW1MJC0wq
-HoGGZgvfnav3a7Plt8fc4YWqhdoq1+KXsjaIV6SJubqotsMTvGU8TisdMaEb
-aM/WGisVbHTZWJxbbKeB6iDOKDbNSopiPqymymz4oXlwxQO9akMcGlnC/5pL
-PFaXriLO2ejo4CuztJWwTscYhYioKCR69ejNh7v3j6byv3p7w59vX/z7h+vb
-F1f0+e7VxevX/Yf4xt2rmw+v8fskfBpWXt68efPi7ZUsxlO18+jNxV8eiSwf
-3bx7f33z9uL1IxGr9ZOee9IlNLwwIqu6MWQoGvIxPmvsQqzm+8t36vRr9csv
-ITJ++YLP/4Iv354++/rLl8lmbSo5y1UFOOavLdtKXRvd0B66KFSma9vqApaC
-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
-21YnOwAA
+H4sIAPbcnF8AA9VcWY/bSJJ+16/gujGAPZBUrrL7cC0GM+Wr7V3b5XW5uzEw
+BosUmZKyiyI1TLJkzaD/+8YXEXlQknu7sfuw6xereCQz4/ziyJzNZpPe9bW9
+LO59GJrGNavCNMXrFx9fFq9MeWv6ddvcm5jForN39Iyz/XK2TjeqtmzMht6u
+OrPsZ7a8tfXMrzdtOxs/OilNb1dtt78sXLNsJxO37S6Lvht8f/Hw4ZOHFxPT
+WXNZfG8b25l6smu721XXDtvLgoeb3No9Xasui9dNb7vG9rPn+ORk4nvTVP9p
+6rahaeytn2zdZfGpb8tp4duu7+zS06/9Bj/+NpmYgabTXU6K2aSgf67xl8Wz
+efECM+crsp5na9PV1mfX225lGvcP07u2ofvOl21xs/e93Xi+bzfG1ZcFk6Ac
+/lLigXnZbiaTpu029Nqdpa8WH14+uzg/f3JJFCA6xBv0bzabFWbh+86UtKwx
+C3xhm7IdOrOyRWXvbN1ubeeLvi3Ktq7Nou2IvMS5Ktwtht7VrneWFu8qa0AD
+s9nWll6o5Enf1gMWQ8OsTU9kbnfFFh93pakLh4c3tumNPNMuRSqY3Kar/LyY
+fFw7X5AIDHiO3m3v6FO+MIW3PV7Q0egSrbToVL4OVjaXlW9cVdV2MvkKDO7a
+aijx3f8fdDico3EbmhIx9Y/FVXVnmtLS0LbYmlK+2NnayuWj0Qp8944nXCz2
+xaIjioFoeN9vra14gLRYEh667jrHBCdqNLSeoSsjeZg1riEKYQh8jGb1FMPm
+BMSg+3agi1vbgjr8Bk8Nt1bET3p9U9jP29bTJOgmrjvooiUdwE8Z/JgYnS2W
+nbX8Tt/bRpbAU6VLNIduT7o7Lz6u7Z6fHq+OHmh6YlvT9nRns7Vkr8CJeXHV
+7NMVesp6+tqmxSJMR9xzW0NvFiSjy87Rd+v9VGet5AxkM8ykQObTbGrsji/a
+u7a+w6NO7dBIEv7XVOKr4lnbYOUsdPjwc7t0jSwdn7EFWcQCJtEX997+cPPx
+3lT+L95d8+8PL/7jh9cfXjzH75tXV2/exB/hiZtX1z+8ofsT/ZXefHb99u2L
+d8/lZbpaHFx6e/XXe0LLe9fvP76+fnf15p6Q1flJXD14SRxeWKHVtrMQFEP0
+sb7s3EKk5umz98X54+Kf/1TL+Msv9Ptf6I/vzr99/Msvk93aNvKttqlpxfxn
+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
+18+vaYQYF0hyYPJfqR8iflheAAA=
 
 -->
 
