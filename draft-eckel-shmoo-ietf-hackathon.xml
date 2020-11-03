@@ -9,7 +9,7 @@
 <?rfc sortrefs="yes"?>
 <?rfc symrefs="yes"?>
 
-<rfc ipr="trust200902" docName="draft-eckel-shmoo-ietf-hackathon" category="info">
+<rfc ipr="trust200902" docName="draft-eckel-shmoo-ietf-hackathon-00" category="info">
 
   <front>
     <title abbrev="ietf-hackathon">Running an IETF Hackathon</title>
@@ -21,7 +21,7 @@
       </address>
     </author>
 
-    <date year="2020" month="October" day="30"/>
+    <date year="2020" month="November" day="02"/>
 
     <area>General</area>
     <workgroup>shmoo</workgroup>
@@ -66,99 +66,29 @@ document are to be interpreted as described in BCP 14 <xref target="RFC2119"/> <
 when, and only when, they appear in all capitals, as shown here.</t>
 
 </section>
-<section anchor="roles-and-responsibilities" title="Roles and Responsibilities">
-
-<section anchor="hackathon-chairs" title="Hackathon Chair(s)">
-
-<t>The role of a hackathon chair is similar to that of a working group chair. As with working groups, it is typically best to have co-chairs share responsibilities and workload. Key responsibilities include:</t>
-
-<t><list style="symbols">
-  <t>Organize and deliver a hackathon at each IETF meeting, soliciting help from all other roles to do much of the heavy lifting</t>
-  <t>Encourage and provide guidance to champions who volunteer to lead projects</t>
-  <t>Maintain the hackathon wiki (e.g. https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon) and all of its child pages.</t>
-  <t>Moderate hackathon@ietf.org email list</t>
-  <t>Request sessions for hackathon opening and closing at IETF meeting (i.e. https://datatracker.ietf.org/secr/sreq/)</t>
-  <t>Emcee the hackathon, including the opening and closing sessions and announcements in between</t>
-  <t>Create and manage the GitHub repo used for each Hackathon (e.g. <eref target="https://github.com/IETF-Hackathon/ietf108-project-presentations">https://github.com/IETF-Hackathon/ietf108-project-presentations</eref></t>
-  <t>Main point of contact for all Hackathon questions and concerns</t>
-</list></t>
-
-</section>
-<section anchor="secretariat" title="Secretariat">
-
-<t><list style="symbols">
-  <t>Configure and manage Hackathon registration system</t>
-  <t>Maintain web page for Hackathons https://www.ietf.org/how/runningcode/hackathons/</t>
-  <t>Create web page for each Hackathon (e.g. https://www.ietf.org/how/runningcode/hackathons/109-hackathon/)</t>
-  <t>Create wiki page for each Hackathon (e.g. https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon). This is initialized and updated at times by the Secretariat, but the Chair(s) are ultimately responsible for maintaining it.</t>
-  <t>Handle venue logistics for Hackathon, Hackdemo Happy Hour, and Code Lounge (e.g. reserve room, food and beverages, AV, etc.)</t>
-  <t>Internal IETF promotion (e.g. email messages to community)</t>
-  <t>Assist with external outreach, as needed, including finding sponsors</t>
-</list></t>
-
-</section>
-<section anchor="sponsor" title="Sponsor">
-
-<t><list style="symbols">
-  <t>Provide some funding to help offset costs of Hackathon (either per meeting or per year, depending on model)</t>
-  <t>Optionally provide t-shirts or other giveaways</t>
-  <t>Optionally provide support staff to assist with Hackathon</t>
-</list></t>
-
-</section>
-<section anchor="champions-of-projects" title="Champions of Projects">
-
-<t>Champions of projects are the key to a successful Hackathon. Key responsibilities for champions include:</t>
-
-<t><list style="symbols">
-  <t>Volunteer to lead a project at the Hackathon</t>
-  <t>Serve as primary contact for the project</t>
-  <t>Add and manage information on the Hackathon wiki for the project</t>
-  <t>Promote the project to appropriate groups inside IETF and outside as well</t>
-  <t>Welcome and organize members of the team</t>
-  <t>Provide focus, guidance, and leadership for the project</t>
-</list></t>
-
-</section>
-<section anchor="ietf-llc-director-of-communications-and-operations-was-isoc" title="IETF LLC, Director of Communications and Operations (was ISOC)">
-
-<t><list style="symbols">
-  <t>External (outside world) promotion</t>
-  <t>Outreach to local universities</t>
-  <t>Provide photographer</t>
-  <t>Laptop stickers</t>
-</list></t>
-
-</section>
-<section anchor="judges" title="Judges">
-
-<t>The first several hackathon involved judges who listened to summary presentations by teams at the closing of each hackathon and identified winning teams for an arbitrary number of project categories. Prizes were made available to members of winning teams. This was done as an incentive to participate in the Hackathon and present results, and  to provide a fun yet informative end to the Hackathon that could be appreciated by the entire IETF community. Judging and awarding of prizes led to confusion regarding the nature of the Hackathon, making it appear to some overly competitive. Procurement of appropriate prizes was financially and logistically challenging. Arrangement of judges, determination of winners, and awarding of prizes all became more time consuming, especially as the number of projects and participants grew. Ultimately, it was deemed best to eliminate judging, awards, and prizes entirely. Apparently the IETF community has an innate incentive to participate and present results in the Hackathon.</t>
-
-</section>
-</section>
 <section anchor="funding" title="Funding">
 
 <t>The Hackathon requires funding, and that funding increases with the number of participants. Participating has always been free; therefore, funding from other sources than participant fees is required.</t>
 
 <section anchor="sponsorship" title="Sponsorship">
 
-<t>The initial funding model was to have Hackathon sponsors that sign up to sponsor and fund the Hackathon for one year. As part of starting the Hackathon, Cisco volunteered to sponsor and fund the hackathon for its first year (i.e,. three hackathons, one at each IETF meeting during a calendar year). This sponsorship was to rotate. Huawei volunteered to sponsor the second year of the hackathon. After the second year, a sponsor for the 3rd year was not found. However, the hackathon had become a proven success. Consequently, the IETF decided to fund the hackathon as part of the IETF meeting, with hackathon sponsorship being on a best effort basis.</t>
+<t>The initial funding model was to have Hackathon sponsors that sign up to sponsor and fund the Hackathon for one year. As part of starting the Hackathon, Cisco volunteered to sponsor and fund the Hackathon for its first year (i.e,. three Hackathons, one at each IETF meeting during a calendar year). This sponsorship was to rotate. Huawei volunteered to sponsor the second year of the Hackathon. After the second year, a sponsor for the 3rd year was not found. However, the Hackathon had become a proven success. Consequently, the IETF decided to fund the Hackathon as part of the IETF meeting, with Hackathon sponsorship being on a best effort basis.</t>
 
 </section>
 <section anchor="expenses" title="Expenses">
 
-<t>The primary costs associated with the hackathon are for the meeting space and for food and beverage. It is often challenging to separate out the cost of the hackathon.</t>
+<t>The primary costs associated with the Hackathon are for the meeting space and for food and beverage. It is often challenging to separate out the cost of the Hackathon.</t>
 
 <section anchor="space" title="Space">
 
-<t>The space for the hackathon is sometimes included as part of the overall contract. Other times, additional costs are incurred to secure a large enough space earlier than would otherwise have been required. Typically, the space is needed from Friday afternoon for setup until Sunday afternoon. The space is typically repurposed for the IETF Lounge. If the size of the Hackathon continue to increase, it might be necessary to use the same space as is used for the IETF plenary.</t>
+<t>The space for the Hackathon is sometimes included as part of the overall contract. Other times, additional costs are incurred to secure a large enough space earlier than would otherwise have been required. Typically, the space is needed from Friday afternoon for setup until Sunday afternoon. The space is typically repurposed for the IETF Lounge. If the size of the Hackathon continue to increase, it might be necessary to use the same space as is used for the IETF plenary.</t>
 
 </section>
 <section anchor="food-and-beverage" title="Food and Beverage">
 
 <t>Some portion of the food and beverage cost is often included as part of a minimum spend the IETF is obligated to make. When a Hackathon sponsor is identified, the money is typically used to offset food and beverage costs, or to enhance the food and beverage that is made available versus what would have been made available if no sponsor existed.</t>
 
-<t>The minimum food and beverage for the hackathon has been,</t>
+<t>The minimum food and beverage for the Hackathon has been,</t>
 
 <t><list style="symbols">
   <t>coffee, tea, and water Saturday and Sunday morning</t>
@@ -177,30 +107,37 @@ when, and only when, they appear in all capitals, as shown here.</t>
 </section>
 <section anchor="t-shirts" title="T-shirts">
 
-<t>Hackathon t-shirts are an important part of the hackathon. They have been provided for all in-person hackathons and greatly appreciated by most participants. The also serve as great advertising for the IETF, the Hackathon, and sponsors. Cisco or other event sponsors have typically covered the cost of t-shirts. The current model is that the secretariat covers the costs using whatever funding is available.</t>
+<t>Hackathon t-shirts are an important part of the Hackathon. They have been provided for all in-person Hackathons and greatly appreciated by most participants. The also serve as great advertising for the IETF, the Hackathon, and sponsors. Cisco or other event sponsors have typically covered the cost of t-shirts. The current model is that the secretariat covers the costs using whatever funding is available.</t>
 
 <t>TBD: include size and cost info?</t>
 
 </section>
 <section anchor="stickers" title="Stickers">
 
-<t>Laptop stickers are popular with software developers. Stickers have been produced made available at the hackathon for those that want them. The cost of producing these and making them available has been covered by the IETF LLC, Director of Communications and Operations.</t>
+<t>Laptop stickers are popular with software developers. Stickers have been produced made available at the Hackathon for those that want them. The cost of producing these and making them available has been covered by the IETF LLC, Director of Communications and Operations.</t>
 
 </section>
-<section anchor="online-meeting-consideration" title="Online meeting consideration">
+<section anchor="online-only" title="Online only">
 
-<t>When the IETF meeting has been online only, all costs in this section are eliminated.</t>
+<t>When the IETF meeting has been online only, all costs in this section are eliminated. Some potential costs associated with running the Hackathon online an entire week before the rest of the IETF meeting include the following:</t>
+
+<t><list style="symbols">
+  <t>Meetecho: costs associated with Hackathon kickoff and and closing sessions on Monday and Friday.</t>
+  <t>Gather: costs associated with premium service, required to enable more than 50 concurrent users. This has not been necessary, but will almost certainly be if Gather becomes a valuable way for Hackathon participants to meet within and across teams.</t>
+  <t>Webex: IETF Webex accounts are made available to champions for the duration of the Hackathon and some period beyond that encompasses at least the rest of the IETF meeting. These accounts are at present available at no additional cost to the IETF.</t>
+  <t>Network: the IETF network, and remote access to it, need to be available an additional week.</t>
+</list></t>
 
 </section>
 </section>
 </section>
 <section anchor="timing" title="Timing">
 
-<t>The first IETF Hackathon was held the weekend before the start of the IETF 92 meeting. The rationale was to avoid conflicts yet make it relatively convenient for those attending the IETF meeting to participate in the hackathon as well. Holding the hackathon on the weekend was also viewed as making it more accessible to non IETF meeting attendees, including students and working professionals who would have other commitments during the week. The weekend before was viewed as better than the weekend after such that things learned during the hackathon could be shared and discussed with the rest of the IETF community during working group sessions and the like. This worked well at IETF 92, was repeated at IETF 93, and quickly became an established norm with the IETF meeting being officially extended to include the hackathon at the start.</t>
+<t>The first IETF Hackathon was held the weekend before the start of the IETF 92 meeting. The rationale was to avoid conflicts yet make it relatively convenient for those attending the IETF meeting to participate in the Hackathon as well. Holding the Hackathon on the weekend was also viewed as making it more accessible to non IETF meeting attendees, including students and working professionals who would have other commitments during the week. The weekend before was viewed as better than the weekend after such that things learned during the Hackathon could be shared and discussed with the rest of the IETF community during working group sessions and the like. This worked well at IETF 92, was repeated at IETF 93, and quickly became an established norm with the IETF meeting being officially extended to include the Hackathon at the start.</t>
 
 <section anchor="agenda" title="Agenda">
 
-<t>The IETF Hackathon is a strenuous event. Though not a competition, participants want to make the most of their time together, much as with the IETF meeting in general. Competitive hackathons typically run non-stop for on the order of 40 hours. There is a strict deadline and teams are judged and winners declared at the end. Afterward everyone is wiped out and heads off to briefly celebrate or commiserate, but mainly to recuperate. As the IETF Hackathon serves as the start of the overall IETF meeting, we aim to strike a compromise that provides enjoy time to get valuable work accomplished without exhausting themselves before the main IETF meeting even starts. While some people participate in the hackathon only, the majority of people remain and plan to be actively engaged in the rest of the IETF meeting.</t>
+<t>The IETF Hackathon is a strenuous event. Though not a competition, participants want to make the most of their time together, much as with the IETF meeting in general. Competitive Hackathons typically run non-stop for on the order of 40 hours. There is a strict deadline and teams are judged and winners declared at the end. Afterward everyone is wiped out and heads off to briefly celebrate or commiserate, but mainly to recuperate. As the IETF Hackathon serves as the start of the overall IETF meeting, we aim to strike a compromise that provides enjoy time to get valuable work accomplished without exhausting themselves before the main IETF meeting even starts. While some people participate in the Hackathon only, the majority of people remain and plan to be actively engaged in the rest of the IETF meeting.</t>
 
 <t>The typical agenda is as follows:</t>
 
@@ -227,80 +164,20 @@ Sunday before IETF meeting week
 
 <t>The time on Saturday morning provides team champions time to setup and participants time to socialize and learn more about projects and team they might want to join. The kickoff presentation and formalities are kept to minimum to leave as much time as possible for team to work together with their team on their projects. The proximity of teams to each other fosters communication and collaboration across teams as well.</t>
 
-<t>Lunch and dinner are provided as a convenience and an incentive to remain at the hackathon. Participants are free to come and go as they like. It is well understood and accepted that there are other things vying for time and that meeting with friends or colleagues outside of the hackathon is an entirely reasonable thing to do.</t>
+<t>Lunch and dinner are provided as a convenience and an incentive to remain at the Hackathon. Participants are free to come and go as they like. It is well understood and accepted that there are other things vying for time and that meeting with friends or colleagues outside of the Hackathon is an entirely reasonable thing to do.</t>
 
-<t>The room closes Saturday evening to give hotel staff unfettered access to the room and to encourage people to pace and take care of themselves. There are no rules against continuing work on hackathon projects outside of the hackathon room. Similarly, working on projects long before and after the hackathon is allowed and encouraged.</t>
+<t>The room closes Saturday evening to give hotel staff unfettered access to the room and to encourage people to pace and take care of themselves. There are no rules against continuing work on Hackathon projects outside of the Hackathon room. Similarly, working on projects long before and after the Hackathon is allowed and encouraged.</t>
 
-<t>The end of the Hackathon on Sunday is driven by other IETF meeting events. There typically are Newcomer events that start at 16:00. The IETF hackathon typically includes many newcomers in its list of participants. It is important to provide them time to participate in the Newcomer events. The opening reception typically start at 17:00, and we want to make it easy for all Hackathon participants to join that as well.</t>
+<t>The end of the Hackathon on Sunday is driven by other IETF meeting events. There typically are Newcomer events that start at 16:00. The IETF Hackathon typically includes many newcomers in its list of participants. It is important to provide them time to participate in the Newcomer events. The opening reception typically start at 17:00, and we want to make it easy for all Hackathon participants to join that as well.</t>
 
-<t>Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist to facilitate ongoing discussion and work on projects beyond the official end of the hackathon weekend.</t>
-
-</section>
-</section>
-<section anchor="technology" title="Technology">
-
-<t>The IETF Hackathon makes use of the same tooling used by the IETF community for its work and meetings. This includes a combination of the <eref target="https://datatracker.ietf.org/">Datatracker</eref>, <eref target="https://www.ietf.org/how/runningcode/">IETF Website</eref>, the <eref target="https://trac.ietf.org/trac/ietf/meeting/wiki">Meeting Wiki</eref>, <eref target="https://github.com/ietf-hackathon">GitHub</eref>, <eref target="https://www.meetecho.com/">Meetecho</eref>, <eref target="https://ietf.webex.com/webappng/sites/ietf/dashboard?siteurl=ietf">Webex</eref>, and <eref target="https://gather.town/">Gather</eref>.</t>
-
-<section anchor="datatracker" title="Datatracker">
-
-<t>The <eref target="https://datatracker.ietf.org/">Datatracker</eref> supports the notion of Teams that are not a part of the standards development process. The Hackathon exists as one such Team. From the Datatracker menu, navigate to “Other”, “Active Teams”, “hackathon”. Here exists a Datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in <eref target="https://github.com/ietf-hackathon">GitHub</eref> to the Datatracker. Now this is done only when required for integration with other IETF tooling. Hackathon meeting requests and agendas are good examples.</t>
+<t>Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist to facilitate ongoing discussion and work on projects beyond the official end of the Hackathon weekend.</t>
 
 </section>
-<section anchor="ietf-website" title="IETF Website">
-
-<t>todo</t>
-
-</section>
-<section anchor="meeting-wiki" title="Meeting Wiki">
-
-<t>todo</t>
-
-</section>
-<section anchor="github" title="GitHub">
-
-<t>todo</t>
-
-</section>
-<section anchor="meetecho" title="Meetecho">
-
-<t>todo</t>
-
-</section>
-<section anchor="webex" title="Webex">
-
-<t>todo</t>
-
-</section>
-<section anchor="gather" title="Gather">
-
-<t>todo</t>
-
-</section>
-<section anchor="network" title="Network">
-
-<t>Access to the IETF network is an important aspect of the Hackathon. The IETF network provides unfettered internet access that is not typical within many residential, corporate, and university environments. For many of IETF participants and projects, access to the internet and each other via the wireless access to the IETF network is sufficient. However, due to the nature of the work done in the IETF, wired access and special networking capabilities are often required.</t>
-
-<t>The NOC has graciously met the needs of the Hackathon since its inception and continues to add more capabilities over time. Champions are able to request in advance wired access and special networking functionality, including static IPv4 and IPv6 addresses, IPv6 only networking, a closed user group, NAT64, and IPv6PD. All of this, and the IETF network in general, is made available by the start of the Hackathon and in advance for setup to the extent possible.</t>
-
-<section anchor="remote-networking" title="Remote Networking">
-
-<t>Online only meetings present not only a personal networking challenge but a computer networking challenge as well. The NOC came to the rescue with remote networking options to join the IETF network while attending the meeting remotely. With a <eref target="https://www.raspberrypi.org/products/raspberry-pi-4-model-b/">Raspberry Pi</eref> 2 or newer, or <eref target="https://mikrotik.com/product/RB931-2nD">MikroTik hAP mini</eref>, the NOC has a recipe that allow teams to be virtually connected to the IETF network with all the previously mentioned options. Best of all, this same remote networking capability can be used by remote and in-person participants of Hackathons at in-person meetings.</t>
-
-</section>
-</section>
-</section>
-<section anchor="statistics-and-metrics" title="Statistics and Metrics">
-
-<t>todo</t>
-
-</section>
-<section anchor="auxiliary-events" title="Auxiliary Events">
-
 <section anchor="hackdemo-happy-hour" title="Hackdemo Happy Hour">
 
-<t>Hackdemo Happy Hour provides an opportunity for more in depth sharing and discussion than is possible within the time constraints of the result presentation that occur at the end of the hackathon. This opportunity is made available to all teams. As with the results presentation, participation is optional.</t>
+<t>Hackdemo Happy Hour provides an opportunity for more in depth sharing and discussion than is possible within the time constraints of the result presentation that occur at the end of the Hackathon. This opportunity is made available to all teams. As with the results presentation, participation is optional.</t>
 
-<t>Initially, we did something similar as part of Bits and Bites. This worked well for the hackathon but the Bits and Bites event was eventually abandoned for other reasons. Hackademo Happy Hour was created as a low cost, informal event to provide a venue for the IETF community to engage with the Hackathon teams in more in depth discussions related to their projects.</t>
+<t>Initially, we did something similar as part of Bits and Bites. This worked well for the Hackathon but the Bits and Bites event was eventually abandoned for other reasons. Hackdemo Happy Hour was created as a low cost, informal event to provide a venue for the IETF community to engage with the Hackathon teams in more in depth discussions related to their projects.</t>
 
 <t>Hackdemo Happy Hour is typically Monday evening, roughly from 18:00 - 19:30, often overlapping a bit with the last working group session of the day but continuing long enough to allow everyone an opportunity to join. The goal is to make it convenient to attend by not conflicting with other meetings but also no running too late into the night.</t>
 
@@ -309,7 +186,7 @@ Sunday before IETF meeting week
 </section>
 <section anchor="code-lounge" title="Code Lounge">
 
-<t>Space for groups to gather and continue to collaborate on running code after the hackathon. It is typically in the IETF Lounge and open the same hours as the IETF Lounge.</t>
+<t>The Code Lounge provides space for groups to gather and continue to collaborate on running code after the Hackathon. It is typically in the IETF Lounge and open the same hours as the IETF Lounge. Champions are encouraged to look at the final agenda and determine time slots best suited to ensure successful attendance of Code Lounge sessions as well as any traditional working group sessions. It is okay for multiple teams to sign up for the same time slots. This is in fact encouraged for work that spans multiple working groups or projects.</t>
 
 </section>
 <section anchor="code-sprint" title="Code Sprint">
@@ -319,15 +196,17 @@ Sunday before IETF meeting week
 <t>The Code Sprint existed long before the Hackathon and has its own identity and way of doing things. The Code Sprint organizers are against combining the events and potentially losing this identity the benefits of a customized event. The practice that exists today is to locate the events physically close to each other to facilitate switching back and forth between the two events.</t>
 
 </section>
+<section anchor="online-only-1" title="Online Only">
+
+<t>IETF 107 Hackathon was originally scheduled to be the weekend at the start of the IETF meeting in Vancouver. When COVID-19 hit and it became clear the IETF meeting could not occur in person, the Hackathon already had 23 projects and 176 registrations. With only 10 days until the anticipated start of the Hackathon, a survey went out to the Hackathon community, including all project champions and registered participants, to see if they wanted to participate in the Hackathon exactly as planned except with everyone participating remotely rather than in person. A relatively small number of people expressed interest in participating, with even fewer wanting to continue to champion their projects. The fact that the Hackathon was planned for the weekend before the IETF meeting and in the local time zone, both of which were historically very convenient and attractive to Hackathon participants, suddenly became huge obstacles. Consequently, the IETF 107 Hackathon was cancelled.</t>
+
+<t>We knew more in advance that IETF 108 would be an online only meeting. We moved and expanded the schedule to run the entire work week before the rest of the IETF meeting. The Hackathon kickoff was set for Monday, the closing for Friday, with all the time in between left for individual project teams to arrange to meet how and when was most convenient for them. The kickoff and closing sessions were schedule to align with the time frame established for the IETF 108 meeting. All of this was, of course, not ideal, and it worked much better for some people than for others, but at least everyone knew the plan and corresponding time commitment well in advance and had the ability to plan accordingly.</t>
+
+<t>The response was great. We ultimately had 19 projects and almost 300 registrations. It is hard to say how many people actually participated and for how long, but many projects were able to get substantial work done. For the closing, 10 teams produced and shared presentations summarizing their findings and achievements. All presentations as well as the agenda and a recording of the closing session are available via the IETF 108 Hackathon [wiki]((https://trac.ietf.org/trac/ietf/meeting/wiki/108Hackathon).</t>
+
+<t>Hackdemo Happy Hour and the Code Lounge are not applicable for online only Hackathons.</t>
+
 </section>
-<section anchor="online-only" title="Online Only">
-
-<t>IETF 107 Hackathon was originally scheduled to be the weekend at the start of the IETF meeting in Vancouver. When COVID-19 hit and it became clear the IETF meeting could not occur in person, the hackathon already had 23 projects and 176 registrations. With only 10 days until the anticipated start of the hackathon, a survey went out to the hackathon community, including all project champions and registered participants, to see if they wanted to participate in the hackathon exactly as planned except with everyone participating remotely rather than in person. A relatively small number of people expressed interest in participating, with even fewer wanting to continue to champion their projects. The fact that the hackathon was planned for the weekend before the IETF meeting and in the local time zone, both of which were historically very convenient and attractive to hackathon participants, suddenly became huge obstacles. Consequently, the IETF 107 Hackathon was cancelled.</t>
-
-<t>We knew more advance that IETF 108 would be an online only meeting. We moved and expanded the schedule to run the entire work week before the rest of the IETF meeting. The hackathon kickoff was set for Monday, the closing for Friday, with all the time in between left for individual project teams to arrange to meet how and when was most convenient for them. The kickoff and closing sessions were schedule to align with the time frame established for the IETF 108 meeting. All of this was, of course, not ideal, and it worked much better for some people than for others, but at least everyone knew the plan and corresponding time commitment well in advance and had the ability to plan accordingly.</t>
-
-<t>The response was great. We ultimately had 19 projects and almost 300 registrations. It is hard to say how many people actually participated and for how long, but many projects were able to get substantial work done. For the closing, 10 teams produced and shared presentations summarizing their findings and achievements. All presentations as well as the agenda and a recording of the closing session are available via the IETF 108 Hackathon [wiki]((https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon).</t>
-
 </section>
 <section anchor="project-presentations" title="Project Presentations">
 
@@ -342,7 +221,7 @@ Sunday before IETF meeting week
 
 <section anchor="project-pitches" title="Project Pitches">
 
-<t>The project pitches were 5-10 minute presentations by a champion of a project describing what they wanted to do and how they proposed to accomplish it. This gave everyone in the room a better understanding of all the projects and helped participants match themselves with appropriate projects. This was fantastic when we had a small number of projects, but it became unwieldy as the number of projects increased. As knowledge of the hackathon grew and advanced planning became more common, many participants knew exactly which team they planned to join and wanted to get to work as quickly as possible rather than spend a couple hours listening to presentations. Project pitches were dropped from the Hackathon. Champions are encouraged to share this type of information in advance via the Meeting Wiki instead.</t>
+<t>The project pitches were 5-10 minute presentations by a champion of a project describing what they wanted to do and how they proposed to accomplish it. This gave everyone in the room a better understanding of all the projects and helped participants match themselves with appropriate projects. This was fantastic when we had a small number of projects, but it became unwieldy as the number of projects increased. As knowledge of the Hackathon grew and advanced planning became more common, many participants knew exactly which team they planned to join and wanted to get to work as quickly as possible rather than spend a couple hours listening to presentations. Project pitches were dropped from the Hackathon. Champions are encouraged to share this type of information in advance via the Meeting Wiki instead.</t>
 
 </section>
 <section anchor="results-summaries" title="Results Summaries">
@@ -351,9 +230,9 @@ Sunday before IETF meeting week
 
 <t>As with the project pitches, results presentations can become unwieldy as the number of projects increases. The formula used is to limit the total time for all presentations to 2 hours and allocate time slots based on that. Time slots of minutes are typical.</t>
 
-<t>All presentation are uploaded to a GitHub repo created specifically for each IETF Hackathon (e.g., <eref target="https://github.com/IETF-Hackathon/ietf108-project-presentations">https://github.com/IETF-Hackathon/ietf108-project-presentations</eref>.</t>
+<t>All presentation are uploaded to a GitHub repo created specifically for each IETF Hackathon (e.g., <eref target="https://github.com/ietf-hackathon/ietf108-project-presentations">https://github.com/ietf-hackathon/ietf108-project-presentations</eref>.</t>
 
-<t>The contents of this repo are used as the source for all project presentations at the end of the hackathon and remain as a reference after the hackathon. For portability, presentations are requested to be in PDF format.</t>
+<t>The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon. For portability, presentations are requested to be in PDF format.</t>
 
 <t>One must be a member of the IETF-Hackathon GitHub org to upload a new presentation or update/replace an existing presentation.</t>
 
@@ -369,15 +248,168 @@ Sunday before IETF meeting week
 
 <section anchor="presenting-in-person" title="Presenting in person">
 
-<t>Presentations are run from a shared ChromeBook at the front of the hackathon room. This Chromebook is provided by the Secretariat.</t>
+<t>Presentations are run from a shared ChromeBook at the front of the Hackathon room. This Chromebook is provided by the Secretariat.</t>
 
 </section>
 <section anchor="presenting-remotely" title="Presenting Remotely">
 
-<t>Remote presenters are welcome to run their own presentations using the screen sharing functionality in Meetecho. Alternatively, the hackathon chairs can share the presentation and advance slides for the presenter.</t>
+<t>Remote presenters are welcome to run their own presentations using the screen sharing functionality in Meetecho. Alternatively, the Hackathon chairs can share the presentation and advance slides for the presenter.</t>
 
 </section>
 </section>
+</section>
+<section anchor="tooling" title="Tooling">
+
+<t>The IETF Hackathon makes use of the same tooling used by the IETF community for its work and meetings.</t>
+
+<section anchor="datatracker" title="Datatracker">
+
+<t>The <eref target="https://datatracker.ietf.org/">Datatracker</eref> supports the notion of Teams that are not a part of the standards development process. The Hackathon exists as one such Team. From the Datatracker menu, navigate to “Other”, “Active Teams”, “Hackathon”. Here exists a Datatracker space for the Hackathon similar to what is available for working groups, including meeting materials, agendas, etc. Initially, there was some attempt to copy materials hosted in <eref target="https://github.com/ietf-hackathon">GitHub</eref> to the Datatracker. Now this is done only when required for integration with other IETF tooling, including:</t>
+
+<t><list style="symbols">
+  <t>requesting <eref target="https://datatracker.ietf.org/secr/sreq/">sessions</eref> for the Hackathon kickoff and closing, and for Hackdemo Happy Hour</t>
+  <t>posting <eref target="https://datatracker.ietf.org/meeting/agenda/">agendas</eref></t>
+</list></t>
+
+</section>
+<section anchor="ietf-website" title="IETF Website">
+
+<section anchor="hackathon-webpage" title="Hackathon Webpage">
+
+<t>The IETF website includes a dedicated page for the Hackathon <eref target="https://www.ietf.org/how/runningcode/Hackathons/">webpage</eref>. This page contains information about the Hackathon in general as well as links to past, present, and future Hackathons. The relevant links are updated after each IETF meeting. Other content on the page is updated on a more ad hoc basis.</t>
+
+</section>
+<section anchor="meeting-webpage" title="Meeting Webpage">
+
+<t>Each IETF meeting <eref target="https://www.ietf.org/how/meetings/">webpage</eref> contains information about the corresponding Hackathon, including the dates of the Hackathon in the header, a link to the Hackathon webpage in the “Additional Events” section.</t>
+
+</section>
+</section>
+<section anchor="registration" title="Registration">
+
+<t>Registration for the Hackathon is through the IETF <eref target="https://registration.ietf.org">meeting registration</eref> system. Participant registration for the Hackathon is</t>
+
+<t><list style="symbols">
+  <t>independent of participation registration for the meeting</t>
+  <t>free</t>
+  <t>required</t>
+</list></t>
+
+<t>As with meeting registration, registrants for the Hackathon acknowledge the <eref target="https://ietf.org/about/note-well/">Note Well</eref> during the registration process.</t>
+
+<section anchor="attendees-list" title="Attendees List">
+
+<t>An active list of all registered attendees (e.g. https://registration.ietf.org/109/participants/Hackathon/) is maintained by the Secretariat. Important information displayed for each registrants include the set of projects and technologies in which each participant is interested and an email address. This information is optional at the time of registration and may be updated or removed by editing ones registration.</t>
+
+</section>
+<section anchor="caps-on-registrations" title="Caps on Registrations">
+
+<t>Registrations were capped for the first several Hackathons. This was done both for space and costs considerations. The cap was hit multiple times, each time resulting in temporary confusion and frustration among would be registrants, followed by the cap being increased. Currently, there are no caps enforced by the registration system.</t>
+
+</section>
+</section>
+<section anchor="wiki" title="Wiki">
+
+<t>The meeting wiki serves as the primary source of information for each Hackathon.</t>
+
+<section anchor="hackathon" title="Hackathon">
+
+<t>A page within the wiki is created by the Secretariat for each Hackathon and initialized with information that is based largely on the information from the previous Hackathon. Once created, the Hackathon Chairs update and moderate the wiki. Champions are requested and responsible for adding information about projects for which they are a champion.</t>
+
+<t>Anyone can edit the wiki by logging in using their Datatracker login credentials. Credentials can be obtained by <eref target="https://datatracker.ietf.org/accounts/create/">requesting</eref> a new Datatracker account.</t>
+
+</section>
+<section anchor="lost-and-found" title="Lost and Found">
+
+<t>A Lost and Found wiki page (e.g. https://trac.ietf.org/trac/ietf/meeting/wiki/109Hackathon/lost&amp;found) is created by the Chairs for each Hackathon. Participants looking for a team are encouraged to add themselves to the “Skills to Offer” table, providing some information about their skills and interests. This will help others with matching needs and/or interests find them. Champions wanting help on their projects are encouraged to add their teams to the “Skills Needed” table, providing some information about the skills they seek.</t>
+
+</section>
+<section anchor="in-person-only" title="In Person Only">
+
+<t>The following wiki pages are applicable for in-person Hackathons only.</t>
+
+<section anchor="hackdemo-happy-hour-1" title="Hackdemo Happy Hour">
+
+<t>A Hackdemo Happy Hour wiki page (e.g. https://trac.ietf.org/trac/ietf/meeting/wiki/106hackdemo) is created by the Chairs for each Hackathon. Champions are welcome and encouraged to add their project by entering the project name/acronym and a contact name and email address in the table displayed on the page.</t>
+
+</section>
+<section anchor="code-lounge-1" title="Code Lounge">
+
+<t>A Code Lounge wiki page (e.g. https://trac.ietf.org/trac/ietf/meeting/wiki/106codelounge) is created by the Chairs for each Hackathon. Champions are welcome and encouraged to add their project by entering the project name/acronym and a contact name and email address in the table displayed on the page.</t>
+
+</section>
+</section>
+<section anchor="online-only-2" title="Online Only">
+
+<t>The following wiki pages are applicable for online only Hackathons only.</t>
+
+</section>
+<section anchor="team-schedule" title="Team Schedule">
+
+<t>A Team Schedule wiki page (e.g. https://trac.ietf.org/trac/ietf/meeting/wiki/109Hackathon/teamschedule) is created by the Chairs for each online only Hackathon. Online only Hackathons take place globally for an entire week. It is up to individual project teams to determine the preferred dates, times, and ways to meet to work on their project within the context of that week (e.g. Zoom, Webex, Slack). This page is meant to help facilitate coordination of schedules within and across teams.</t>
+
+</section>
+</section>
+<section anchor="mailing-list" title="Mailing List">
+
+<t>The Hackathon mail list, <eref target="https://www.ietf.org/mailman/listinfo/Hackathon">hacakthon@ietf.org</eref>, is used for all email communication and announcement related to the Hackathon. All registrants and given the option to subscribe to the list. Anyone interested in staying up to date on the Hackathon is able to subscribe at any time.</t>
+
+</section>
+<section anchor="github" title="GitHub">
+
+<t>The <eref target="https://github.com/ietf-hackathon">IETFHackathon</eref> is used to share code, presentations, and other artifacts at IETF Hackathons. The Hackathon Chairs are responsible for administering the GitHub org.</t>
+
+<t>Code for Hackathon projects often exist elsewhere, which is perfectly fine. Anyone needing a place to host code for the Hackathon can request the creating of a repository for their project.</t>
+
+<t>A repository is created and maintained by the Chairs for each Hackathon (e.g. https://github.com/ietf-hackathon/ietf109-project-presentations). This repo is for  participants to upload project presentations. The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.</t>
+
+</section>
+<section anchor="meetecho" title="Meetecho">
+
+<t><eref target="https://www.meetecho.com/">Meetecho</eref> is used for the kickoff and closing sessions of the Hackathon. This provides many capabilities, including the following:</t>
+
+<t><list style="symbols">
+  <t>allows participants to join Hackathon sessions in person or remotely</t>
+  <t>validate registration of participants at time of joining Hackathon sessions</t>
+  <t>enable remote presentations of project results</t>
+  <t>capture recording of Hackathon sessions</t>
+</list></t>
+
+</section>
+<section anchor="network" title="Network">
+
+<t>Access to the IETF network is an important aspect of the Hackathon. The IETF network provides unfettered internet access that is not typical within many residential, corporate, and university environments. For many of IETF participants and projects, access to the internet and each other via the wireless access to the IETF network is sufficient. However, due to the nature of the work done in the IETF, wired access and special networking capabilities are often required.</t>
+
+<t>The NOC has graciously met the needs of the Hackathon since its inception and continues to add more capabilities over time. Champions are able to request in advance wired access and special networking functionality, including static IPv4 and IPv6 addresses, IPv6 only networking, a closed user group, NAT64, and IPv6PD. All of this, and the IETF network in general, is made available by the start of the Hackathon and in advance for setup to the extent possible.</t>
+
+<section anchor="remote-networking" title="Remote Networking">
+
+<t>Online only meetings present not only a personal networking challenge but a computer networking challenge as well. The NOC came to the rescue with remote networking options to join the IETF network while attending the meeting remotely. With a <eref target="https://www.raspberrypi.org/products/raspberry-pi-4-model-b/">Raspberry Pi</eref> 2 or newer, or <eref target="https://mikrotik.com/product/RB931-2nD">MikroTik hAP mini</eref>, the NOC has a recipe that allow teams to be virtually connected to the IETF network with all the previously mentioned options. Best of all, this same remote networking capability can be used by remote and in-person participants of Hackathons at in-person meetings.</t>
+
+</section>
+</section>
+<section anchor="online-only-3" title="Online Only">
+
+<t>The following tooling is applicable for online only Hackathons only.</t>
+
+<section anchor="webex" title="Webex">
+
+<t>Webex accounts are applicable for online only Hackathons only.</t>
+
+<t>Champions can request a <eref target="https://ietf.webex.com/webappng/sites/ietf/dashboard?siteurl=ietf">Webex account</eref> they can use to schedule meetings for their team. These are similar to the Webex accounts allocated to working group chairs to be used for virtual interim meetings. An account can be requested by a team champion at any time. Accounts remain active and available throughout the duration of the Hackathon and the associated IETF meeting. A project name may be used in place of “Working Group Name” in the request form.</t>
+
+</section>
+<section anchor="gather" title="Gather">
+
+<t><eref target="https://gather.town/">Gather</eref> is applicable for online only Hackathons. A dedicated area of the space is created by the Secretariat. The area includes tables that are assigned to teams. Seats around the table facilitate group discussions within the team. A whiteboard at each table facilitates sharing of information within the team. The tables also provide a mechanism to collaboration across teams.</t>
+
+</section>
+</section>
+</section>
+<section anchor="statistics-and-metrics" title="Statistics and Metrics">
+
+<t>Metrics have been captured for each Hackathon. Adding these metrics is on the todo list.</t>
+
 <section anchor="ietf-survey-results" title="IETF Survey Results">
 
 <t>https://www.ietf.org/media/documents/survey-planning-possible-online-meetings-responses.pdf</t>
@@ -386,16 +418,109 @@ Sunday before IETF meeting week
 - Hackathon 6.73% 20.20% 40.65% 19.70% 12.72% 3.11</t>
 
 </section>
-</section>
 <section anchor="hackathon-survey-results" title="Hackathon Survey results">
 
-<t>tbd</t>
+<t>todo</t>
 
+<section anchor="online-only-4" title="Online Only">
+
+<t>todo</t>
+
+</section>
+</section>
+</section>
+<section anchor="roles-and-responsibilities" title="Roles and Responsibilities">
+
+<t>TBD. Should this info be in its own section or inline within other sections?
+It is known to be incomplete and a mix of own section and inline at the moment.</t>
+
+<section anchor="hackathon-chairs" title="Hackathon Chair(s)">
+
+<t>The role of a Hackathon chair is similar to that of a working group chair. As with working groups, it is typically best to have co-chairs share responsibilities and workload. The Chairs work very closely with the Secretariat on all responsibilities. Key responsibilities include:</t>
+
+<t><list style="symbols">
+  <t>Organize and deliver a Hackathon at each IETF meeting, soliciting help from all other roles to do much of the heavy lifting</t>
+  <t>Encourage and provide guidance to champions who volunteer to lead projects</t>
+  <t>Maintain the Hackathon wiki (e.g. https://trac.ietf.org/trac/ietf/meeting/wiki/109Hackathon) and all of its child pages.</t>
+  <t>Moderate Hackathon@ietf.org email list</t>
+  <t>Request sessions for Hackathon opening and closing at IETF meeting (i.e. https://datatracker.ietf.org/secr/sreq/)</t>
+  <t>Emcee the Hackathon, including the opening and closing sessions and announcements in between</t>
+  <t>Create and manage the GitHub repo used for each Hackathon (e.g. <eref target="https://github.com/ietf-hackathon/ietf108-project-presentations">https://github.com/ietf-hackathon/ietf108-project-presentations</eref></t>
+  <t>Main point of contact for all Hackathon questions and concerns</t>
+</list></t>
+
+</section>
+<section anchor="secretariat" title="Secretariat">
+
+<t>Key responsibilities include:</t>
+
+<t><list style="symbols">
+  <t>Configure and manage Hackathon registration system</t>
+  <t>Maintain Hackathon <eref target="https://www.ietf.org/how/runningcode/Hackathons/">web page</eref></t>
+  <t>Create and maintain web page for each Hackathon (e.g. https://www.ietf.org/how/runningcode/Hackathons/109-Hackathon/)</t>
+  <t>Create wiki page for each Hackathon (e.g. https://trac.ietf.org/trac/ietf/meeting/wiki/109Hackathon). This is initialized and updated at times by the Secretariat, but the Chair(s) are ultimately responsible for maintaining it.</t>
+  <t>Handle venue logistics for Hackathon, Hackdemo Happy Hour, and Code Lounge (e.g. reserve room, food and beverages, AV, etc.)</t>
+  <t>Internal IETF promotion (e.g. email messages to community)</t>
+  <t>Assist with external outreach, as needed, including finding sponsors</t>
+</list></t>
+
+</section>
+<section anchor="sponsor" title="Sponsor">
+
+<t>Key responsibilities include:</t>
+
+<t><list style="symbols">
+  <t>Provide some funding to help offset costs of Hackathon (either per meeting or per year, depending on model)</t>
+  <t>Optionally provide t-shirts or other giveaways</t>
+  <t>Optionally provide support staff to assist with Hackathon</t>
+</list></t>
+
+</section>
+<section anchor="champions-of-projects" title="Champions of Projects">
+
+<t>Champions of projects are the key to a successful Hackathon. Key responsibilities for champions include:</t>
+
+<t><list style="symbols">
+  <t>Volunteer to lead a project at the Hackathon</t>
+  <t>Serve as primary contact for the project</t>
+  <t>Add and manage information on the Hackathon wiki for the project</t>
+  <t>Promote the project to appropriate groups inside IETF and outside as well</t>
+  <t>Welcome and organize members of the team</t>
+  <t>Provide focus, guidance, and leadership for the project</t>
+</list></t>
+
+</section>
+<section anchor="ietf-llc-director-of-communications-and-operations-was-isoc" title="IETF LLC, Director of Communications and Operations (was ISOC)">
+
+<t>Key responsibilities include:</t>
+
+<t><list style="symbols">
+  <t>External (outside world) promotion</t>
+  <t>Outreach to local universities</t>
+  <t>Provide photographer</t>
+  <t>Laptop stickers</t>
+</list></t>
+
+</section>
+<section anchor="judges" title="Judges">
+
+<t>The first several Hackathon involved judges who listened to summary presentations by teams at the closing of each Hackathon and identified winning teams for an arbitrary number of project categories. Prizes were made available to members of winning teams. This was done as an incentive to participate in the Hackathon and present results, and  to provide a fun yet informative end to the Hackathon that could be appreciated by the entire IETF community. Judging and awarding of prizes led to confusion regarding the nature of the Hackathon, making it appear to some overly competitive. Procurement of appropriate prizes was financially and logistically challenging. Arrangement of judges, determination of winners, and awarding of prizes all became more time consuming, especially as the number of projects and participants grew. Ultimately, it was deemed best to eliminate judging, awards, and prizes entirely. Apparently the IETF community has an innate incentive to participate and present results in the Hackathon.</t>
+
+</section>
 </section>
 <section anchor="security-considerations" title="Security Considerations">
 
-<t>Participant email addresses.</t>
+<t>None.</t>
 
+<section anchor="private-considerations" title="Private Considerations">
+
+<t>Participant email addresses are displayed publicly. Registrants optionally include these are part of their registrations.</t>
+
+<t>The email addresses of individual champions are often shared publicly by the champions on the wiki.</t>
+
+<t>The email addresses of the Chairs are shared publicly by the Chairs on the wiki and via GitHub. It would probably be better to use an email alias.</t>
+
+</section>
 </section>
 <section anchor="iana-considerations" title="IANA Considerations">
 
@@ -457,202 +582,253 @@ Sunday before IETF meeting week
   </back>
 
 <!-- ##markdown-source:
-H4sIAPbcnF8AA9VcWY/bSJJ+16/gujGAPZBUrrL7cC0GM+Wr7V3b5XW5uzEw
-BosUmZKyiyI1TLJkzaD/+8YXEXlQknu7sfuw6xereCQz4/ziyJzNZpPe9bW9
-LO59GJrGNavCNMXrFx9fFq9MeWv6ddvcm5jForN39Iyz/XK2TjeqtmzMht6u
-OrPsZ7a8tfXMrzdtOxs/OilNb1dtt78sXLNsJxO37S6Lvht8f/Hw4ZOHFxPT
-WXNZfG8b25l6smu721XXDtvLgoeb3No9Xasui9dNb7vG9rPn+ORk4nvTVP9p
-6rahaeytn2zdZfGpb8tp4duu7+zS06/9Bj/+NpmYgabTXU6K2aSgf67xl8Wz
-efECM+crsp5na9PV1mfX225lGvcP07u2ofvOl21xs/e93Xi+bzfG1ZcFk6Ac
-/lLigXnZbiaTpu029Nqdpa8WH14+uzg/f3JJFCA6xBv0bzabFWbh+86UtKwx
-C3xhm7IdOrOyRWXvbN1ubeeLvi3Ktq7Nou2IvMS5Ktwtht7VrneWFu8qa0AD
-s9nWll6o5Enf1gMWQ8OsTU9kbnfFFh93pakLh4c3tumNPNMuRSqY3Kar/LyY
-fFw7X5AIDHiO3m3v6FO+MIW3PV7Q0egSrbToVL4OVjaXlW9cVdV2MvkKDO7a
-aijx3f8fdDico3EbmhIx9Y/FVXVnmtLS0LbYmlK+2NnayuWj0Qp8944nXCz2
-xaIjioFoeN9vra14gLRYEh667jrHBCdqNLSeoSsjeZg1riEKYQh8jGb1FMPm
-BMSg+3agi1vbgjr8Bk8Nt1bET3p9U9jP29bTJOgmrjvooiUdwE8Z/JgYnS2W
-nbX8Tt/bRpbAU6VLNIduT7o7Lz6u7Z6fHq+OHmh6YlvT9nRns7Vkr8CJeXHV
-7NMVesp6+tqmxSJMR9xzW0NvFiSjy87Rd+v9VGet5AxkM8ykQObTbGrsji/a
-u7a+w6NO7dBIEv7XVOKr4lnbYOUsdPjwc7t0jSwdn7EFWcQCJtEX997+cPPx
-3lT+L95d8+8PL/7jh9cfXjzH75tXV2/exB/hiZtX1z+8ofsT/ZXefHb99u2L
-d8/lZbpaHFx6e/XXe0LLe9fvP76+fnf15p6Q1flJXD14SRxeWKHVtrMQFEP0
-sb7s3EKk5umz98X54+Kf/1TL+Msv9Ptf6I/vzr99/Msvk93aNvKttqlpxfxn
-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
-18+vaYQYF0hyYPJfqR8iflheAAA=
+H4sIAPmkoF8AA9196Y8bSbLfd/4VZS3WkBZstlpz7bTxsK+nJc3I1mW1dgbP
+wsJIspJkTher+OpoiruY/93xi4i8qtiSxvsAH/oidh15RMZ91dnZ2ax3fWUv
+iwfvhrp29aYwdfHi2fvnxU9mdWv6bVM/mJnlsrV39Iyz/fpsG2+Uzao2O3q7
+bM26P7OrW1udddtd05zlj549fjxbmd5umvZ4Wbh63cxmbt9eFn07dP2Tx4+/
+f/xkZlprLosfbW1bU80OTXu7aZthf1nwiLNbe6Rr5WXxou5tW9v+7Clmnc26
+3tTl/zRVU9NKjrab7d1l8aFvVvOia9q+teuOfh13+PG32cwMtKL2claczQr6
+5+rusrheFM+weL4iW7remrayXXK9aTemdn83vWtquu+6VVPcHLve7jq+b3fG
+VZcFQ2E1/OsKDyxWzW42q5t2R6/dWZq1ePf8+snFxfeXBAGCQ7hB/87Ozgqz
+7PrWrGhb+Sl0ha1XzdCajS1Ke2erZm/bruibYtVUlVk2LYGXDq/0d4uhd5Xr
+naXNu9IawMDs9pWlF0p5smuqAZuhYbamJzA3h2KPyd3KVIXDwztb90aeadaC
+GAxu05bdopi937quICwY8By929zRVF1his72eEFHo0u006JVFBvtbCE737my
+rOxs9gcccNuUwwrz/r8Bh/EajdvRkuhQ/1RclXemXlka2hZ7s5IZW1tZuTwZ
+rcC8d7zgYnksli1BDEDD+93e2pIHiJsl5KHrrnUMcIJGTfsZ2lUADx+NqwlC
+GAKT0ap+wLApADHosRno4t42gA6/wUvDrQ2dJ72+K+zHfdPRIugmrjvQoiUa
+wE8ZfAqM1hbr1lp+p+9tLVvgpdIlWkN7JNpdFO+39shP57ujB+qejq1uerqz
+21tiWTiJRXFVH+MVesp2NNuuwSZMS6fn9obeLAhH162jeavjXFet4PRgM3xI
+Hsynj6m2B75o75rqDo865UMZJvyHkcQfiuumxs4Z6TDxU7t2tWwd09iCOGIB
+ltgVD1799eb9g7n8X7x+w7/fPfvvf33x7tlT/L756erly/DDP3Hz05u/vqT7
+M/0V37x+8+rVs9dP5WW6Wowuvbr6twcCywdv3r5/8eb11csHAlbXzcLucZZ0
+wksrsNq3FohiCD62W7VuKVjzw/Xb4uLr4h//UM7422/0+z/RH3+++O7r336b
+Hba2lrmauqId858948p+b02LMUxVFSuzd72pCFNoBhBxXWwJOQmWBMznQ10S
+oAVwAdB0wv8+uBaHIfdlHmYDeoVGX5Fg6uiZg+u3jCD1sFvalk8zwbNF8db/
+1ePFLS3DVAdzJEK2hOuggf+C90kQNa2dhxnWbbMrGtxQ0mVGVKeDF2trGZF1
+wSUw5A/FzZ6QoWm7rdvLzhhBiGn5oXfE46riYJhDbs1duvdOX1au5zZ1Mezx
+nN5gUGAg3nN8D3hL9Eqi1rREgx2vE8AgOmh7T0Th+bmKSiKbgbCAdl9+4SSO
+aHft2q7nqYqHbmHnC3oOvCTSypwXQzuwZrUVQtpZy+soB2ZzhlCjsiBRHugR
+OA2BsovA8xBqG+LyxIl+GszBuvuWzLzDrhqwTCyMtp4tnoCyJnQfPzcHE9Ah
+1jrMV62OgQWAwa2JB5e0gOYAvjgfQWVrSsIlYnm0YeYt4PbDijCGsI/4RUfY
+QYQHPueZPdHaijgQb+AEnE08vvCGgm8uCD9FGABsaQFZDEA/6YTsmrbUF0vT
+OWaDhJzPPhKHJ7oRzNy3bmda8OuOjtV0XbNyBuwgUFWyKEgMhZA/yy5w5TXD
+rxEpsgSYSBlYFC960EdDkK+L1ZYYglXBSQdnaY/QC5qBxRgv4sSxYdkgKppJ
+Fi2T+qXEBQJ76BB6twNV1qtqKIWxpbBssDLwpaZmlW5RvGEa57cIGcqSmbmp
+PExa0O9qaD26WfqNg65MS9qOrZths9UlEcpUjlGM+MShGapSGMjBdVbonFlO
+4BbF++Me2ozHDBmFtlGTRkHTMQt63rrSEFcF8taNEiGJLeIKRAauKm4If9IH
+WGTHsXo/B827H1pRFDzwGLNeQsPAWQmEOvd3OzkGhperBxYdnvmS7taThrjZ
+9pAmtQXGA5vokaET5Yq0Or8Ww6xymExPek1Nby3knJ97HPpBcYjO/waktSdM
+poPxK5vgmqBPQLZT529osbXbDTvobEp0vAS8tazchlGfVr8ztwSPX0im0TsT
+UsPjRLwEj7WzpRwd6Tck+jJwD6qRNes1tIzTCwajbFnhqrdBI50+ysKARt8Z
+aMd3ZNKYJamDdLcbSATiruBbxLLRo450pcgs7UcH9VBUIxvAMp14SmUQoJhg
+Dj16RZuzhAe9NSKkDwY89sb0Q8tISZcUP3dNC6WKXiL2TTLhxDOz2VUkPwcT
+bg41gpQpkeuk9BMSAEzzeL7QPKJa0KVblkd4obTiZFlQXmUt9FZ9+o4gPCyM
+ivR9a27XhvDr1Kr/lBBnVxOgutObA3q/J0vctT2x3wjRXq8xryHO4bfZZ4wr
+4YiskseTVnVWyAq8zdVnMB9o6FThh8FA+yA5BBWttcrplziarh8pTcAK0trA
+79o7pl1+Fzq5pec61pASKp6P1Qs24VQ0LVTZgIrCzJaNh6jq8FYi4azAo22Z
+ywSFkayM2TGNIIqUU2VJJTvps6alvck4XRgGvAfLBrUAvU8iDXGh9z88vfS4
+I8xQbDtwl3rd/EXlEQHrloafzV6afU8WbacX+BT3zX6ooEBAjHbEkQ64Gi27
+RXg/P0eyr2njI9LVreVqGP3olC8cgCqwAxU4CjIZTjW/TnZBjE0v7JIJPEkH
+yBNOROnw8npePCV5teobpsLrZrcbajqraAS9oT3Jn8rF39QV0Q6bBrMZ89Gx
+HhMnbeKzczEZ+LDUbsGJMt8HAG3liFUZ5lwqFHrw4SitRxqMt+Ry+OmMRGp4
+mcY9WHtLi4EBwI/CeD6lfAW0EC5dVc2BrrJH4RU9YVfb5vKelcTZb+ngiW0y
+4BizqobxkpSyTnwZdfGqqT33EPm/oCl+NCCe+yYgit45iDYiWAcO6dUMkS58
+0DvZIG38m8dgcJ6OSFS1nSrgW9V5+WyCTJ8XS9LSDo6Ox1TML1bEB4yD7bdk
+6SKrU0UYpvWdqQaelYwtRtkIgswRAHlLwONdwGgEWFZt03WQKrsOO//FLu3H
+SzkK/k1PrEhrUZ45ohe4nbZmt2dgeiZFVodJ9YdEr2VnE5DJtq6B7Ds23tyE
+W2u3J1BjR31RWciAT2EIkyCILV2fgcuBrsL4TqmaBPJI3ywShxA2/tr2cLle
+xnlquTJXV8iu6XkyOFmgmfVzVh7VwE9mq9OpgO/szXgPelL7W4y63OfBFtDW
+VsKM8Zpl7SBQCluXGSC+f5LBohCwG8YDXqO5axz4ab2u3IogdKSzh8IFZbK1
+FbuXWArA0eIAtMjvxFPlKTojTRo5oFVvvTcps6kOtqpgxVXlKZ6QbfHAbgKS
+f3fOHkSLVN4JlRe7F6A7Rbi6qfPlyEotOziZaTCJ9wP0RmGaOEZcJD69FtKn
+CUk6NakqJ/KSkHDn+h2/quazX6wAeXQyWH1c+NL2vbdK0j2y1gJLdevlJw3c
+Acnbmt5MJkrNACyNUKvbmlbdniUJ96HrUqtxQh4rERr90Q/rd8/RhMj7jKrl
+lbu1ypDwJMa24D29R7I5b5JMGsssMNz4SiiDWN/qlnnTChYIWD2hKun43Zae
+hus/LjY7NzWh12tCJNZG7Ec+yFINn8D+E8zqIymIB+hqA8eGKtcjinLsduyJ
+7w4N6e6sCmGnbEeC8ZrUnzrPeaWIejFQ1O4IgHZixNLtjQXWzIsdjtZ09+yU
+KGQjYR14KYK/NtUZE9txqIHjZx1UHfE1iTntdfOvHxe0BZEitrVhm0TipPeY
+UiVuKUyd2eKvQ7lRFDqwGg4X5KoSvBKYWrhd2G9DClQZvNIY/eD29Bx8Bxhg
+S1PA9Fsz52udXYOF2MouxcWgNNRBT7EizHYiveBgIpueNRjLnrN+emisBUPm
+TpmedyiMnDRWww0Mg1urp0oGvfNqW/BC2/rX5ujPjp36UXQS7rMs2e0VdXGW
+2LT9uDVD5x17u85WWGDCmbG9/MAtO6aw9g7GraPxVe5xbOGT3FO0Mxn316YF
+IUPFlDdby5PhHPaVqb3wWSknt/XGbGxw8N8rOoVcFOcKIzTkGOqia3WkaSGm
+F6wr3W62S3A3fgr/Hv/58qvHl8W7Br5chDai84R0XDqBX0m7jNpCfO/7y8eT
+93DKZ8VbgxO1nVoFsH+DBZa+j3knSl/6wNffXBbPwYjegyLCnYsn/OpLNpIn
+A198w3evgsHJpikt60YMz+kLspOnYudObj95EjcKRZT2pTAWq/13Q7j7UhB9
+Zp9fBQCK4Gz2JElJi9qDczCBe50qqHV6nHGMr3lvb/WU08dZERHZmvLXFMw4
+nmtVzYHg7W2nETJY55BlTsNFNYkIJt/4+rc8czx+QuVk8O/47nt4mEsERJi8
+yXxQgcGcgF4KaK6uk8gxwEMTHdezDkFsJsNMwfa3YS9U3qBlMa+qzBIcRcHX
+BS4t4Rzx73nB82vj1MHozZjsFNQTvDMS3GU2f2v3IrPUyUQ/aW5xKrCE4vXB
+TdeoPsX6Hi+gEQ7oRVqQZE4fECnk2rB4WRv99ZE0W2FSInBgBCEUIYe+JrEJ
+ebNKbdlxDBdXEkMkaJBk8jPSiu7DdMU2v3fDQHWM6qv6xw27JGFv3lmROcIz
+R7Z9Eq7y1oOP0kqAAV6cRgXRUdUkcbKzgkRUS/vqvR8PSuqenZrqIMFpt16t
+VIXv7hi8OU6n4McDvQPoEqvtRJJWdICbgc6X8KajPU+NKrBtb16z69l0jdig
+PCn2UzbK8duE+YwdcSwRAbItGToVpBeh3FCvWaW1ZWL69H4kXn+TZCSolGID
+QU+jh/60YkisE/nplRfcIOOsHZBrYjZ0UDB4xQPuldcida9F4rkXIljborgh
+tCQNB8LUa8Dp21XDKijzXBNU9CloIQ1VdQr7DN5c6PaT6cFPhKUjEt4iMA8R
+KIgwURP6AIqoAgIor+0BaKgePB+kZHWIfjDbEwoc6U9xFFWhYU7VR4TveTx2
+9yCySFpOPw3hCoJHvyiOUqhNXFmew51QYUYrltVBUAlfB3m4bIFxN2DT6tW2
+uebtENfsjkEruN+zAX4pUIrcA0+XZLnTa/v9kezRoS0etnb9KFg/10iCkbCM
+3mGHPUcLzQqZM6zU1puGA6pif3kO5pEzIFVwaNhg15zGETUMxYY5scrTS4/Z
+FHUiHAU4LF4IAiWBecs2o2Szlemi2TB1Cf9XT1DvZSFRHvKvHGCqiyahM1S5
+TBcwN6sVrSmaDyfd54j3JCudBlbgpqBzFQcUbILUsqWJu2zmxEjjhfDw4vUA
+Tb6Q8D/TvKWNi7tJ+GAn/CCNUv3gVAbTD9udMIKnMZmlRlDzV9XNDjuZfw1C
+xkt6oKk1XCD0L+yZ5jp1vngf8b7eizbiPeysmheaK1fpTAlZmoKuDDaP9EUn
+APNnWAWnAs0ibV09wp6IMZ34icQmH8v/00iaRebUu6oiZk6smWxvus7x1os/
+E9mTEnsBFX6u0UQYeRWNJokLS9fHdVdwCZ70ZnjUYz16yAQI83mNHQuuEUyD
+dTsipEzt2jRGIh6RFSWespjMRbxdUrPEzRbkuBy48vqO18V+LhZ36ixvSEMT
+FqpytYYOCNC+ZGVQg1xANPi9TLVqtg3NEsKGXaYQCQ9Fvke3LZamzaN0vH2k
+uQSIJhlgxZaPEJ4F4UoJZxRhl7LKwIlihgAfCENrI/5p0fFiLDtNUISUVhhI
+GuJU+npZlAq0cSQ9SaTzEXB2jXj3QRZ0vw5aPAc4gjBnNblpbj0rW7s6GsWS
+SUmL28Grwjyyqxpm9YSM3eB67/bvkKygySjroVLs8NlzKfCiC05VSdA6iWhi
+vNFvfNJpF7I8btXRvyMO6Vjl8qq3z2Py7ICBEtetTM4x1ZOE61NA4B2xAljZ
+INHaxRmyFbF2GjhBxJebPYmd3icSSFIMNulDBz4LaxoXCMJYh8itEczmA1AS
+ByEOt3Q1+zqA1wWsx0qTJWkjK4lAqu8sTQX1Gae0+r4hnBTqkuQEzmgk6BNd
+Vql/jZ03iOLQ7RgBVc1MQzuVz8UUciChJblsqZsO5G80vltamghZY0cyazYO
+Qc24R1JfmcCrE4rvXBzJjOLw1Ccc+t+uXv+oodo7IvVSZaarkbMpUGf5wiwT
+OkPp1t4k83CRvSckrweiiQyZ4jw9RsS0IBphbEvmRn/UdAU2EctG/GhgicJm
+0zk0xdzHdqM9gLP2LnIFOxvfCU6oA4EjmWFmPL+0tV07UWiINQ5ks+1ojjI6
+hG3IStVYFLYKalIlnhkE8vfT+ffbY+fD6BVHiDO7N1cgO2K5K1ZDlgQub7wT
+F17a/mCVf/WHJujOTFIa233DsV0+nIvH341CRk3rNmBY0KdXW1uSIeVjUlkE
+IvGc3xNvLX42YAWEdpqQc/3m5xdPzy6+L7ZOXL+u917+FXwa00EkZgFpKMoh
+DSrpEeNEPlMRGpZHTuh78lXuELn47lvCaVCEj3QXv7A8hQ/54jGEfKcJWRiU
+9H81RMp8e2mKBJFMe4d0YeYAQ4j+peEW1ZjSKBI004nrUuOBWCAbxqkhMhfn
+EIdp2W0AY0YO5JNOX/uR8A8qY8d+XfA1+xEWk8jqoK/sswxbCUrC6DfqZWDf
+h8KctOk0ytftsJskdVdsdfsR+nVnYy47j5DOMw+LIJFhD3AOAejiMsgkvILo
+pKeIhU3gnTkS+z17oXUi/JmH/GISOwizEgH3d4LQvFg2wJV1cdg6IkYWPcQS
+eqITIVaAMlXkWGPqOUNRHUanbUyw3ZL4Sgx1bQcS5s2SkI7I4f4E1CnNrqAV
+VBVnMf9ii1uk1nsN3IR6CR9ou3j8Z41TLkVhjVkcMf77CwJUd95R8ZFWXGpe
+j+cK7AobarXWJBkDMvZLMzLkFKfJFdiQZN21qu7L3n2yBa5LZoXiEZt73uCk
+HXsWWNm1jOLq0pF2SUZUIL6g3pi2NdChfCoDalVYvIBhYSmSMTGOaPuMnTQj
+ZJINwriSgmukLfOC1y2OPg1xZoYXDisA7KqqBJIwK1F5Q39A2UI+J5gk6nGq
+uWetaniyo1YDyRxDSQJHTODBmOwkuhayJQKXYITCkjhGJHo46SjIApN4vJj6
+PtItSmiCeyLIBX3MEjKMTSMZbUVjYZTq6J2KPHAnsXDWbRgdoTfuDLMnjEVi
+JOPymtvyFVmAI2YvKu4WUUgwU3PkQ2YnloKBSFUs7ISnliE3Gk9DSfGxx/oY
+Z+Yj9sYQ4n/dAPqVxCYmh5JLcZ7rmSqOzCF3BAdD6hgns0hoPo93dMNuZ1r3
+d9VXiBGuHcNdN056AJ3UTuT8FUuY9PXEKGD4RzvEwIsmwPcEOsJh0Zpi0qoz
+OWZG6v1wcLfubw8fbvt+312en4P/LVC0uCAdjP86x1/nisvnePychggjPLrH
+vXbKsSZO3h7JkGS7Gh94SBlZUvsD3SeEkt6msJnNTkeYJtmcO0uiqHbdjudZ
+mX2vqRBbXyfBMY0s3OvPMyiReSw/6Ae0b48dksdDIjErxzhYIR7S5ljWlNDt
+azCx4952Ej5LVj+fzS4W2T7V/EIgXJKq/aahQ0p61ESXCwuYPckH855jRUrb
+Bb/aJz13rH+GQ5CJfSFDvhomqW/OiEDIRB56Ozqb5RFKt1cMWAX3I2gVVDiY
+kcJUSokdyJnv0Gux9i6cHHFOtWk3RorlNG+hTuIUnp9qzMbUnoa8LMpY09ZW
++5FeR2yk5+SdEP8XUbbHopACazNtR/g9qTwEBjbsRDwJYpipKhYsO3CsqGUP
+9cHZqjx6XjB9IxQIlOw7va2bA6kVmxNBEWLMIimVyUsCQS2JODwbayBAc2jM
+wjZTCLBQ8XqqKFcxdOkVOO+HF4vPnyRXT2qAkbbiM4bSQGSqwUrJAAJ7A7i9
+eHQQrghxqgzFFjHunKJkSSez96UdI+z+lCuIebpwABAsZ8P7QuWmTsWkZ6+v
+VCv9hXgk6qkJLOrZf6ekdiPUNyGhCReTcHvnHwf1RHbFSq2ksxDIFPII/8u6
+YeLPE0pSQaNOwa3bbCv4FJUh+AQr0lzhkPa5aHNU2pVspILMkszXzP0zPxHB
+FadnUoDrWabPT9ASv1DpmxaUd6wzsIMkrDRRBCVbj12dmQXk6iBiT6RUNtn1
+4DlP7HJ52SUF13mpcML2fbjbP8f+h1FehGet8QCzAMVzdjSzTjQH9yN8terZ
+JniDHR2kBJqHBrOeiz6rqkfUdsCg01jJiCnPTwZP2PDw9XO/g7d4A45oYKiM
+VNuoVwShf9GNm96bYT5UN8kCeeKds6z+eY9K4lIFHytU/i2QMevv0KpEuAiV
+qEuYaGysPvFt4hqN0TxCU/zo+p+GJfIXmxBcIQ6zYs8XlEisN9ZORux5aBeb
+xbz44FWkDQF7WKKjwXne3YH/JN3oTCF3lu38bw//yQEeqZ4NS9uGwBzXwu6F
+JvhEfMac0F48hJOs5n7R77OdOWWiY51zTeyUzYJTTvrn7JoltUvshPkJpob0
+eKmR98XQxdunzyV7BWmcb0hc74aOS9sM6W4eET0RnsXF6WES5+DSNz5oegei
+KadFkvX7ks76nIBUSS6CuPUkuyc+CuBKEl0ZMkpkCWErwR3Z3fIeUISQ5qei
+YQY4tQpFX8UPYVxHDqVLRw6yqywNoZUC0BPhG8GBDfQo3FmyiYdPnl89ogc7
+nNMRyrWOgSICmVVZFckz1z7sHkFBPrlkKFOMM3LyrtUKytRWlsLBdLgk9sK5
+ktBml0N3nGRnjs4cWpEBH9IaFV2UMmzxToWlpogy1CKujbesrrf0p/0hjc60
+TT3VejXngzUveWeJd1xM0/OVNjexbGm6unfeoTabyc8xCpBlxtwz+lIIlDjm
+HAJDF1pW0GyQiGpYrId6JdKAo+F1KGaBJcjBB/HWjf2lK5yI8G+vn9hikg/m
+FZOu4ticd0yEPUghQtNUoRJhxPIQ5+TCUQ9giR7JG8Jm0oKlGGX25eqi4qH8
+ScOeogc9NbRKsilvbSvzfkiuRAZZxovRFn1E0pRDtCqnGi9s34tPiDM+vIGZ
+1fFFTSON/xBCSL147s5Snz886rWVCAsmIAbn9cdkybS9epgTCd5xJSvQ4QEX
+N6M3xJU4Enl5+Dt2EloUP0Ez9VNlI95Xau3TFqA/a2lqNPB9wC5VzKL32ntL
+4YUhfOfOEOxNoB+2Xy2KJF2i5xgV+/I4+Y3MpZ0kE64aMu3DECTCfbeTD8KN
+vkC+PfJ8KtnwonjNhp0EI+F1ie0tYkGVuAN7u8l0zD5kUilqJrvmEjGVONj8
+B+/e+wyaoZzxvKMXCeGmp3DCbzgPDqdT+Tt/gmkjC1CYf2Z+72iRp88fMd34
+MqyOFEVhVnFJdHlvfGyeHzzIgzHxyxDil5AmbM2erDH+cJBh4uoOh0NcFRnf
+5xqoR5z+PPo5zn0bib0UWNcoUesyU0mSXfP5YilE6uiiM7ztJEiCZBdlWArh
+oUdkPXUQideRe9P0+q7ofaU4AllPmbTD8P0HVI/ysWFeP8rl9W3u6SDJunA+
+rNKeDn+Itp6H/rNJ140vAKnnjoRrn4Fc7rhNQlqRzDnAbXrbTaWiOkFQsmG5
+/waANY196YL94w+S2vBnHI984GtDuZkM7NrosYWojH+dbhbRb1tJwPGo+sED
+K/X9RoClVwPkSBBwt7EscTcb4PTkoq6VFl4FTQDIk8hODqELpHeRFaw8BTwp
+Gl6n9jAPf0FTn66HfgQfDe58eA0t4xeig7j7gCqMBuck2OwZKIWwJakUy1Yd
+hJpg6ZUviSte0jO04lprRELWJ2yDJIYZaujE6ik+eRDnF4+/P099Q5Et0BI5
+xc8xUp/WuooXwU+b4nzpOtLUj8r0mXpTUKYKd2gllaXRr7Z1UzUbtrprVcZ5
+mLSPECe+hJ5dmi7OnetgALSqGLicHBMj3quhUjmwzk9B6r45PSVwk5ajtHcC
+Cgu64rQU9sMmsJ3JwV2bPVclpyTV5RSm7q2VEe9W5oruxkkjqTeSZSxHRzms
+FDK0pcgZmZ+kNYYoDFucRjoDIf4fM42kfYu4pQAFcTV4b4zF4Uqjm3o9hFTZ
+NRodejBxi7IQ0kxOea7lRxFxsAQpFEw8ndc+48brLZpFvgL0LA5uFUfITkg5
+CDMxuOu0KUdIv791owI037ZHzeqRMzBg6qSJTvTHz65ExCSptjyPi7meUyI5
+MbIGvVlj4/QV5kHpanzrEvGjcNccUqhUzGXL9iotCdo7h9rIZP1vYEHoysZm
+yLWYIYLcgu4N44wN+xo7V6PxL44FjhWG2hNUSvPZjmVfoG1WcXPDOsYT2A1W
+s78fphHIKwJ4iZygzUYRM5hkZLClejc4Ro39lpJJhDh+/EM9ZkWzjPzsQ9Qu
+P6PT+dL0cwEnMUdxVaTz6zNqi76Et497EaAPFnAnvyI7Y3zKGfUXxu++j5ya
+tNj+P3O7rUcncFFP+hSCZ2UzSJz0UX6jUbWJS51OOQ2dqP7x4ObWVRX/+Wa9
+JtupQEzdztVk57Bms7OnFSM6xU5eT9swBnaH7gkI42igXOW10Rws1O3zi+dq
+XvC7HKbVXIGIwz7VRUYbp7bcv1mtm5rs9jU3nPpde/U7ZQLopKEAY8uLungr
+3WckRUy8tNorI6KKuoLy4OvJzjWwwAQT76lKuDqdt/7PIeW3Wx3zdyJizmi8
+ayav1MlPxHtDIYpx7F6X8tfhUztHJVp93PlUaujnekvGTpUFrzLzaSYqTGJb
+eHhm+dRXWXz8n4UfTLOKh/r/GIJ5NuTvQfXTeQYJsrOvprjRzB+cTnbhP5Dp
+MkvQYb/krE4ufZE2/cmaCKBMQdzdm6pZhuhG3n7HZ9hIs8tPJVslie+iLBCX
+hrXA1uY8NPKT7N7YXsaHesfcMlWB2Aj/qK46dFZCFppA9380zW4uzWfmxQ1C
+Y5mrAfaF1RIxZspJOG/VcHpMiMd5UHf3t7yBJviK8BFoJMZS7hdkXIXVhEiQ
+WZlbXP1Xf+j32Ph4aWdIxnLAYd1EA+nRPGvNBzNMyGFaH2vqmmh6xZlCozKc
+rNdmsOTEUOK6VS46xIONFt01nOnETWf9GFgc9xCWdIm0kXHXG65UFRQptWJj
+Yln7RKo4NHyxtXRYENCKj1CdvjD9wwBf5Df0sApxebC6UYxpngSXoZogmNKF
+NiVjv9FEmRUldayWooS6S/hbDDxB52TmPWq0FMpSuYxJqght1dkDLJS56rBA
+YtuuLSdRkL5hwwFAJ5GaJyFgYLekMpan/HbQS1UPFXritH5NauHIYOf6pj36
+VyMVImqaPpAwIbFfx7b7vfJjxA0/F978/r7wphA3RzOdzDMp7tRI38lopu/F
+9n9hdFS4i4Z4ZrMP/mfONnY+BgTQPcr4Q/+5nNV7ai5DfRbn8ZBdLOFZlzdJ
+6rfj3mpcHtedrq1NYhJ+9hDN834OBM9oGC0+GRnfo2JjhrO6UTBB5uAMc8RA
+aZtF5GI3en+ImvKAhpKc8GfzdMkTQ+N0tO8XEUVW3552ANMS+5heaJA/cE+7
+yPzNcA5JIX3om+4r6tVsRwDLt2RRccWnR/tyao/O4Q/eN9JZB/hAEgOdFxGC
+s/WdI7VL80oRlue3Q7lTBvk60BLYZ7bzuDyoarGgxWc7HdBngDvNfxJg3cAF
+0FxhE7o5l0OQPrXhI1IYhtTbtMhvznOFzgPS59JyUbVOxDUnCXJLxwVmwLH1
+rwif12+uuThpQ1oaXB6cPC+ELubghNQ7dJHgqCZ+7JO+FVLx0HnNWBLn0mWg
+iFWE4EjF9hLTs+4km+xL9pqFj/N2ZwZphi/e3n0t5Wxv7771GjZonv9mdTGO
+hngAVy6VklDAAcR58frq/bdfz8Mob59meey+Qfz4wENYZ36ixlsFyemEVV/M
+4eEQ+wYppnBbsD6kCqrKrvH51xE4SCSZVEaEDCipSsIdozxrhEbaMttKTj3X
+8g3g6CefCS3uPGqtkmwMmnA1aL21Mq1kENHI0pYFI1geuF9U3n8vhhqEx2pJ
+lCk+vCNmtCS1/Fi8dblYaf2dvWOlVHPXuvNw42zvzr4+43rBsyVJnicF99g5
+gFTp14dX7rZt3rvbYnv1lpvKxAl2uNW7W5ZZOvL5ux++/+ri7En99JE4Dj3N
+ceK622tRi5RgByNjiUTKVhP6ibZqYkpR0c0hk5aPeN8lnzV/JgJW415Vgh9s
+iHPMRR/gVIbpcQS6PXpfn09z8C0fGT29syRjo6lUYXEWn8vzHxLTtRjbrj67
+wnW/325lIwk1RJNGnb9rqMijUrWSkCsbeBSgOuAeHz/9ounI3kX0uRMTuDTd
+dtmYtvwLLg5t9S+4/Eh8WJhlkIrJUG4T6DUqrD3nX7yXLp8ozYmpEECA8a41
+o7D09mcsn9bsGUG2oFsp1onAc7t4ZMVV7Yf1OBG92JzPnnWFyoye4sqvx2uJ
+Endjgy5W4ks81Pv3Pt0xFVeSRNw8pH2VeV5C9Enq+dSUoFEf/KIA+ZEB8pqe
+fRC7xMl5w/OoeCUdZklhlR+JqcZ/L/rmoKG+LyzpuEoyEfCdq5Ci43vn3x8K
+0Q7ZeCkkNrCzKMn9IfC4jeafayeRGxoPpND4bz6IgylxFghupL0u0m4ojHtX
+YMa9ZUQOn9gYD9SF7K5RdGgy3Hu/DC0Fjy08YsFK1ihh3BhLamNuIOxRViB6
+wiuL3o+kzeqPpM+1KsLlSeffVenFSwfyk3dd5y39vikb9RHEXJQbKaPVvPbZ
+7LT3g47anPuv4HTnUnt75usNzrwkPxNsOfOEd+YrybrFvlzPZg859erl2bvL
+4mekHgYFfB5DyKSv2KFnveM1KuqS6w2XxnGX9nj1ZgVl7SFijKRm8B/QV/h/
+/9SjR7OzhAa/XXz31R+LJ48XTx7/sfj68eLbb/5YXHy/+I7+uniy+O7JH4uv
+FhcXoZOPvKSA8jbJDNA84cbUy8W7ptIk+XfeFaG6JHdJJ3Tecri096FpzaP1
+pfa+dTc79nl8RT7NuZfb3V9m4vqT1FSfjRua4om/duc+8qe0kmFFBkpjUWFZ
+uwZnuxjtOuahAtVb2pT4I0aJjGwfpMzcaA+SE2w79gSaJLqN2oNwRw7fYGLV
+nCnXF79ROwJr6N8Ev4I2IpDnWdOQImEox0hJ81n2aYC2qTWHIh93Ufw3OfZ8
+NuVcbGO/0SYH2lukggWXwejUt3zwLT9itC7GoiRRFpo5H3HLGCSZvlxCqhx2
+a80dutetNZvlWWjWpkYgc6DN4KRVSZ929EbNRfgGkHYTjIYjWrGrs2icTwR/
++T/pKn/kywSYqyJBgdRiSWPjRuWvfOA5vBGcsupRBe+iB9+peAtOi9xv5xuU
+pd4V7zv0Wje+vBS38rn0QQB5t7Kj7hhjv8upebPezKn7t0vqpGn4axaW6q6r
+jaYSpYUOQck56bH7P1/SoLhDRp2TjCwfJJr2eZNYu4eKNmHpZgU4T0KQs9ln
+Ce+6qdduM7QZ5JIU8mmiSIriec5k8b+ZNDk+PR3cj/h5L+uXzgR/a5KWFeeN
+wazPzvX7iTZtLxQzVdhT5ZMzxenXndD05qG7WihAYP9tLCQf++k9/Nh+6sEW
+fqK5+HM9aEmB3A7RkzKan58KYotjI2sHyLAA2uK7LC1HpSaf7SE5dPWzpFMD
+xi98ByHfYmgn6eoylvClHb7zsLH60U7NoMfLV0T9ne/48VEHIhuhxSHxV/3k
+a1UpK9HS8vCFl/SzeF9AEm+V/3Pygf9Kiw+s6eeUJD8s86A+tI6Fzj42OOMW
+TbbVL71JtqWkuklDImzwjSbRVcfYVNJ/kSd0yEPsyiCeePoFLQbQ/qRSoxig
+lmRdIeIeBBkt/q2XWrPscpbIwd52e5S6saSVV6I0n4QoF5mHUVP4/jyRnrH8
+edwJhR6/8Z8Ail+Li2wxCbPzd1XLlI2ldsckVMckPx3iLaOnTa/y1pOiZm32
+5Tg3MH4O1bdeVTcYfzck5g74Lk5aRxVcqzBhEpzjJl3zoHoIAVacqsyf2Bsv
+OBghv+87OcVDpDC+uHlz/egLCOKZp7uHfo+kD1blo0jLQEulSd8Yqop+eGjs
+cYv7bdM3m9bsYU3/qRh/v4i39F/Rm79LPwwyyeL0DbxKaeQvipkURGtslOtN
+j9PSe22nrDFCVTMIYqdSC8N31vgbAcwI+G3NIDDt0vWc2TkpFS3029as/76V
+LgOx51vWgDBBiWyWcZ6qkZBL2sf5098cidW43ugShMpbZRKL46+gJJ+e5jjf
+JCWebZLwCY7RV7wkOsgJFeMiYZymV+u4mlcBLuW8hTbnirmxpHToQ9OgSCKw
+4hdR9JuvXPC9k28iVNlXgLkcHl9O9N3u8iYFcjiGs93wzV/pVArKU2Epftj4
+AUkywKTnjh9PcHAeskOC60o/LTG/b/PQ69JeA6Hj7LBjC8dqxKP6VFEyH3Tq
+hEVjg0Xx16AksGHIeGRpyWUwC8MXrXgDEv/gcut5Um8d+mjTrvdogM99/YIj
+Oha8bT2C1oKO9+DpCbSc4K46dfC1S4x8nSViz2av0ZBG23G4Oww6fiIth8hy
+qzQgFpOq9sOSjEjs7l2SMdJEKZtk2avTNSmoc+24VY92wR7NyW6wkFW0ygJg
+EpzzfXN0OSHZO0rmmCi9uHeSJDmB3cOnB9UnkhH5VBDOFIuJ86EkGx2dFYhT
+sQ/Vf8tHvrAZqwQqZzr5pvKLq9dXk8PIv38tn/iSJ83Kf7dNPviOJgsY5iqU
+hLCpN/vHpaC9Lf/lwdpUnX3wGw375umbtHhEwryz/wVFkz8ZwoAAAA==
 
 -->
 
