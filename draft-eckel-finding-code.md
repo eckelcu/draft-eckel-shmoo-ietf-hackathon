@@ -51,6 +51,8 @@ when, and only when, they appear in all capitals, as shown here.
 Vijay wrote, “The proposal we are considering --- i.e., putting some text in RFCs to guide legions of implementers not familiar with "IETF arcana" --- is already being used loosely as I pointed out above for QUIC.  It seems to me that we can do better by institutionalising it in some manner that RFC 7942 did not. Perhaps as you suggest, the answer is to simply write a RFC 7942-bis draft.  If you think this is an avenue we should explore, I am happy to spin up a rfc7942-bis  so to provide more structure to the conversation.”
 Mirja wrote, “Just very quickly some points. Having read all RFCs that we have published in the four years of my AD time I can tell you that RFC7942 is used form time to time. However, it also addresses a different problem then what you ask for, namely how do people in the wg know about existing implementations. QUIC decides to use another tool for this purpose; I guess for several reason, one being that many implementors in QUIC who have been new to the IETF are actually more familiar with GitHub than any IETF procedures. My expectation is that note you mentioned for QUIC will be removed before publication as RFC.”
 
+# RFC 8874 and 8875 GitHub 
+
 # Proposal from Tommy and Mark
 How about a link in data tracker to take you to said COTS service? (With a standard template, etc).
 My .02 -- I'd very much rather track this sort of thing in COTS services (e.g., GitHub) rather than commissioning yet another expensive, one-off, badly-maintained datatracker feature.
