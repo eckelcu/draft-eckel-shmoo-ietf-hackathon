@@ -35,13 +35,16 @@ This document provides a set of practices for running IETF Hackathons.
 
 # Introduction
 
-IETF Hackathons encourage developers to collaborate and develop utilities, ideas, sample code and solutions that show practical implementations of IETF standards. 
-IETF Hackathons aim to:
+IETF Hackathons encourage the IETF community to collaborate and develop utilities, ideas, sample code and solutions that show practical implementations of IETF standards. IETF Hackathons aim to:
 
 * Advance the pace and relevance of IETF standards activities by bringing the speed and collaborative spirit of open source development into the IETF
 * Bring developers and young people into IETF and get them exposed to and interested in IETF
 
-IETF Hackathons are free to attend and open to everyone. They are collaborative events, not competitions. Any competitiveness among participants is friendly, and in the spirit of advancing the pace and relevance of new and evolving internet standards. 
+IETF Hackathons are free to attend and open to everyone. Software developers are the primary target audience, but participation by subject matter experts who are not necessary developers is encouraged and very important as well. Similarly, while the Hackathon is meant to attract newcomers and those who do not typically view themselves as standards people, long time IETF contributors, draft authors, working group chairs, etc., are key participants as well. Group dynamics and blending of skillsets and perspectives are extremely valuable aspect of IETF Hackathons. 
+
+In addition to the running code created and improved as a result of each Hackathon, the exchange or ideas, extensions of human networks, and establishment of trust, respect, and friendships are some of the most valuable outputs of each Hackathon. Code written in a programming language can sometimes be more illustrative and less confrontational than text in a draft or an email. Working together to find common understanding of proposals, concerns, and solutions that result in improvements to evolving internet drafts is as important as the development of running code that implements or validates the correctness of these same drafts. 
+
+Consequently, IETF Hackathon are collaborative events, not competitions. Any competitiveness among participants is friendly and in the spirit of advancing the pace and relevance of new and evolving internet standards.  
 
 This document provides a set of practices for running IETF Hackathons.
 
@@ -106,7 +109,7 @@ When the IETF meeting has been online only, all costs in this section are elimin
 
 # Timing
 
-The first IETF Hackathon was held the weekend before the start of the IETF 92 meeting. The rationale was to avoid conflicts yet make it relatively convenient for those attending the IETF meeting to participate in the Hackathon as well. Holding the Hackathon on the weekend was also viewed as making it more accessible to non IETF meeting attendees, including students and working professionals who would have other commitments during the week. The weekend before was viewed as better than the weekend after such that things learned during the Hackathon could be shared and discussed with the rest of the IETF community during working group sessions and the like. This worked well at IETF 92, was repeated at IETF 93, and quickly became an established norm with the IETF meeting being officially extended to include the Hackathon at the start.
+The first IETF Hackathon was held the weekend before the start of the IETF 92 meeting. The rationale was to avoid conflicts yet make it relatively convenient for those attending the IETF meeting to participate in the Hackathon as well. Holding the Hackathon on the weekend was also viewed as making it more accessible to non IETF meeting attendees, including students and working professionals who would have other commitments during the week. The weekend before was viewed as better than the weekend after so that things learned during the Hackathon could be shared and discussed with the rest of the IETF community during working group sessions and the like. This worked well at IETF 92, was repeated at IETF 93, and quickly became an established norm with the IETF meeting being officially extended to include the Hackathon at the start. An additional benefit of this timing noted and appreciated by participants is that it serves as a more informal and social way to physically and mentally acclimate to changes in time zones, surroundings, and subject matter.  
 
 ## Agenda 
 
