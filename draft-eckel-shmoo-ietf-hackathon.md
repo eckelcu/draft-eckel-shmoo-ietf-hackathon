@@ -1,7 +1,7 @@
 ---
 title: "Running an IETF Hackathon"
 abbrev: "ietf-hackathon"
-docname: draft-eckel-shmoo-ietf-hackathon-01
+docname: draft-eckel-shmoo-ietf-hackathon-02
 category: info
 
 ipr: trust200902
@@ -28,7 +28,7 @@ informative:
 
 --- abstract
 
-IETF Hackathons encourage developers to collaborate and develop utilities, ideas, sample code and solutions that show practical implementations of IETF standards. 
+IETF Hackathons encourage the IETF community to collaborate and develop utilities, ideas, sample code and solutions that show practical implementations of IETF standards. 
 This document provides a set of practices for running IETF Hackathons.
 
 --- middle
