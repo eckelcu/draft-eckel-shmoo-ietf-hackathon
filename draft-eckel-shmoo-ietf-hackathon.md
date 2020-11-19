@@ -193,11 +193,11 @@ The project pitches were 5-10 minute presentations by a champion of a project de
 
 The project presentations are brief summaries by each team of what problem they tried to solve, what they achieved, and highlights that include lessons learned, feedback to associated working groups, and collaboration with open source communities and other standards organizations. We also highlight individuals who are participating in their first IETF Hackathon or first IETF event to facilitate their introduction into the IETF community. The production and presentation of results summaries is optional. Fortunately, despite the lack of awards and prizes, most teams participate. 
 
-As with the project pitches, results presentations can become unwieldy as the number of projects increases. The formula used is to limit the total time for all presentations to 2 hours and allocate time slots based on that. Time slots of minutes are typical.
+As with the project pitches, results presentations can become unwieldy as the number of projects increases. The formula used is to limit the total time for all presentations to 2 hours and allocate time slots based on that. Time slots of 3-5 minutes are typical.
 
-All presentation are uploaded to a GitHub repo created specifically for each IETF Hackathon (e.g., [https://github.com/ietf-hackathon/ietf108-project-presentations](https://github.com/ietf-hackathon/ietf108-project-presentations)).
+All presentation are uploaded to a GitHub repo created specifically for each IETF Hackathon (e.g., [https://github.com/ietf-hackathon/ietf108-project-presentations](https://github.com/ietf-hackathon/ietf108-project-presentations)). The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon. 
 
-The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon. For portability, presentations are requested to be in PDF format.
+A project results presentation template in PPTX format provides guidance on what to cover and is available for those that want to use it. For portability, presentations are requested to be uploaded in PDF format. PDF is not ideal for uploading to GitHub and version control. HTML and Markdown are alternative formats worth considering. TODO - Provide a template in Markdown as well. TODO - Investigate GitHub's [template mode](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/).
 
 One must be a member of the IETF-Hackathon GitHub org to upload a new presentation or update/replace an existing presentation.
 
@@ -340,7 +340,7 @@ Champions can request a [Webex account](https://ietf.webex.com/webappng/sites/ie
 
 ### Gather
 
-[Gather](https://gather.town/) is applicable for online only Hackathons. A dedicated area of the space is created by the Secretariat. The area includes tables that are assigned to teams. Seats around the table facilitate group discussions within the team. A whiteboard at each table facilitates sharing of information within the team. The tables also provide a mechanism to collaboration across teams. 
+[Gather](https://gather.town/) is applicable for online only Hackathons. A dedicated area of the space is created by the Secretariat. The area includes tables that are assigned to teams. Seats around the table facilitate group discussions within the team. A whiteboard or shared notes tablet (via CodiMD) at tables facilitates sharing of information within the team. The tables also facilitate collaboration across teams. One cautionary note, Gather has relative high network bandwidth and CPU requirements, and as such may not be well suited for some Hackathon participants.
 
 # Statistics and Metrics
 
@@ -398,6 +398,14 @@ Key responsibilities include:
 * Provide some funding to help offset costs of Hackathon (either per meeting or per year, depending on model)
 * Optionally provide t-shirts or other giveaways
 * Optionally provide support staff to assist with Hackathon
+
+Key benefits include:
+
+* TODO
+
+### Online Only
+
+Online only Hackathons, and increased remote participating in general, result in increased cloud infrastructure requirements that make Hackathon sponsorship more attractive to cloud infrastructure providers. 
 
 ## Champions of Projects
 
