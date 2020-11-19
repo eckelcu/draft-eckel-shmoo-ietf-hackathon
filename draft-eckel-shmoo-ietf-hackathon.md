@@ -44,7 +44,7 @@ IETF Hackathons are free to attend and open to everyone. Software developers are
 
 In addition to the running code created and improved as a result of each Hackathon, the exchange or ideas, extensions of human networks, and establishment of trust, respect, and friendships are some of the most valuable outputs of each Hackathon. Code written in a programming language can sometimes be more illustrative and less confrontational than text in a draft or an email. Working together to find common understanding of proposals, concerns, and solutions that result in improvements to evolving internet drafts is as important as the development of running code that implements or validates the correctness of these same drafts. 
 
-Consequently, IETF Hackathon are collaborative events, not competitions. Any competitiveness among participants is friendly and in the spirit of advancing the pace and relevance of new and evolving internet standards.  
+Consequently, IETF Hackathons are collaborative events, not competitions. Any competitiveness among participants is friendly and in the spirit of advancing the pace and relevance of new and evolving internet standards.  
 
 This document provides a set of practices for running IETF Hackathons.
 
@@ -365,7 +365,7 @@ todo
 
 # Roles and Responsibilities
 
-TBD. Should this info be in its own section or inline within other sections?
+TODO - Should this info be in its own section or inline within other sections?
 It is known to be incomplete and a mix of own section and inline at the moment.
 
 ## Hackathon Chair(s)
