@@ -322,7 +322,7 @@ A repository is created and maintained by the Chairs for each Hackathon (e.g., [
 
 ## Network
 
-Access to the IETF network is an important aspect of the Hackathon. The IETF network provides unfettered internet access that is not typical within many residential, corporate, and university environments. For many of IETF participants and projects, access to the internet and each other via the wireless access to the IETF network is sufficient. However, due to the nature of the work done in the IETF, wired access and special networking capabilities are often required. 
+Access to the IETF network is an important aspect of the Hackathon. The IETF network provides unfettered internet access that is not typical within many residential, corporate, and university environments. For many of IETF participants and projects, access to the internet and each other via wireless access to the IETF network is sufficient. However, due to the nature of the work done in the IETF, wired access and special networking capabilities are often required. 
 
 The NOC has graciously met the needs of the Hackathon since its inception and continues to add more capabilities over time. Champions are able to request in advance wired access and special networking functionality, including static IPv4 and IPv6 addresses, IPv6 only networking, a closed user group, NAT64, and IPv6PD. All of this, and the IETF network in general, is made available by the start of the Hackathon and in advance for setup to the extent possible.
 
@@ -342,7 +342,7 @@ Champions can request a [Webex account](https://ietf.webex.com/webappng/sites/ie
 
 ### Gather
 
-[Gather](https://gather.town/) is applicable for online only Hackathons. A dedicated area of the space is created by the Secretariat. The area includes tables that are assigned to teams. Seats around the table facilitate group discussions within the team. A whiteboard or shared notes tablet (via CodiMD) at tables facilitates sharing of information within the team. The tables also facilitate collaboration across teams. One cautionary note, Gather has relative high network bandwidth and CPU requirements, and as such may not be well suited for some Hackathon participants.
+[Gather](https://gather.town/) is applicable for online only Hackathons. A dedicated area of the space is created by the Secretariat. The area includes tables, identified by letters of the alphabet, that teams are free to self assign and use as and when they like. Eight to ten seats around each table facilitate group discussions within the team. A whiteboard or shared notes tablet (via CodiMD) at tables facilitates sharing of information within the team. The tables also facilitate collaboration across teams. One cautionary note, Gather has relative high network bandwidth and CPU requirements, and as such may not be well suited for some Hackathon participants.
 
 # Statistics and Metrics
 
