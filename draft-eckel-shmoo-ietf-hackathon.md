@@ -203,11 +203,23 @@ The project pitches were 5-10 minute presentations by a champion of a project de
 
 The results summaries are brief presentation by each team of what problem they tried to solve, what they achieved, and highlights that include lessons learned, feedback to associated working groups, and collaboration with open source communities and other standards organizations. They also highlight individuals who are participating in their first IETF Hackathon or first IETF event to facilitate their introduction into the IETF community. The production and presentation of results summaries is optional. Fortunately, despite the lack of awards and prizes, most teams participate. 
 
-As with the project pitches, results summaries can become unwieldy as the number of projects increases. With this in mind, the total time for all results summaries is limited to 2 hours. The maximum duration of each presentation is calculated based on the number teams that have indicated the desire to present. This maximum is strictly enforced to ensure all teams have the opportunity to present their results. Maximum durations of 3-5 minutes are typical.
+As with the project pitches, results summaries can become unwieldy as the number of projects increases. With this in mind, the total time for all results summaries is limited to 2 hours. The maximum duration of each presentation is calculated based on the number teams that have indicated the desire to present. This maximum is strictly enforced to ensure all teams have the opportunity to present their results. Maximum durations of 3-5 minutes are typical. 
 
-All presentation are uploaded to a GitHub repo created specifically for each IETF Hackathon (e.g., [https://github.com/ietf-hackathon/ietf108-project-presentations](https://github.com/ietf-hackathon/ietf108-project-presentations)). The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon. 
+### Templates
 
-A project results presentation template in PPTX format provides guidance on what to cover and is available for those that want to use it. For portability, presentations are requested to be uploaded in PDF format. PDF is not ideal for uploading to GitHub and version control. HTML and Markdown are alternative formats worth considering. TODO - Provide a template in Markdown as well. TODO - Investigate GitHub's [template mode](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/).
+Project results presentation templates provides guidance on what to cover. The use of these templates is optional. They are made available in various in various formats in a GitHub repo created specifically for the presentations for each IETF Hackathon (e.g., [https://github.com/ietf-hackathon/ietf108-project-presentations](https://github.com/ietf-hackathon/ietf108-project-presentations)). 
+
+#### PPTX
+
+For portability, presentations that use this template should be made exported into PDF format as well.
+
+#### HTML format
+
+This template should render within any browser. It can be rendered as a slideshow using [remark](https://github.com/gnab/remark).
+
+### Upload to GitHub
+
+All presentation are uploaded to the GitHub repo created the Hackathon (e.g., [https://github.com/ietf-hackathon/ietf108-project-presentations](https://github.com/ietf-hackathon/ietf108-project-presentations)). The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.
 
 One must be a member of the IETF-Hackathon GitHub org to upload a new presentation or update/replace an existing presentation.
 
