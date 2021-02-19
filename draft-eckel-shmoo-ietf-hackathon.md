@@ -170,11 +170,11 @@ Hackathon t-shirts are an important part of the Hackathon. They have been provid
 The number of size distribution of t-shirts for IETF 107 is provided here as an example.
 
 * 380 t-shirts at a cost of roughly $10 USD / t-shirt with shipping to the Secretariat included
-	* 50 Small
-	* 120 Medium 
-	* 110 Large
-	* 75 XL
-	* 25 XXL
+  * 50 Small
+  * 120 Medium 
+  * 110 Large
+  * 75 XL
+  * 25 XXL
 
 The t-shirts are all standard cut. We previously tried providing fitted cut t-shirts as an option for Hackathon participants, but these were not well received.
 
