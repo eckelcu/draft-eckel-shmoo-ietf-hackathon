@@ -271,7 +271,7 @@ Registration for the Hackathon is through the IETF [meeting registration](https:
 
 As with meeting registration, registrants for the Hackathon acknowledge the [Note Well](https://ietf.org/about/note-well/) during the registration process. 
 
-### Attendees List
+### Attendee List
 
 An active list of all registered attendees (e.g., [https://registration.ietf.org/109/participants/hackathon/](https://registration.ietf.org/109/participants/hackathon/)) is maintained by the Secretariat. Important information displayed for each registrants include the set of projects and technologies in which each participant is interested and an email address. This information is optional at the time of registration and may be updated or removed by editing ones registration.
 
@@ -322,6 +322,10 @@ A Team Schedule wiki page (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/1
 ## Mailing List
 
 The Hackathon mail list, [hacakthon@ietf.org](https://www.ietf.org/mailman/listinfo/Hackathon), is used for all email communication and announcement related to the Hackathon. All registrants and given the option to subscribe to the list. Anyone interested in staying up to date on the Hackathon is able to subscribe at any time.
+
+### Hackathon Chairs Email Alias
+
+The email alias [hackathon-chairs@ietf.org](mailto:hackathon-chairs@ietf.org) was created and is maintained by the Secretariat. It is used on hackathons webpages and wiki pages to provide a single point of contact for the Hackathon.
 
 ## GitHub
 
@@ -447,11 +451,9 @@ None.
 
 ## Privacy Considerations
 
-Participant email addresses are displayed publicly. Registrants optionally include these are part of their registrations. 
+Participant names and email addresses are displayed publicly in the [Attendee List](#attendee-list). Participants may opt-in or opt-out of the display of their email address as part of their registration. 
 
-The email addresses of individual champions are often shared publicly by the champions on the wiki.
-
-The email addresses of the Chairs are shared publicly by the Chairs on the wiki and via GitHub. It would probably be better to use an email alias.
+The email addresses of individual champions are often shared publicly by the champions on the wiki. This is done voluntarily by individual champions to make it easier for others to contact them. 
 
 
 # IANA Considerations
