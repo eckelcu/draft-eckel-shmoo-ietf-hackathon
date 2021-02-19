@@ -91,8 +91,6 @@ The room closes Saturday evening to give hotel staff unfettered access to the ro
 
 The end of the Hackathon on Sunday is driven by other IETF meeting events. There typically are Newcomer events that start at 16:00. The IETF Hackathon typically includes many newcomers in its list of participants. It is important to provide them time to participate in the Newcomer events. The opening reception typically start at 17:00, and we want to make it easy for all Hackathon participants to join that as well.
 
-TODO - CONSIDER RELOCATING TO SEPARATE SECTIONS OR ONE FOR RELATED EVENTS
-
 Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist to facilitate ongoing discussion and work on projects beyond the official end of the Hackathon weekend.
 
 ## Hackdemo Happy Hour
@@ -322,7 +320,7 @@ A Code Lounge wiki page (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/106
 
 ### Online Only
 
-The following wiki pages are applicable for online only Hackathons only.
+The following wiki pages are applicable for online Hackathons only.
 
 #### Team Schedule
 
@@ -392,8 +390,7 @@ todo
 
 # Roles and Responsibilities
 
-TODO - Should this info be in its own section or inline within other sections?
-It is known to be incomplete and a mix of own section and inline at the moment.
+This section provides a summary of the roles and responsibilities of individuals and groups involved in a successful IETF Hackathon. The summary provided here is not meant to be exhaustive. Some responsibilities are described entirely or in more detail throughout the rest of the document.
 
 ## Hackathon Chair(s)
 
@@ -430,7 +427,13 @@ Key responsibilities include:
 
 Key benefits include:
 
-* TODO
+* Sponsor logo on Hackathon t-shirts
+* Sponsor logo on Hackathon signage
+* Sponsor logo on Hackathon webpage and wiki
+* Sponsor logo and call out in Hackathon kickoff and closing presentation
+* Sponsor logo and call out in IETF Plenary presentation
+* Sponsor logo and call out in Hackathon recap on [IETF blog](https://www.ietf.org/blog/)
+* Recognition in IETF community for helping the IETF Hackathon remain free and open to everyone
 
 ## Champions of Projects
 
