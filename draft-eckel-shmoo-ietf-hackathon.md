@@ -54,60 +54,6 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD",
 document are to be interpreted as described in BCP 14 {{RFC2119}} {{!RFC8174}}
 when, and only when, they appear in all capitals, as shown here.
 
-
-# Funding
-
-The Hackathon requires funding, and that funding increases with the number of participants. Participating has always been free; therefore, funding from other sources than participant fees is required.
-
-## Sponsorship
-
-The initial funding model was to have Hackathon sponsors that sign up to sponsor and fund the Hackathon for one year. As part of starting the Hackathon, Cisco volunteered to sponsor and fund the Hackathon for its first year (i.e., three Hackathons, one at each IETF meeting during a calendar year). This sponsorship was to rotate. Huawei volunteered to sponsor the second year of the Hackathon. After the second year, a sponsor for the 3rd year was not found. However, the Hackathon had become a proven success. Consequently, the IETF decided to fund the Hackathon as part of the IETF meeting, with Hackathon sponsorship being on a best effort basis. 
-
-## Expenses
-
-The primary costs associated with the Hackathon are for the meeting space and for food and beverage. It is often challenging to separate out the cost of the Hackathon. 
-
-### Space
-
-The space for the Hackathon is sometimes included as part of the overall contract. Other times, additional costs are incurred to secure a large enough space earlier than would otherwise have been required. Typically, the space is needed from Friday afternoon for setup until Sunday afternoon. The space is typically repurposed for the IETF Lounge. If the size of the Hackathon continue to increase, it might be necessary to use the same space as is used for the IETF plenary.
-
-### Food and Beverage 
-
-Some portion of the food and beverage cost is often included as part of a minimum spend the IETF is obligated to make. When a Hackathon sponsor is identified, the money is typically used to offset food and beverage costs, or to enhance the food and beverage that is made available versus what would have been made available if no sponsor existed. 
-
-The minimum food and beverage for the Hackathon has been,
-
-* coffee, tea, and water Saturday and Sunday morning
-* lunch Saturday and Sunday
-
-Additional items, in order of importance, included when funding is available include,
-
-* beer Saturday evening
-* dinner Saturday evening
-* continental breakfast Saturday and Sunday
-* afternoon snacks Saturday and Sunday
-
-### T-shirts
-
-Hackathon t-shirts are an important part of the Hackathon. They have been provided for all in-person Hackathons and greatly appreciated by most participants. The also serve as great advertising for the IETF, the Hackathon, and sponsors. Cisco or other event sponsors have typically covered the cost of t-shirts. The current model is that the secretariat covers the costs using whatever funding is available.
-
-TBD: include size and cost info?
-
-### Stickers
-
-Laptop stickers are popular with software developers. Stickers have been produced made available at the Hackathon for those that want them. The cost of producing these and making them available has been covered by the IETF LLC, Director of Communications and Operations.
-
-### Online only
-
-When the IETF meeting has been online only, all costs in this section are eliminated. Some potential costs associated with running the Hackathon online an entire week before the rest of the IETF meeting include the following:
-
-* Meetecho: costs associated with Hackathon kickoff and closing sessions on Monday and Friday.
-* Gather: costs associated with premium service, required to enable more than 50 concurrent users. This has not been necessary, but will almost certainly be if Gather becomes a valuable way for Hackathon participants to meet within and across teams.
-* Webex: IETF Webex accounts are made available to champions for the duration of the Hackathon and some period beyond that encompasses at least the rest of the IETF meeting. These accounts are at present available at no additional cost to the IETF.
-* Network: the IETF network, and remote access to it, need to be available an additional week.
-
-Online only Hackathons, and increased remote participating in general, result in increased cloud infrastructure requirements that make Hackathon sponsorship more attractive to cloud infrastructure providers. 
-
 # Timing
 
 The first IETF Hackathon was held the weekend before the start of the IETF 92 meeting. The rationale was to avoid conflicts yet make it relatively convenient for those attending the IETF meeting to participate in the Hackathon as well. Holding the Hackathon on the weekend was also viewed as making it more accessible to non IETF meeting attendees, including students and working professionals who would have other commitments during the week. The weekend before was viewed as better than the weekend after so that things learned during the Hackathon could be shared and discussed with the rest of the IETF community during working group sessions and the like. This worked well at IETF 92, was repeated at IETF 93, and quickly became an established norm with the IETF meeting being officially extended to include the Hackathon at the start. An additional benefit of this timing noted and appreciated by participants is that it serves as a more informal and social way to physically and mentally acclimate to changes in time zones, surroundings, and subject matter.  
@@ -145,6 +91,8 @@ The room closes Saturday evening to give hotel staff unfettered access to the ro
 
 The end of the Hackathon on Sunday is driven by other IETF meeting events. There typically are Newcomer events that start at 16:00. The IETF Hackathon typically includes many newcomers in its list of participants. It is important to provide them time to participate in the Newcomer events. The opening reception typically start at 17:00, and we want to make it easy for all Hackathon participants to join that as well.
 
+TODO - CONSIDER RELOCATING TO SEPARATE SECTIONS OR ONE FOR RELATED EVENTS
+
 Hackdemo Happy Hour (ref) and the Code Lounge (ref) exist to facilitate ongoing discussion and work on projects beyond the official end of the Hackathon weekend.
 
 ## Hackdemo Happy Hour
@@ -177,24 +125,85 @@ The response was great. We ultimately had 19 projects and almost 300 registratio
 
 Hackdemo Happy Hour and the Code Lounge are not applicable for online only Hackathons. 
 
+# Funding
+
+The Hackathon requires funding, and that funding increases with the number of participants. Participating has always been free; therefore, funding from other sources than participant fees is required.
+
+## Sponsorship
+
+The initial funding model was to have Hackathon sponsors sign up to sponsor and fund the Hackathon for one year. As part of starting the Hackathon, Cisco volunteered to sponsor and fund the Hackathon for its first year (i.e., three Hackathons, one at each IETF meeting during a calendar year). This sponsorship was to rotate. Huawei volunteered to sponsor the second year of the Hackathon. After the second year, a sponsor for the 3rd year was not found. However, the Hackathon had become a proven success. Consequently, the IETF decided to fund the Hackathon as part of the IETF meeting, with Hackathon sponsorship being on a best effort basis. 
+
+Online only Hackathons in response to the COVID-19 pandemic, and increased remote participating in general, result in increased cloud infrastructure requirements that make Hackathon sponsorship more attractive to cloud infrastructure providers.
+
+Hackathon sponsorship opportunities are publicized via a dedicated page on the [IETF website](https://www.ietf.org/about/support/hackathon-sponsorship/).
+
+## Expenses
+
+The primary expenses associated with the Hackathon are those for hosting an in-person event, e.g., meeting space, food and beverage, etc. It is often challenging to quantify the portion of this associated with the Hackathon from that incurred for the IETF meeting overall.
+
+### In-person Event Expenses
+
+The following expenses are associated with in-person participation in a Hackathon. When the IETF meeting is online only, these expenses are eliminated. 
+
+#### Meeting Space
+
+The meeting space for the Hackathon is sometimes included as part of the overall contract for the IETF meeting. Other times, additional expense is incurred to secure a large enough space earlier than would otherwise have been required. Typically, the space is needed for setup from Friday afternoon before the start of the IETF meeting until Sunday afternoon. After the Hackathon, the space is typically repurposed for the IETF Lounge. If the size of the Hackathon continues to increase, it might be necessary to use the same space as is later used for the IETF plenary.
+
+#### Food and Beverage 
+
+Some portion of the food and beverage expense is often included as part of a minimum spend the IETF is obligated to make. When a Hackathon sponsor is identified, funds resulting from this sponsorship are typically used to offset food and beverage expenses, or to increase the food and beverage budget. 
+
+The minimum food and beverage for the Hackathon has been,
+
+* coffee, tea, and water Saturday and Sunday morning
+* lunch Saturday and Sunday
+
+Additional items, in order of importance, include,
+
+* beer Saturday evening
+* dinner Saturday evening
+* continental breakfast Saturday and Sunday
+* afternoon snacks Saturday and Sunday
+
+#### T-shirts
+
+Hackathon t-shirts are an important part of the Hackathon. They have been provided for all in-person Hackathons and greatly appreciated by most participants. The also serve as great advertising for the IETF, the Hackathon, and sponsors. Cisco or other event sponsors have often covered expenses associated with t-shirts. The current model is that the secretariat covers the expenses using whatever funding is available.
+
+TBD: include size and cost info?
+
+#### Stickers
+
+Laptop stickers are popular with developers. Stickers have been made available at the Hackathon for those that want them. Expenses have been covered by the IETF LLC, Director of Communications and Operations.
+
+### Remote Participation Expenses
+
+The following expenses are associated things done primarily to facilitate remote participation in a Hackathon. This includes participation when the Hackathon is online only as well as remote participation when the Hackathon is in-person. 
+
+* Meetecho: cost associated with Hackathon kickoff and closing
+* Gather: costs associated with premium service, required to enable more than 25 concurrent users. This has not been necessary, but will almost certainly be if Gather becomes a valuable way for Hackathon participants to meet within and across teams.
+* Webex: IETF Webex accounts are made available to champions for the duration of the Hackathon and some period beyond that encompasses at least the rest of the IETF meeting. These accounts are available at no additional cost to the IETF at present
+* Network: setup and support of the IETF network, and remote access to it
+
+The change in timing and extended duration of the Hackathon at an online only IETF meeting increases the duration and use of remote participation facilities from 7 days to 12 days. This may result in increases to the cost of providing these facilities. 
+
 # Project Presentations
 
-Project presentations are an important mechanism for capturing what each team accomplished and sharing this with the IETF community.
+Project presentations are an important mechanism for capturing what each team intends to accomplish, what they actually accomplished, and sharing the results and findings with the IETF community.
 
 For the first few Hackathons, we had two very distinct types of presentations,
 
 1. Presentation that served as project pitches at the start of the Hackathon
-2. Presentations that summarizes results at the end of the Hackathon. 
+2. Presentations that summarize results at the end of the Hackathon. 
 
 ## Project Pitches
 
-The project pitches were 5-10 minute presentations by a champion of a project describing what they wanted to do and how they proposed to accomplish it. This gave everyone in the room a better understanding of all the projects and helped participants match themselves with appropriate projects. This was fantastic when we had a small number of projects, but it became unwieldy as the number of projects increased. As knowledge of the Hackathon grew and advanced planning became more common, many participants knew exactly which team they planned to join and wanted to get to work as quickly as possible rather than spend a couple hours listening to presentations. Project pitches were dropped from the Hackathon. Champions are encouraged to share this type of information in advance via the Meeting Wiki instead.
+The project pitches were 5-10 minute presentations by a champion of a project describing what they wanted to do and how they proposed to accomplish it. This gave everyone in the room a better understanding of all the projects and helped participants match themselves with appropriate projects. This worked well when we had a small number of projects, but it became unwieldy as the number of projects increased. As knowledge of the Hackathon grew and advanced planning became more common, many participants knew exactly which team they planned to join and wanted to get to work as quickly as possible rather than spend a couple hours listening to presentations. Project pitches were dropped from the Hackathon. Champions are encouraged to share this type of information in advance via the [Meeting Wiki](#meeting-wiki) instead.
 
 ## Results Summaries
 
-The project presentations are brief summaries by each team of what problem they tried to solve, what they achieved, and highlights that include lessons learned, feedback to associated working groups, and collaboration with open source communities and other standards organizations. We also highlight individuals who are participating in their first IETF Hackathon or first IETF event to facilitate their introduction into the IETF community. The production and presentation of results summaries is optional. Fortunately, despite the lack of awards and prizes, most teams participate. 
+The results summaries are brief presentation by each team of what problem they tried to solve, what they achieved, and highlights that include lessons learned, feedback to associated working groups, and collaboration with open source communities and other standards organizations. They also highlight individuals who are participating in their first IETF Hackathon or first IETF event to facilitate their introduction into the IETF community. The production and presentation of results summaries is optional. Fortunately, despite the lack of awards and prizes, most teams participate. 
 
-As with the project pitches, results presentations can become unwieldy as the number of projects increases. The formula used is to limit the total time for all presentations to 2 hours and allocate time slots based on that. Time slots of 3-5 minutes are typical.
+As with the project pitches, results summaries can become unwieldy as the number of projects increases. With this in mind, the total time for all results summaries is limited to 2 hours. The maximum duration of each presentation is calculated based on the number teams that have indicated the desire to present. This maximum is strictly enforced to ensure all teams have the opportunity to present their results. Maximum durations of 3-5 minutes are typical.
 
 All presentation are uploaded to a GitHub repo created specifically for each IETF Hackathon (e.g., [https://github.com/ietf-hackathon/ietf108-project-presentations](https://github.com/ietf-hackathon/ietf108-project-presentations)). The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon. 
 
@@ -210,17 +219,17 @@ To be added as a member, presenters are asked to
 
 Presenters are asked to do this at their earliest convenience as the Chair(s) typically get very busy as the start of presentations approaches.
 
-### Presenting in person
+### Presenting in Person
 
 Presentations are run from a shared ChromeBook at the front of the Hackathon room. This Chromebook is provided by the Secretariat.
 
 ### Presenting Remotely 
 
-Remote presenters are welcome to run their own presentations using the screen sharing functionality in Meetecho. Alternatively, the Hackathon chairs can share the presentation and advance slides for the presenter.
+Remote presenters are welcome to run their own presentations using the screen sharing functionality in Meetecho. Alternatively, the Hackathon Chairs can share the presentation and advance slides for the presenter.
 
 # Tooling
 
-The IETF Hackathon makes use of the same tooling used by the IETF community for its work and meetings.
+The IETF Hackathon uses the same tooling used by the IETF community for its work and meetings.
 
 ## Datatracker
 
@@ -259,13 +268,13 @@ An active list of all registered attendees (e.g., [https://registration.ietf.org
 
 Registrations were capped for the first several Hackathons. This was done both for space and costs considerations. The cap was hit multiple times, each time resulting in temporary confusion and frustration among would be registrants, followed by the cap being increased. Currently, there are no caps enforced by the registration system.
 
-## Wiki
+## Meeting Wiki
 
 The meeting wiki serves as the primary source of information for each Hackathon. 
 
 ### Hackathon
 
-A page within the wiki (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon](https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon)) is created by the Secretariat for each Hackathon and initialized with information that is based largely on the information from the previous Hackathon. Once created, the Hackathon Chairs update and moderate the wiki. Champions are requested and responsible for adding information about projects for which they are a champion. 
+A page within the meeting wiki (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon](https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon)) is created by the Secretariat for each Hackathon and initialized with information that is based largely on the information from the previous Hackathon. Once created, the Hackathon Chairs update and moderate this page. Champions are requested and responsible for adding information about projects for which they are a champion. 
 
 Anyone can edit the wiki by logging in using their datatracker login credentials. Credentials can be obtained by [requesting](https://datatracker.ietf.org/accounts/create/) a new datatracker account.
 
@@ -329,19 +338,13 @@ The NOC has graciously met the needs of the Hackathon since its inception and co
 
 Online only meetings present not only a personal networking challenge but a computer networking challenge as well. The NOC came to the rescue with remote networking options to join the IETF network while attending the meeting remotely. With a Raspberry Pi 2B, 3B, or 4B, the NOC has a recipe that allow teams to be virtually connected to the IETF network with all the previously mentioned options. Best of all, this same remote networking capability can be used by remote and in-person participants of Hackathons at in-person meetings.
 
-## Online Only 
-
-The following tooling is applicable for online only Hackathons only.
-
-### Webex
-
-Webex accounts are applicable for online only Hackathons only.
+## Webex
 
 Champions can request a [Webex account](https://ietf.webex.com/webappng/sites/ietf/dashboard?siteurl=ietf) they can use to schedule meetings for their team. These are similar to the Webex accounts allocated to working group chairs to be used for virtual interim meetings. An account can be requested by a team champion at any time. Accounts remain active and available throughout the duration of the Hackathon and the associated IETF meeting. A project name may be used in place of "Working Group Name" in the request form.
 
-### Gather
+## Gather
 
-[Gather](https://gather.town/) is applicable for online only Hackathons. A dedicated area of the space is created by the Secretariat. The area includes tables, identified by letters of the alphabet, that teams are free to self assign and use as and when they like. Eight to ten seats around each table facilitate group discussions within the team. A whiteboard or shared notes tablet (via CodiMD) at tables facilitates sharing of information within the team. The tables also facilitate collaboration across teams. One cautionary note, Gather has relative high network bandwidth and CPU requirements, and as such may not be well suited for some Hackathon participants.
+[Gather](https://gather.town/) facilitates virtual hallway interaction during IETF meetings. A dedicated area within the overall space is created by the Secretariat for the Hackathon. The area includes tables, identified by letters of the alphabet, that teams are free to self assign and use as and when they like. Eight to ten seats around each table facilitate group discussions within the team. A whiteboard or shared notes tablet (via CodiMD) at tables facilitates sharing of information within the team. The tables also facilitate collaboration across teams. One cautionary note, Gather has relative high network bandwidth and CPU requirements, and as such may not be well suited for some Hackathon participants.
 
 # Statistics and Metrics
 
@@ -355,10 +358,6 @@ https://www.ietf.org/media/documents/survey-planning-possible-online-meetings-re
 - Hackathon 6.73% 20.20% 40.65% 19.70% 12.72% 3.11
 
 ## Hackathon Survey results
-
-todo
-
-### Online Only
 
 todo
 
@@ -432,7 +431,7 @@ The first several Hackathon involved judges who listened to summary presentation
 
 None.
 
-## Private Considerations
+## Privacy Considerations
 
 Participant email addresses are displayed publicly. Registrants optionally include these are part of their registrations. 
 
