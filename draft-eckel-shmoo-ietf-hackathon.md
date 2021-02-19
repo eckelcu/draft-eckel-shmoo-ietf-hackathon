@@ -217,7 +217,7 @@ For portability, presentations that use this template should be made exported in
 
 This template should render within any browser. It can be rendered as a slideshow using [remark](https://github.com/gnab/remark).
 
-### Upload to GitHub
+## Upload to GitHub
 
 All presentation are uploaded to the GitHub repo created the Hackathon (e.g., [https://github.com/ietf-hackathon/ietf108-project-presentations](https://github.com/ietf-hackathon/ietf108-project-presentations)). The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.
 
@@ -231,11 +231,11 @@ To be added as a member, presenters are asked to
 
 Presenters are asked to do this at their earliest convenience as the Chair(s) typically get very busy as the start of presentations approaches.
 
-### Presenting in Person
+## Presenting in Person
 
 Presentations are run from a shared ChromeBook at the front of the Hackathon room. This Chromebook is provided by the Secretariat.
 
-### Presenting Remotely 
+## Presenting Remotely 
 
 Remote presenters are welcome to run their own presentations using the screen sharing functionality in Meetecho. Alternatively, the Hackathon Chairs can share the presentation and advance slides for the presenter.
 
