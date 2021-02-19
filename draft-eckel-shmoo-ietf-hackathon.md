@@ -167,9 +167,18 @@ Additional items, in order of importance, include,
 
 #### T-shirts
 
-Hackathon t-shirts are an important part of the Hackathon. They have been provided for all in-person Hackathons and greatly appreciated by most participants. The also serve as great advertising for the IETF, the Hackathon, and sponsors. Cisco or other event sponsors have often covered expenses associated with t-shirts. The current model is that the secretariat covers the expenses using whatever funding is available.
+Hackathon t-shirts are an important part of the Hackathon. They have been provided for all in-person Hackathons and greatly appreciated by many participants. The also serve as great advertising for the IETF, the Hackathon, and sponsors. Cisco or other event sponsors have often covered expenses associated with t-shirts. The current model is that the secretariat covers the expenses using whatever funding is available.
 
-TBD: include size and cost info?
+The number of size distribution of t-shirts for IETF 107 is provided here as an example.
+
+* 380 t-shirts at a cost of roughly $10 USD / t-shirt with shipping to the Secretariat included
+	* 50 Small
+	* 120 Medium 
+	* 110 Large
+	* 75 XL
+	* 25 XXL
+
+The t-shirts are all standard cut. We previously tried providing fitted cut t-shirts as an option for Hackathon participants, but these were not well received.
 
 #### Stickers
 
