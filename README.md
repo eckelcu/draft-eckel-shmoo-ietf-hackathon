@@ -10,4 +10,4 @@ A branch is created to track each version of the draft, i.e. 00, 01, 02, etc. Wh
 * [IDNITS](https://tools.ietf.org/tools/idnits/) to verify the readiness of the resulting text version of the file for submission
 * [Internet-draft submission](https://datatracker.ietf.org/submit/) to submit updated version
 
-After a draft has been submitted, the branch in which is exists is merged with the "main" branch and a new branch is created for the next version.
+After a draft has been submitted, the branch in which it exists is merged with the "main" branch and a new branch is created for the next version.
