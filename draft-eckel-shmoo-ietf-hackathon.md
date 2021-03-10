@@ -1,7 +1,7 @@
 ---
 title: "Running an IETF Hackathon"
 abbrev: "ietf-hackathon"
-docname: draft-eckel-shmoo-ietf-hackathon-02
+docname: draft-eckel-shmoo-ietf-hackathon-latest
 category: info
 
 ipr: trust200902
