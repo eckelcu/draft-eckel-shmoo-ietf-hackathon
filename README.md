@@ -1,13 +1,24 @@
-# draft-eckelcu-shmoo-ietf-hackathon
+# Running an IETF Hackathon
 
-This repository contains a personal [IETF Internet-Drafts](https://www.ietf.org/standards/ids/) that has not yet been adopted by an IETF working group. The draft is in Markdown format. XML and text versions of the draft, as required for [draft submission](https://datatracker.ietf.org/submit/) are generated using:
+This is the working area for the individual Internet-Draft, "Running an IETF Hackathon".
 
-* [kramdown-rfc2629](https://github.com/cabo/kramdown-rfc2629/blob/master/README.md) to convert from Markdown to XML
-* [xml2rfc](https://xml2rfc.tools.ietf.org/) to convert from XML to to text and other formats
+* [Editor's Copy](https://eckelcu.github.io/internet-drafts/#go.draft-eckel-shmoo-ietf-hackathon.html)
+* [Individual Draft](https://tools.ietf.org/html/draft-eckel-shmoo-ietf-hackathon)
+* [Compare Editor's Copy to Individual Draft](https://eckelcu.github.io/internet-drafts/#go.draft-eckel-shmoo-ietf-hackathon.diff)
 
-A branch is created to track each version of the draft, i.e. 00, 01, 02, etc. Whenever a branch is ready for submission to the IETF, the following tools are used to verify and submit the draft:
+## Building the Draft
 
-* [IDNITS](https://tools.ietf.org/tools/idnits/) to verify the readiness of the resulting text version of the file for submission
-* [Internet-draft submission](https://datatracker.ietf.org/submit/) to submit updated version
+Formatted text and HTML versions of the draft can be built using `make`.
 
-After a draft has been submitted, the branch in which it exists is merged with the "main" branch and a new branch is created for the next version.
+```sh
+$ make
+```
+
+This requires that you have the necessary software installed.  See
+[the instructions](https://github.com/martinthomson/i-d-template/blob/master/doc/SETUP.md).
+
+
+## Contributing
+
+See the
+[guidelines for contributions](https://github.com/eckelcu/internet-drafts/blob/main/CONTRIBUTING.md).
