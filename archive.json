@@ -1,0 +1,290 @@
+{
+  "magic": "E!vIA5L86J2I",
+  "timestamp": "2021-03-14T00:10:45.847670+00:00",
+  "repo": "eckelcu/internet-drafts",
+  "labels": [
+    {
+      "name": "bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "duplicate",
+      "description": "This issue or pull request already exists",
+      "color": "cfd3d7"
+    },
+    {
+      "name": "enhancement",
+      "description": "New feature or request",
+      "color": "a2eeef"
+    },
+    {
+      "name": "help wanted",
+      "description": "Extra attention is needed",
+      "color": "008672"
+    },
+    {
+      "name": "good first issue",
+      "description": "Good for newcomers",
+      "color": "7057ff"
+    },
+    {
+      "name": "invalid",
+      "description": "This doesn't seem right",
+      "color": "e4e669"
+    },
+    {
+      "name": "question",
+      "description": "Further information is requested",
+      "color": "d876e3"
+    },
+    {
+      "name": "wontfix",
+      "description": "This will not be worked on",
+      "color": "ffffff"
+    }
+  ],
+  "issues": [
+    {
+      "number": 2,
+      "id": "MDU6SXNzdWU3OTk3NDk0ODk=",
+      "title": "reuse of Gather.town space",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/2",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "We plan to use Gather.town again for IETF 110. It is the same space used for IETF 109. Links to the space and guidelines for using it are available via the Hackathon wiki,\r\nhttps://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon\r\n\r\nAt the end of this week,  we will clean the Hackathon space in preparation for new projects and teams for IETF 110. If you left anything there from the IETF 109 Hackathon that you want to retain, make a copy of it before the end of this week.\r\n\r\nThis practice should be covered in the draft.",
+      "createdAt": "2021-02-02T22:12:25Z",
+      "updatedAt": "2021-02-19T21:23:26Z",
+      "closedAt": "2021-02-19T21:23:26Z",
+      "comments": []
+    },
+    {
+      "number": 3,
+      "id": "MDU6SXNzdWU3OTk3NTA0NTU=",
+      "title": "remote network prep ",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/3",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "Network (update draft accordingly)\r\n- Remote network from IETF 109 remains available\r\n- Reusing https://tickets.meeting.ietf.org/newticket\r\n- Form now has a milestone for \"ietf-110\"\r\n- For IETF 109, had roughly 10 network requests\r\n- Network will remain up after IETF 110",
+      "createdAt": "2021-02-02T22:13:23Z",
+      "updatedAt": "2021-02-19T22:17:59Z",
+      "closedAt": "2021-02-19T22:17:59Z",
+      "comments": []
+    },
+    {
+      "number": 4,
+      "id": "MDU6SXNzdWU3OTk3NTM1MzY=",
+      "title": "submit update that captures feedback to -01 draft prior to IETF 110 draft submission deadline",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/4",
+      "state": "OPEN",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "2021-02-22 (Monday): Internet Draft submission cut-off (for all drafts, including -00) by UTC 23:59. Upload using the ID Submission Tool (https://datatracker.ietf.org/submit/).",
+      "createdAt": "2021-02-02T22:16:31Z",
+      "updatedAt": "2021-02-19T18:30:53Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 5,
+      "id": "MDU6SXNzdWU4MDA0MzU0ODY=",
+      "title": "add hackathon as an event on relevant public calendars",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/5",
+      "state": "OPEN",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Examples include, \r\n\r\nhttps://www.ripe.net/participate/meetings/calendar\r\nhttps://labs.ripe.net/hackathons\r\nhttps://nsrc.org/calendar/\r\n",
+      "createdAt": "2021-02-03T15:26:16Z",
+      "updatedAt": "2021-02-03T15:26:16Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 6,
+      "id": "MDU6SXNzdWU4MDEzODU5NDI=",
+      "title": "replace online only sections with breakout of elements into those specific to in-person participation and those for remote or online only participation ",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/6",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "The Hackathon has changed in many ways to accommodate online IETF meetings. Many of the changes and additions will be beneficial for remote participation in in-person Hackathons as well. The document should be restructured from the perspective of the Hackathon as a whole with in-person aspects and online aspects rather than as an in-person event with specific changes when held online only.",
+      "createdAt": "2021-02-04T15:24:39Z",
+      "updatedAt": "2021-02-19T18:27:59Z",
+      "closedAt": "2021-02-19T18:27:59Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Addressed by https://github.com/eckelcu/draft-eckel-shmoo-ietf-hackathon/commit/e3e7022c8a373e6522559c0f6b822c58c5724e4c",
+          "createdAt": "2021-02-19T18:27:59Z",
+          "updatedAt": "2021-02-19T18:27:59Z"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "id": "MDU6SXNzdWU4MTA0NDcwODc=",
+      "title": "Hackathon questions in IETF meeting survey",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/7",
+      "state": "OPEN",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "\r\n1. Overall, how satisfied were you with the Hackathon?\r\n2. How satisfied were the registration process and availability of resources to help you prepare for the Hackathon?\r\n3. How satisfied were you with the kickoff session via Meetecho?\r\n4. How satisfied were you with the week-long format of the Hackathon with individual team schedules?\r\n5. How satisfied were you with Gather and the Hackathon space within it?\r\n6. How satisfied were you with the remote networking to the virtual IETF network?\r\n7. How satisfied were you with the closing session via Meetecho?\r\n8. How likely are you to participate in a future online only IETF Hackathon?\r\n9. How likely are you to participate in a future in-person IETF Hackathon?\r\n10. Please provide any additional comments or suggestions for future IETF Hackathons.",
+      "createdAt": "2021-02-17T18:52:51Z",
+      "updatedAt": "2021-02-17T18:52:51Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 8,
+      "id": "MDU6SXNzdWU4MTIxOTI4Mzg=",
+      "title": "Create and use alias for IETF Hackathon Chairs",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/8",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "This email alias has been created. It should to be used in place of personal email addresses in the wiki and on GitHub. It should also be covered in the draft.",
+      "createdAt": "2021-02-19T17:13:36Z",
+      "updatedAt": "2021-02-19T21:59:36Z",
+      "closedAt": "2021-02-19T21:59:36Z",
+      "comments": []
+    },
+    {
+      "number": 9,
+      "id": "MDU6SXNzdWU4MTIyNDYzMjI=",
+      "title": "add markown template for presentations that capture project results ",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/9",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "List of Markdown presentation formats can be found at:\r\nhttps://stymied.medium.com/what-slides-from-markdown-5239ed31e7ac\r\nhttps://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8\r\n\r\nIt is not clear if an RFC is needed to produce some standard, for example https://github.com/cabo/kramdown-rfc2629 which has an implementation in Ruby. A browser based implementation using Javascript may be helpful to have since it will be simpler to use, though may be more restrictive. Remark seems good for this, though one could also build something on top of Reveal to suite IETF purposes.\r\n\r\nExample of partially recreating the Hackathon template from here is at:\r\nhttps://bkmgit.github.io/tryremark/\r\nhttps://github.com/bkmgit/tryremark/tree/gh-pages\r\n\r\nMaybe a parser or modified parser specifically for IETF is better since two column layout may be good to have in a nice way, see for example:\r\n\r\nhttps://medium.com/javascript-in-plain-english/simple-markdown-parser-with-javascript-and-regular-expressions-f0c8d53449a4\r\nhttps://marked.js.org/demo/\r\n",
+      "createdAt": "2021-02-19T18:35:14Z",
+      "updatedAt": "2021-02-19T20:18:05Z",
+      "closedAt": "2021-02-19T20:18:05Z",
+      "comments": []
+    },
+    {
+      "number": 11,
+      "id": "MDU6SXNzdWU4MjQ4MTIzMjk=",
+      "title": "Add information on running code sponsorship opportunities",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/11",
+      "state": "OPEN",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-03-08T18:01:03Z",
+      "updatedAt": "2021-03-08T18:01:03Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 12,
+      "id": "MDU6SXNzdWU4MjQ4MTI3ODc=",
+      "title": "update example links to wiki pages to use those from IETF 110",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/12",
+      "state": "OPEN",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2021-03-08T18:01:40Z",
+      "updatedAt": "2021-03-08T18:01:40Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "MDExOlB1bGxSZXF1ZXN0NTI0MTI5NDc3",
+      "title": "01",
+      "url": "https://github.com/eckelcu/internet-drafts/pull/1",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Updates for draft-eckel-shmoo-ietf-hackathon-01",
+      "createdAt": "2020-11-19T17:51:29Z",
+      "updatedAt": "2020-11-19T17:53:05Z",
+      "baseRepository": "eckelcu/internet-drafts",
+      "baseRefName": "main",
+      "baseRefOid": "5ba67e629537ddf0fcd7e90c2de45b1290e3e93f",
+      "headRepository": "eckelcu/internet-drafts",
+      "headRefName": "01",
+      "headRefOid": "8d14e3cd1d990d223aaee8408e7bae34e4454687",
+      "closedAt": "2020-11-19T17:53:05Z",
+      "mergedAt": "2020-11-19T17:53:05Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "88375fd539543303160a5a5687abd8aca31bea15"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 10,
+      "id": "MDExOlB1bGxSZXF1ZXN0NTc2NzkxNTcz",
+      "title": "02",
+      "url": "https://github.com/eckelcu/internet-drafts/pull/10",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Version 02 was submitted into the IETF submission tool. The changes in it are now to be merged into main.",
+      "createdAt": "2021-02-19T23:14:38Z",
+      "updatedAt": "2021-02-19T23:21:28Z",
+      "baseRepository": "eckelcu/internet-drafts",
+      "baseRefName": "main",
+      "baseRefOid": "fdfcd8b20f19692ef94b0ac63813024d9177c9b8",
+      "headRepository": "eckelcu/internet-drafts",
+      "headRefName": "02",
+      "headRefOid": "96f0ee2c4ac4aad97fa46bd1119014301e9f8bfc",
+      "closedAt": "2021-02-19T23:21:28Z",
+      "mergedAt": "2021-02-19T23:21:28Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "9a4f7b477d339dd0019f448165177a2a9069f8f2"
+      },
+      "comments": [],
+      "reviews": []
+    }
+  ]
+}
