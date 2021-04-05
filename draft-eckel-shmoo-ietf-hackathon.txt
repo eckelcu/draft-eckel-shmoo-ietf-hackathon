@@ -4,8 +4,8 @@
 
 shmoo                                                           C. Eckel
 Internet-Draft                                             Cisco Systems
-Intended status: Informational                             10 March 2021
-Expires: 11 September 2021
+Intended status: Informational                              5 April 2021
+Expires: 7 October 2021
 
 
                        Running an IETF Hackathon
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 11 September 2021.
+   This Internet-Draft will expire on 7 October 2021.
 
 Copyright Notice
 
@@ -63,62 +63,60 @@ Copyright Notice
 Table of Contents
 
    1.  Introduction
-   2.  Conventions and Definitions
-   3.  Timing
-     3.1.  Agenda
-     3.2.  Hackdemo Happy Hour
-     3.3.  Code Lounge
-     3.4.  Code Sprint
-     3.5.  Online Only
-   4.  Funding
-     4.1.  Sponsorship
-     4.2.  Expenses
-       4.2.1.  In-person Event Expenses
-       4.2.2.  Remote Participation Expenses
-   5.  Project Presentations
-     5.1.  Project Pitches
-     5.2.  Results Summaries
-       5.2.1.  Templates
-     5.3.  Upload to GitHub
-     5.4.  Presenting in Person
-     5.5.  Presenting Remotely
-   6.  Tooling
-     6.1.  Datatracker
-     6.2.  IETF Website
-       6.2.1.  Hackathon Webpage
-       6.2.2.  Meeting Webpage
-     6.3.  Registration
-       6.3.1.  Attendee List
-       6.3.2.  Caps on Registrations
-     6.4.  Meeting Wiki
-       6.4.1.  Hackathon
-       6.4.2.  Lost and Found
-       6.4.3.  Results Presentation Schedule
-       6.4.4.  In Person Only
-       6.4.5.  Online Only
-     6.5.  Mailing List
-       6.5.1.  Hackathon Chairs Email Alias
-     6.6.  GitHub
-     6.7.  Meetecho
-     6.8.  Network
-       6.8.1.  Remote Networking
-     6.9.  Webex
-     6.10. Gather
-   7.  Statistics and Metrics
-     7.1.  IETF Survey Results
-     7.2.  Hackathon Survey results
-   8.  Roles and Responsibilities
-     8.1.  Hackathon Chair(s)
-     8.2.  Secretariat
-     8.3.  Sponsor
-     8.4.  Champions of Projects
-     8.5.  IETF LLC, Director of Communications and Operations (was
+   2.  Timing
+     2.1.  Agenda
+     2.2.  Hackdemo Happy Hour
+     2.3.  Code Lounge
+     2.4.  Code Sprint
+     2.5.  Online Only
+   3.  Funding
+     3.1.  Sponsorship
+     3.2.  Expenses
+       3.2.1.  In-person Event Expenses
+       3.2.2.  Remote Participation Expenses
+   4.  Project Presentations
+     4.1.  Project Pitches
+     4.2.  Results Summaries
+       4.2.1.  Templates
+     4.3.  Upload to GitHub
+     4.4.  Presenting in Person
+     4.5.  Presenting Remotely
+   5.  Tooling
+     5.1.  Datatracker
+     5.2.  IETF Website
+       5.2.1.  Hackathon Webpage
+       5.2.2.  Meeting Webpage
+     5.3.  Registration
+       5.3.1.  Attendee List
+       5.3.2.  Caps on Registrations
+     5.4.  Meeting Wiki
+       5.4.1.  Hackathon
+       5.4.2.  Lost and Found
+       5.4.3.  Results Presentation Schedule
+       5.4.4.  In Person Only
+       5.4.5.  Online Only
+     5.5.  Mailing List
+       5.5.1.  Hackathon Chairs Email Alias
+     5.6.  GitHub
+     5.7.  Meetecho
+     5.8.  Network
+       5.8.1.  Remote Networking
+     5.9.  Webex
+     5.10. Gather
+   6.  Statistics and Metrics
+     6.1.  IETF Survey Results
+     6.2.  Hackathon Survey results
+   7.  Roles and Responsibilities
+     7.1.  Hackathon Chair(s)
+     7.2.  Secretariat
+     7.3.  Sponsor
+     7.4.  Champions of Projects
+     7.5.  IETF LLC, Director of Communications and Operations (was
            ISOC)
-     8.6.  Judges
-   9.  Security Considerations
-     9.1.  Privacy Considerations
-   10. IANA Considerations
-   11. Normative References
+     7.6.  Judges
+   8.  Security Considerations
+     8.1.  Privacy Considerations
+   9.  IANA Considerations
    Acknowledgments
    Author's Address
 
@@ -164,15 +162,7 @@ Table of Contents
    This document provides a set of practices for running IETF
    Hackathons.
 
-2.  Conventions and Definitions
-
-   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
-   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
-   "OPTIONAL" in this document are to be interpreted as described in BCP
-   14 [RFC2119] [RFC8174] when, and only when, they appear in all
-   capitals, as shown here.
-
-3.  Timing
+2.  Timing
 
    The first IETF Hackathon was held the weekend before the start of the
    IETF 92 meeting.  The rationale was to avoid conflicts yet make it
@@ -191,7 +181,7 @@ Table of Contents
    more informal and social way to physically and mentally acclimate to
    changes in time zones, surroundings, and subject matter.
 
-3.1.  Agenda
+2.1.  Agenda
 
    The IETF Hackathon is a strenuous event.  Though not a competition,
    participants want to make the most of their time together, much as
@@ -261,7 +251,7 @@ Table of Contents
    facilitate ongoing discussion and work on projects beyond the
    official end of the Hackathon weekend.
 
-3.2.  Hackdemo Happy Hour
+2.2.  Hackdemo Happy Hour
 
    Hackdemo Happy Hour provides an opportunity for more in depth sharing
    and discussion than is possible within the time constraints of the
@@ -286,7 +276,7 @@ Table of Contents
    Light snacks and non alcoholic beverages are provided, and a cash bar
    is available to align with the spirit of a happy hour.
 
-3.3.  Code Lounge
+2.3.  Code Lounge
 
    The Code Lounge provides space for groups to gather and continue to
    collaborate on running code after the Hackathon.  It is typically in
@@ -298,7 +288,7 @@ Table of Contents
    in fact encouraged for work that spans multiple working groups or
    projects.
 
-3.4.  Code Sprint
+2.4.  Code Sprint
 
    Some efforts were made to have the Hackathon and the Code Sprint work
    together or potentially be combined into a single event focusing on
@@ -315,7 +305,7 @@ Table of Contents
    locate the events physically close to each other to facilitate
    switching back and forth between the two events.
 
-3.5.  Online Only
+2.5.  Online Only
 
    The IETF 107 Hackathon was originally scheduled to be the weekend at
    the start of the IETF meeting in Vancouver.  When COVID-19 hit and it
@@ -357,14 +347,14 @@ Table of Contents
    Hackdemo Happy Hour and the Code Lounge are not applicable for online
    only Hackathons.
 
-4.  Funding
+3.  Funding
 
    The Hackathon requires funding, and that funding increases with the
    number of participants.  Participating has always been free;
    therefore, funding from other sources than participant fees is
    required.
 
-4.1.  Sponsorship
+3.1.  Sponsorship
 
    The initial funding model was to have Hackathon sponsors sign up to
    sponsor and fund the Hackathon for one year.  As part of starting the
@@ -386,7 +376,7 @@ Table of Contents
    page on the IETF website (https://www.ietf.org/about/support/
    hackathon-sponsorship/).
 
-4.2.  Expenses
+3.2.  Expenses
 
    The primary expenses associated with the Hackathon are those for
    hosting an in-person event, e.g., meeting space, food and beverage,
@@ -394,13 +384,13 @@ Table of Contents
    associated with the Hackathon from that incurred for the IETF meeting
    overall.
 
-4.2.1.  In-person Event Expenses
+3.2.1.  In-person Event Expenses
 
    The following expenses are associated with in-person participation in
    a Hackathon.  When the IETF meeting is online only, these expenses
    are eliminated.
 
-4.2.1.1.  Meeting Space
+3.2.1.1.  Meeting Space
 
    The meeting space for the Hackathon is sometimes included as part of
    the overall contract for the IETF meeting.  Other times, additional
@@ -412,7 +402,7 @@ Table of Contents
    continues to increase, it might be necessary to use the same space as
    is later used for the IETF plenary.
 
-4.2.1.2.  Food and Beverage
+3.2.1.2.  Food and Beverage
 
    Some portion of the food and beverage expense is often included as
    part of a minimum spend the IETF is obligated to make.  When a
@@ -436,7 +426,7 @@ Table of Contents
 
    *  afternoon snacks Saturday and Sunday
 
-4.2.1.3.  T-shirts
+3.2.1.3.  T-shirts
 
    Hackathon t-shirts are an important part of the Hackathon.  They have
    been provided for all in-person Hackathons and greatly appreciated by
@@ -466,14 +456,14 @@ Table of Contents
    fitted cut t-shirts as an option for Hackathon participants, but
    these were not well received.
 
-4.2.1.4.  Stickers
+3.2.1.4.  Stickers
 
    Laptop stickers are popular with developers.  Stickers have been made
    available at the Hackathon for those that want them.  Expenses have
    been covered by the IETF LLC, Director of Communications and
    Operations.
 
-4.2.2.  Remote Participation Expenses
+3.2.2.  Remote Participation Expenses
 
    The following expenses are associated things done primarily to
    facilitate remote participation in a Hackathon.  This includes
@@ -500,7 +490,7 @@ Table of Contents
    participation facilities from 7 days to 12 days.  This may result in
    increases to the cost of providing these facilities.
 
-5.  Project Presentations
+4.  Project Presentations
 
    Project presentations are an important mechanism for capturing what
    each team intends to accomplish, what they actually accomplished, and
@@ -514,7 +504,7 @@ Table of Contents
 
    2.  Presentations that summarize results at the end of the Hackathon.
 
-5.1.  Project Pitches
+4.1.  Project Pitches
 
    The project pitches were 5-10 minute presentations by a champion of a
    project describing what they wanted to do and how they proposed to
@@ -528,9 +518,9 @@ Table of Contents
    spend a couple hours listening to presentations.  Project pitches
    were dropped from the Hackathon.  Champions are encouraged to share
    this type of information in advance via the Meeting Wiki
-   (Section 6.4) instead.
+   (Section 5.4) instead.
 
-5.2.  Results Summaries
+4.2.  Results Summaries
 
    The results summaries are brief presentation by each team of what
    problem they tried to solve, what they achieved, and highlights that
@@ -550,7 +540,7 @@ Table of Contents
    enforced to ensure all teams have the opportunity to present their
    results.  Maximum durations of 3-5 minutes are typical.
 
-5.2.1.  Templates
+4.2.1.  Templates
 
    Project results presentation templates provides guidance on what to
    cover.  The use of these templates is optional.  They are made
@@ -559,17 +549,17 @@ Table of Contents
    https://github.com/ietf-hackathon/ietf108-project-presentations
    (https://github.com/ietf-hackathon/ietf108-project-presentations)).
 
-5.2.1.1.  PPTX
+4.2.1.1.  PPTX
 
    For portability, presentations that use this template should be made
    exported into PDF format as well.
 
-5.2.1.2.  HTML format
+4.2.1.2.  HTML format
 
    This template should render within any browser.  It can be rendered
    as a slideshow using remark (https://github.com/gnab/remark).
 
-5.3.  Upload to GitHub
+4.3.  Upload to GitHub
 
    All presentation are uploaded to the GitHub repo created the
    Hackathon (e.g., https://github.com/ietf-hackathon/ietf108-project-
@@ -593,24 +583,24 @@ Table of Contents
    Chair(s) typically get very busy as the start of presentations
    approaches.
 
-5.4.  Presenting in Person
+4.4.  Presenting in Person
 
    Presentations are run from a shared ChromeBook at the front of the
    Hackathon room.  This Chromebook is provided by the Secretariat.
 
-5.5.  Presenting Remotely
+4.5.  Presenting Remotely
 
    Remote presenters are welcome to run their own presentations using
    the screen sharing functionality in Meetecho.  Alternatively, the
    Hackathon Chairs can share the presentation and advance slides for
    the presenter.
 
-6.  Tooling
+5.  Tooling
 
    The IETF Hackathon uses the same tooling used by the IETF community
    for its work and meetings.
 
-6.1.  Datatracker
+5.1.  Datatracker
 
    The datatracker (https://datatracker.ietf.org/) supports the notion
    of Teams that are not a part of the standards development process.
@@ -628,9 +618,9 @@ Table of Contents
 
    *  posting agendas (https://datatracker.ietf.org/meeting/agenda/)
 
-6.2.  IETF Website
+5.2.  IETF Website
 
-6.2.1.  Hackathon Webpage
+5.2.1.  Hackathon Webpage
 
    The IETF website includes a dedicated page for the Hackathon webpage
    (https://www.ietf.org/how/runningcode/hackathons/).  This page
@@ -639,14 +629,14 @@ Table of Contents
    updated after each IETF meeting.  Other content on the page is
    updated on a more ad hoc basis.
 
-6.2.2.  Meeting Webpage
+5.2.2.  Meeting Webpage
 
    Each IETF meeting webpage (https://www.ietf.org/how/meetings/)
    contains information about the corresponding Hackathon, including the
    dates of the Hackathon in the header, a link to the Hackathon webpage
    in the "Additional Events" section.
 
-6.3.  Registration
+5.3.  Registration
 
    Registration for the Hackathon is through the IETF meeting
    registration (https://registration.ietf.org) system.  Participant
@@ -662,7 +652,7 @@ Table of Contents
    acknowledge the Note Well (https://ietf.org/about/note-well/) during
    the registration process.
 
-6.3.1.  Attendee List
+5.3.1.  Attendee List
 
    An active list of all registered attendees (e.g.,
    https://registration.ietf.org/109/participants/hackathon/
@@ -673,7 +663,7 @@ Table of Contents
    information is optional at the time of registration and may be
    updated or removed by editing ones registration.
 
-6.3.2.  Caps on Registrations
+5.3.2.  Caps on Registrations
 
    Registrations were capped for the first several Hackathons.  This was
    done both for space and costs considerations.  The cap was hit
@@ -682,12 +672,12 @@ Table of Contents
    increased.  Currently, there are no caps enforced by the registration
    system.
 
-6.4.  Meeting Wiki
+5.4.  Meeting Wiki
 
    The meeting wiki serves as the primary source of information for each
    Hackathon.
 
-6.4.1.  Hackathon
+5.4.1.  Hackathon
 
    A page within the meeting wiki (e.g.,
    https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon
@@ -703,7 +693,7 @@ Table of Contents
    (https://datatracker.ietf.org/accounts/create/) a new datatracker
    account.
 
-6.4.2.  Lost and Found
+5.4.2.  Lost and Found
 
    A Lost and Found wiki page (e.g.,
    https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon/lost&found
@@ -716,7 +706,7 @@ Table of Contents
    encouraged to add their teams to the "Skills Needed" table, providing
    some information about the skills they seek.
 
-6.4.3.  Results Presentation Schedule
+5.4.3.  Results Presentation Schedule
 
    A Results Presentation Schedule wiki page (e.g.,
    https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon/
@@ -728,12 +718,12 @@ Table of Contents
    name of their project and the name of the presenter to the table at
    the bottom of this page.
 
-6.4.4.  In Person Only
+5.4.4.  In Person Only
 
    The following wiki pages are applicable for in-person Hackathons
    only.
 
-6.4.4.1.  Hackdemo Happy Hour
+5.4.4.1.  Hackdemo Happy Hour
 
    A Hackdemo Happy Hour wiki page (e.g.,
    https://trac.ietf.org/trac/ietf/meeting/wiki/106hackdemo
@@ -743,7 +733,7 @@ Table of Contents
    and a contact name and email address in the table displayed on the
    page.
 
-6.4.4.2.  Code Lounge
+5.4.4.2.  Code Lounge
 
    A Code Lounge wiki page (e.g.,
    https://trac.ietf.org/trac/ietf/meeting/wiki/106codelounge
@@ -753,11 +743,11 @@ Table of Contents
    and a contact name and email address in the table displayed on the
    page.
 
-6.4.5.  Online Only
+5.4.5.  Online Only
 
    The following wiki pages are applicable for online Hackathons only.
 
-6.4.5.1.  Team Schedule
+5.4.5.1.  Team Schedule
 
    A Team Schedule wiki page (e.g.,
    https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon/
@@ -771,7 +761,7 @@ Table of Contents
    page is meant to help facilitate coordination of schedules within and
    across teams.
 
-6.5.  Mailing List
+5.5.  Mailing List
 
    The Hackathon mail list, hacakthon@ietf.org
    (https://www.ietf.org/mailman/listinfo/Hackathon), is used for all
@@ -780,14 +770,14 @@ Table of Contents
    interested in staying up to date on the Hackathon is able to
    subscribe at any time.
 
-6.5.1.  Hackathon Chairs Email Alias
+5.5.1.  Hackathon Chairs Email Alias
 
    The email alias hackathon-chairs@ietf.org (mailto:hackathon-
    chairs@ietf.org) was created and is maintained by the Secretariat.
    It is used on hackathons webpages and wiki pages to provide a single
    point of contact for the Hackathon.
 
-6.6.  GitHub
+5.6.  GitHub
 
    The IETF-Hackathon (https://github.com/ietf-hackathon) is used to
    share code, presentations, and other artifacts at IETF Hackathons.
@@ -806,7 +796,7 @@ Table of Contents
    all project presentations at the end of the Hackathon and remain as a
    reference after the Hackathon.
 
-6.7.  Meetecho
+5.7.  Meetecho
 
    Meetecho (https://www.meetecho.com/) is used for the kickoff and
    closing sessions of the Hackathon.  This provides many capabilities,
@@ -822,7 +812,7 @@ Table of Contents
 
    *  capture recording of Hackathon sessions
 
-6.8.  Network
+5.8.  Network
 
    Access to the IETF network is an important aspect of the Hackathon.
    The IETF network provides unfettered Internet access that is not
@@ -841,7 +831,7 @@ Table of Contents
    this, and the IETF network in general, is made available by the start
    of the Hackathon and in advance for setup to the extent possible.
 
-6.8.1.  Remote Networking
+5.8.1.  Remote Networking
 
    Online only meetings present both a personal networking challenge and
    a computer networking challenge.  The NOC came to the rescue for the
@@ -857,7 +847,7 @@ Table of Contents
    access through the IETF Ticketing System
    (https://tickets.meeting.ietf.org/newticket).
 
-6.9.  Webex
+5.9.  Webex
 
    Champions can request a Webex account
    (https://ietf.webex.com/webappng/sites/ietf/dashboard?siteurl=ietf)
@@ -869,7 +859,7 @@ Table of Contents
    meeting.  A project name may be used in place of "Working Group Name"
    in the request form.
 
-6.10.  Gather
+5.10.  Gather
 
    Gather (https://gather.town/) facilitates virtual hallway interaction
    during IETF meetings.  A dedicated area within the overall space is
@@ -890,12 +880,12 @@ Table of Contents
    Hackathon teams are encouraged to make a copy of anything they want
    to retain within a week of the end of the IETF meeting.
 
-7.  Statistics and Metrics
+6.  Statistics and Metrics
 
    Metrics have been captured for each Hackathon.  Adding these metrics
    is on the todo list.
 
-7.1.  IETF Survey Results
+6.1.  IETF Survey Results
 
    https://www.ietf.org/media/documents/survey-planning-possible-online-
    meetings-responses.pdf
@@ -904,11 +894,11 @@ Table of Contents
    all important, Score (lower score is more important)) - Hackathon
    6.73% 20.20% 40.65% 19.70% 12.72% 3.11
 
-7.2.  Hackathon Survey results
+6.2.  Hackathon Survey results
 
    todo
 
-8.  Roles and Responsibilities
+7.  Roles and Responsibilities
 
    This section provides a summary of the roles and responsibilities of
    individuals and groups involved in a successful IETF Hackathon.  The
@@ -916,7 +906,7 @@ Table of Contents
    responsibilities are described entirely or in more detail throughout
    the rest of the document.
 
-8.1.  Hackathon Chair(s)
+7.1.  Hackathon Chair(s)
 
    The role of a Hackathon chair is similar to that of a working group
    chair.  As with working groups, it is typically best to have co-
@@ -950,7 +940,7 @@ Table of Contents
 
    *  Main point of contact for all Hackathon questions and concerns
 
-8.2.  Secretariat
+7.2.  Secretariat
 
    Key responsibilities include:
 
@@ -977,7 +967,7 @@ Table of Contents
    *  Assist with external outreach, as needed, including finding
       sponsors
 
-8.3.  Sponsor
+7.3.  Sponsor
 
    Key responsibilities include:
 
@@ -1007,7 +997,7 @@ Table of Contents
    *  Recognition in IETF community for helping the IETF Hackathon
       remain free and open to everyone
 
-8.4.  Champions of Projects
+7.4.  Champions of Projects
 
    Champions of projects are the key to a successful Hackathon.  Key
    responsibilities for champions include:
@@ -1025,7 +1015,7 @@ Table of Contents
 
    *  Provide focus, guidance, and leadership for the project
 
-8.5.  IETF LLC, Director of Communications and Operations (was ISOC)
+7.5.  IETF LLC, Director of Communications and Operations (was ISOC)
 
    Key responsibilities include:
 
@@ -1037,7 +1027,7 @@ Table of Contents
 
    *  Laptop stickers
 
-8.6.  Judges
+7.6.  Judges
 
    The first several Hackathon involved judges who listened to summary
    presentations by teams at the closing of each Hackathon and
@@ -1056,34 +1046,23 @@ Table of Contents
    the IETF community has an innate incentive to participate and present
    results in the Hackathon.
 
-9.  Security Considerations
+8.  Security Considerations
 
    None.
 
-9.1.  Privacy Considerations
+8.1.  Privacy Considerations
 
    Participant names and email addresses are displayed publicly in the
-   Attendee List (Section 6.3.1).  Participants may opt-in or opt-out of
+   Attendee List (Section 5.3.1).  Participants may opt-in or opt-out of
    the display of their email address as part of their registration.
 
    The email addresses of individual champions are often shared publicly
    by the champions on the wiki.  This is done voluntarily by individual
    champions to make it easier for others to contact them.
 
-10.  IANA Considerations
+9.  IANA Considerations
 
    This document has no IANA actions.
-
-11.  Normative References
-
-   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
-              Requirement Levels", BCP 14, RFC 2119,
-              DOI 10.17487/RFC2119, March 1997,
-              <https://datatracker.ietf.org/doc/html/rfc2119>.
-
-   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
-              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
-              May 2017, <https://datatracker.ietf.org/doc/html/rfc8174>.
 
 Acknowledgments
 
