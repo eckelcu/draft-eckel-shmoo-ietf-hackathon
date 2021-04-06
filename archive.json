@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-03-14T00:10:45.847670+00:00",
+  "timestamp": "2021-04-06T00:33:06.244729+00:00",
   "repo": "eckelcu/internet-drafts",
   "labels": [
     {
@@ -227,6 +227,24 @@
       "updatedAt": "2021-03-08T18:01:40Z",
       "closedAt": null,
       "comments": []
+    },
+    {
+      "number": 13,
+      "id": "MDU6SXNzdWU4NTA1NzIwNzQ=",
+      "title": "remove normative language references",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/13",
+      "state": "CLOSED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [
+        "eckelcu"
+      ],
+      "labels": [],
+      "body": "This draft has no normative language. The references are not necessary.",
+      "createdAt": "2021-04-05T18:40:06Z",
+      "updatedAt": "2021-04-05T19:07:11Z",
+      "closedAt": "2021-04-05T19:07:11Z",
+      "comments": []
     }
   ],
   "pulls": [
@@ -282,6 +300,34 @@
       "mergedBy": "eckelcu",
       "mergeCommit": {
         "oid": "9a4f7b477d339dd0019f448165177a2a9069f8f2"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 14,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjA5MTM1OTI2",
+      "title": "remove section on normative language",
+      "url": "https://github.com/eckelcu/internet-drafts/pull/14",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Address issue #13 ",
+      "createdAt": "2021-04-05T19:03:23Z",
+      "updatedAt": "2021-04-05T19:05:30Z",
+      "baseRepository": "eckelcu/internet-drafts",
+      "baseRefName": "main",
+      "baseRefOid": "277f3e9ad012e0dd616e4355112aecd584693b1e",
+      "headRepository": "eckelcu/internet-drafts",
+      "headRefName": "normative",
+      "headRefOid": "60d5912d38bc443025443f98dcc705f3f62ce38c",
+      "closedAt": "2021-04-05T19:05:29Z",
+      "mergedAt": "2021-04-05T19:05:29Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "4472843b1b59939edb292dd74553242b330e8de4"
       },
       "comments": [],
       "reviews": []
