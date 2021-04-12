@@ -4,8 +4,8 @@
 
 shmoo                                                           C. Eckel
 Internet-Draft                                             Cisco Systems
-Intended status: Informational                              5 April 2021
-Expires: 7 October 2021
+Intended status: Informational                             12 April 2021
+Expires: 14 October 2021
 
 
                        Running an IETF Hackathon
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 7 October 2021.
+   This Internet-Draft will expire on 14 October 2021.
 
 Copyright Notice
 
@@ -1019,13 +1019,17 @@ Table of Contents
 
    Key responsibilities include:
 
-   *  External (outside world) promotion
+   *  External promotion outside of IETF, including web search engine ad
+      words, social media posts, and listing on external event calendars
+      such as https://www.ripe.net/participate/meetings/calendar and
+      https://nsrc.org/calendar/.
 
    *  Outreach to local universities
 
-   *  Provide photographer
+   *  Provide photographer, including optional team photos and candid
+      photos of collaborating during in-person events
 
-   *  Laptop stickers
+   *  Laptop stickers (Section 3.2.1.4) at in-person events
 
 7.6.  Judges
 
