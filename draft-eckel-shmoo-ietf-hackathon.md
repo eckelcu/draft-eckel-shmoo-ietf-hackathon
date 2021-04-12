@@ -442,10 +442,10 @@ Champions of projects are the key to a successful Hackathon. Key responsibilitie
 
 Key responsibilities include:
 
-* External (outside world) promotion
+* External promotion outside of IETF, including web search engine ad words, social media posts, and listing on external event calendars such as https://www.ripe.net/participate/meetings/calendar and https://nsrc.org/calendar/.
 * Outreach to local universities
-* Provide photographer
-* Laptop stickers
+* Provide photographer, including optional team photos and candid photos of collaborating during in-person events
+* [Laptop stickers](#stickers) at in-person events
 
 ## Judges
 
