@@ -125,7 +125,7 @@ The initial funding model was to have Hackathon sponsors sign up to sponsor and 
 
 Online only Hackathons in response to the COVID-19 pandemic, and increased remote participating in general, result in increased cloud infrastructure requirements that make Hackathon sponsorship more attractive to cloud infrastructure providers.
 
-Hackathon sponsorship is available at different levels as part of being an [IETF Running Code Sponsor](https://www.ietf.org/about/support/hackathon-sponsorship/).
+Hackathon sponsorship is available at different levels as part of being an [IETF Running Code Sponsor](https://www.ietf.org/about/support/#running-code).
 
 ## Expenses
 
