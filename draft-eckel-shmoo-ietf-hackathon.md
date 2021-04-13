@@ -218,7 +218,7 @@ This template should render within any browser. It can be rendered as a slidesho
 
 ## Upload to GitHub
 
-All presentation are uploaded to the GitHub repo created the Hackathon (e.g., [https://github.com/ietf-hackathon/ietf108-project-presentations](https://github.com/ietf-hackathon/ietf108-project-presentations)). The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.
+All presentation are uploaded to the GitHub repo created the Hackathon, e.g., <https://github.com/ietf-hackathon/ietf110-project-presentations>. The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.
 
 One must be a member of the IETF-Hackathon GitHub org to upload a new presentation or update/replace an existing presentation.
 
@@ -272,7 +272,7 @@ As with meeting registration, registrants for the Hackathon acknowledge the [Not
 
 ### Attendee List
 
-An active list of all registered attendees (e.g., [https://registration.ietf.org/109/participants/hackathon/](https://registration.ietf.org/109/participants/hackathon/)) is maintained by the Secretariat. Important information displayed for each registrants include the set of projects and technologies in which each participant is interested and an email address. This information is optional at the time of registration and may be updated or removed by editing ones registration.
+An active list of all registered attendees, e.g., <https://registration.ietf.org/110/participants/hackathon/>, is maintained by the Secretariat. Important information displayed for each registrant includes the set of projects and technologies in which each participant is interested and an email address. This information is optional at the time of registration and may be updated or removed by editing one's registration.
 
 
 ### Caps on Registrations
@@ -285,17 +285,17 @@ The meeting wiki serves as the primary source of information for each Hackathon.
 
 ### Hackathon
 
-A page within the meeting wiki (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon](https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon)) is created by the Secretariat for each Hackathon and initialized with information that is based largely on the information from the previous Hackathon. Once created, the Hackathon Chairs update and moderate this page. Champions are requested and responsible for adding information about projects for which they are a champion.
+A page within the meeting wiki, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon>, is created by the Secretariat for each Hackathon and initialized with information that is based largely on the information from the previous Hackathon. Once created, the Hackathon Chairs update and moderate this page. Champions are requested and responsible for adding information about projects for which they are a champion.
 
 Anyone can edit the wiki by logging in using their datatracker login credentials. Credentials can be obtained by [requesting](https://datatracker.ietf.org/accounts/create/) a new datatracker account.
 
 ### Lost and Found
 
-A Lost and Found wiki page (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon/lost&found](https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon/lost&found)) is created by the Chairs for each Hackathon. Participants looking for a team are encouraged to add themselves to the "Skills to Offer" table, providing some information about their skills and interests. This will help others with matching needs and/or interests find them. Champions wanting help on their projects are encouraged to add their teams to the "Skills Needed" table, providing some information about the skills they seek.
+A Lost and Found wiki page, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon/lost&found>, is created by the Chairs for each Hackathon. Participants looking for a team are encouraged to add themselves to the "Skills to Offer" table, providing some information about their skills and interests. This will help others with matching needs and/or interests find them. Champions wanting help on their projects are encouraged to add their teams to the "Skills Needed" table, providing some information about the skills they seek.
 
 ### Results Presentation Schedule
 
-A Results Presentation Schedule wiki page (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon/resultspresentationschedule](https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon/resultspresentationschedule)) is created by the Chairs for each Hackathon. Hackathon teams are welcome and encouraged to present their results during the Hackathon Closing. Hackathon teams add the name of their project and the name of the presenter to the table at the bottom of this page.
+A Results Presentation Schedule wiki page, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon/resultspresentationschedule>, is created by the Chairs for each Hackathon. Hackathon teams are welcome and encouraged to present their results during the Hackathon Closing. Hackathon teams add the name of their project and the name of the presenter to the table at the bottom of this page.
 
 
 ### In Person Only
@@ -304,11 +304,11 @@ The following wiki pages are applicable for in-person Hackathons only.
 
 #### Hackdemo Happy Hour
 
-A Hackdemo Happy Hour wiki page (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/106hackdemo](https://trac.ietf.org/trac/ietf/meeting/wiki/106hackdemo)) is created by the Chairs for each Hackathon. Champions are welcome and encouraged to add their project by entering the project name/acronym and a contact name and email address in the table displayed on the page.
+A Hackdemo Happy Hour wiki page, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/106hackdemo>, is created by the Chairs for each Hackathon. Champions are welcome and encouraged to add their project by entering the project name/acronym and a contact name and email address in the table displayed on the page.
 
 #### Code Lounge
 
-A Code Lounge wiki page (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/106codelounge](https://trac.ietf.org/trac/ietf/meeting/wiki/106codelounge)) is created by the Chairs for each Hackathon. Champions are welcome and encouraged to add their project by entering the project name/acronym and a contact name and email address in the table displayed on the page.
+A Code Lounge wiki page, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/106codelounge>, is created by the Chairs for each Hackathon. Champions are welcome and encouraged to add their project by entering the project name/acronym and a contact name and email address in the table displayed on the page.
 
 ### Online Only
 
@@ -316,7 +316,7 @@ The following wiki pages are applicable for online Hackathons only.
 
 #### Team Schedule
 
-A Team Schedule wiki page (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon/teamschedule](https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon/teamschedule)) is created by the Chairs for each online only Hackathon. Online only Hackathons take place globally for an entire week. It is up to individual project teams to determine the preferred dates, times, and ways to meet to work on their project within the context of that week (e.g., Zoom, Webex, Slack). This page is meant to help facilitate coordination of schedules within and across teams.
+A Team Schedule wiki page, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon/teamschedule>, is created by the Chairs for each online only Hackathon. Online only Hackathons take place globally for an entire week. It is up to individual project teams to determine the preferred dates, times, and ways to meet to work on their project within the context of that week (e.g., Zoom, Webex, Slack). This page is meant to help facilitate coordination of schedules within and across teams.
 
 ## Mailing List
 
@@ -332,7 +332,7 @@ The [IETF-Hackathon](https://github.com/ietf-hackathon) is used to share code, p
 
 Code for Hackathon projects often exist elsewhere, which is perfectly fine. Anyone needing a place to host code for the Hackathon can request the creating of a repository for their project.
 
-A repository is created and maintained by the Chairs for each Hackathon (e.g., [https://github.com/ietf-hackathon/ietf109-project-presentations](https://github.com/ietf-hackathon/ietf109-project-presentations)). This repo is for  participants to upload project presentations. The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.
+A repository is created and maintained by the Chairs for each Hackathon, e.g., <https://github.com/ietf-hackathon/ietf110-project-presentations>. This repo is for  participants to upload project presentations. The contents of this repo are used as the source for all project presentations at the end of the Hackathon and remain as a reference after the Hackathon.
 
 ## Meetecho
 
@@ -371,11 +371,11 @@ Metrics have been captured for each Hackathon. Adding these metrics is on the to
 
 ## IETF Survey Results
 
-For each IETF meeting, there is typically a post event survey that includes a question or two about the Hackathon, e.g., [IETF 106 Survey Results](https://www.ietf.org/media/documents/IETF_106_Meeting_Survey.pdf).
+For each IETF meeting, there is a post event survey that often includes a question or two about the Hackathon, e.g., [IETF 106 Survey Results](https://www.ietf.org/media/documents/IETF_106_Meeting_Survey.pdf).
 
 ## Hackathon Survey Results
 
-Hackathon specific surveys have been used on a few occasions to obtain more detailed feedback about the Hackathon from the IETF community. This has been especially useful for feedback on online only Hackathons. Survey have been short with most questions being optional, e.g., [IETF 110 Hackathon Survey Results](https://ql.tc/8K1JeZ).
+Hackathon specific surveys have been used on some occasions to obtain more detailed feedback about the Hackathon from the IETF community. This has been especially useful for feedback on online only Hackathons. Survey have been short with most questions being optional, e.g., [IETF 110 Hackathon Survey Results](https://ql.tc/8K1JeZ).
 
 # Roles and Responsibilities
 
@@ -387,12 +387,12 @@ The role of a Hackathon chair is similar to that of a working group chair. As wi
 
 * Organize and deliver a Hackathon at each IETF meeting, soliciting help from all other roles to do much of the heavy lifting
 * Encourage and provide guidance to champions who volunteer to lead projects
-* Maintain the Hackathon wiki (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon](https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon)) and all of its child pages.
-* Moderate Hackathon@ietf.org email list
-* Request sessions for Hackathon opening and closing at IETF meeting (i.e., [https://datatracker.ietf.org/secr/sreq/](ttps://datatracker.ietf.org/secr/sreq/))
+* Maintain the Hackathon wiki, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon>, and all of its child pages.
+* Moderate <hackathon@ietf.org> email list
+* [Request sessions](https://datatracker.ietf.org/secr/sreq/) for the Hackathon opening and closing in the IETF meeting
 * Emcee the Hackathon, including the opening and closing sessions and announcements in between
-* Create and manage the GitHub repo used for each Hackathon (e.g., [https://github.com/ietf-hackathon/ietf108-project-presentations](https://github.com/ietf-hackathon/ietf108-project-presentations))
-* Main point of contact for all Hackathon questions and concerns
+* Create and manage the GitHub repo used for each Hackathon, e.g., <https://github.com/ietf-hackathon/ietf110-project-presentations>
+* Serve as main point of contact for all Hackathon questions and concerns
 
 ## Secretariat
 
@@ -400,10 +400,10 @@ Key responsibilities include:
 
 * Configure and manage Hackathon registration system
 * Maintain Hackathon [web page](https://www.ietf.org/how/runningcode/hackathons/)
-* Create and maintain web page for each Hackathon (e.g., [https://www.ietf.org/how/runningcode/hackathons/109-hackathon/](https://www.ietf.org/how/runningcode/hackathons/109-hackathon/))
-* Create wiki page for each Hackathon (e.g., [https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon](https://trac.ietf.org/trac/ietf/meeting/wiki/109hackathon)). This is initialized and updated at times by the Secretariat, but the Chair(s) are ultimately responsible for maintaining it.
+* Create and maintain web page for each Hackathon, e.g., <https://www.ietf.org/how/runningcode/hackathons/110-hackathon/>
+* Create wiki page for each Hackathon, e.g., <https://trac.ietf.org/trac/ietf/meeting/wiki/110hackathon>. This is initialized and updated at times by the Secretariat, but the Chair(s) are ultimately responsible for maintaining it.
 * Handle venue logistics for Hackathon, Hackdemo Happy Hour, and Code Lounge (e.g., reserve room, food and beverages, AV, etc.)
-* Internal IETF promotion (e.g., email messages to community)
+* Internal IETF promotion (e.g., email messages to IETF community)
 * Assist with external outreach, as needed, including finding sponsors
 
 ## Sponsor
@@ -439,7 +439,7 @@ Champions of projects are the key to a successful Hackathon. Key responsibilitie
 
 Key responsibilities include:
 
-* External promotion outside of IETF, including web search engine ad words, social media posts, and listing on external event calendars such as https://www.ripe.net/participate/meetings/calendar and https://nsrc.org/calendar/.
+* External promotion outside of IETF, including web search engine ad words, social media posts, and listing on external event calendars such as <https://www.ripe.net/participate/meetings/calendar> and <https://nsrc.org/calendar/>.
 * Outreach to local universities
 * Provide photographer, including optional team photos and candid photos of collaborating during in-person events
 * [Laptop stickers](#stickers) at in-person events
