@@ -206,7 +206,7 @@ As with the project pitches, results summaries can become unwieldy as the number
 
 ### Templates
 
-Project results presentation templates provides guidance on what to cover. The use of these templates is optional. They are made available in various in various formats in a GitHub repo created specifically for the presentations for each IETF Hackathon (e.g., [https://github.com/ietf-hackathon/ietf108-project-presentations](https://github.com/ietf-hackathon/ietf108-project-presentations)).
+Project results presentation templates provides guidance on what to cover. The use of these templates is optional. They are made available in various in various formats in a GitHub repo created specifically for the presentations for each IETF Hackathon, e.g., <https://github.com/ietf-hackathon/ietf110-project-presentations>.
 
 #### PPTX
 
