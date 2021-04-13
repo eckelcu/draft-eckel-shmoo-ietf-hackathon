@@ -107,11 +107,11 @@ The Code Sprint existed long before the Hackathon and has its own identity and w
 
 ## Online Only
 
-The IETF 107 Hackathon was originally scheduled to be the weekend at the start of the IETF meeting in Vancouver. When COVID-19 hit and it became clear the IETF meeting could not occur in person, the Hackathon already had 23 projects and 176 registrations. With only 10 days until the anticipated start of the Hackathon, a survey went out to the Hackathon community, including all project champions and registered participants, to see if they wanted to participate in the Hackathon exactly as planned except with everyone participating remotely rather than in person. A relatively small number of people expressed interest in participating, with even fewer wanting to continue to champion their projects. The fact that the Hackathon was planned for the weekend before the IETF meeting and in the local time zone, both of which were historically very convenient and attractive to Hackathon participants, suddenly became huge obstacles. Consequently, the IETF 107 Hackathon was cancelled.
+The IETF 107 Hackathon was originally scheduled to be the weekend at the start of the IETF meeting in Vancouver. When COVID-19 hit and it became clear the IETF meeting could not occur in person, the Hackathon already had 23 projects and 176 registrations. With only 10 days until the anticipated start of the Hackathon, a [survey](https://www.surveymonkey.com/results/SM-9HLRXN8M7/) went out to the Hackathon community, including all project champions and registered participants, to see if they wanted to participate in the Hackathon exactly as planned except with everyone participating remotely rather than in person. A relatively small number of people expressed interest in participating, with even fewer wanting to continue to champion their projects. The fact that the Hackathon was planned for the weekend before the IETF meeting and in the local time zone, both of which were historically very convenient and attractive to Hackathon participants, suddenly became huge obstacles. Consequently, the IETF 107 Hackathon was cancelled.
 
 We knew more in advance that IETF 108 would be an online only meeting. We moved and expanded the schedule to run the entire work week before the rest of the IETF meeting. The Hackathon kickoff was set for Monday, the closing for Friday, with all the time in between left for individual project teams to arrange to meet how and when was most convenient for them. The kickoff and closing sessions were schedule to align with the time frame established for the IETF 108 meeting. All of this was, of course, not ideal, and it worked much better for some people than for others, but at least everyone knew the plan and corresponding time commitment well in advance and had the ability to plan accordingly.
 
-The response was great. We ultimately had 19 projects and almost 300 registrations. It is hard to say how many people actually participated and for how long, but many projects were able to get substantial work done. For the closing, 10 teams produced and shared presentations summarizing their findings and achievements. All presentations as well as the agenda and a recording of the closing session are available via the IETF 108 Hackathon [wiki](https://trac.ietf.org/trac/ietf/meeting/wiki/108hackathon).
+We ultimately had 19 projects and almost 300 registrations. It is hard to say how many people actually participated and for how long, but many projects were able to get substantial work done. For the closing, 10 teams produced and shared presentations summarizing their findings and achievements. All presentations as well as the agenda and a recording of the closing session are available via the IETF 108 Hackathon [wiki](https://trac.ietf.org/trac/ietf/meeting/wiki/108hackathon). This level of participation was strong enough to be considered a success and justify including the Hackathon in future online only IETF meetings.
 
 Hackdemo Happy Hour and the Code Lounge are not applicable for online only Hackathons.
 
@@ -371,14 +371,11 @@ Metrics have been captured for each Hackathon. Adding these metrics is on the to
 
 ## IETF Survey Results
 
-https://www.ietf.org/media/documents/survey-planning-possible-online-meetings-responses.pdf
+For each IETF meeting, there is typically a post event survey that includes a question or two about the Hackathon, e.g., [IETF 106 Survey Results](https://www.ietf.org/media/documents/IETF_106_Meeting_Survey.pdf).
 
-(From L-R: Very important, Important, Neutral, Not important, Not at all important, Score (lower score is more important))
-- Hackathon 6.73% 20.20% 40.65% 19.70% 12.72% 3.11
+## Hackathon Survey Results
 
-## Hackathon Survey results
-
-todo
+Hackathon specific surveys have been used on a few occasions to obtain more detailed feedback about the Hackathon from the IETF community. This has been especially useful for feedback on online only Hackathons. Survey have been short with most questions being optional, e.g., [IETF 110 Hackathon Survey Results](https://ql.tc/8K1JeZ).
 
 # Roles and Responsibilities
 
