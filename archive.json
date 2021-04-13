@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-04-06T00:33:06.244729+00:00",
+  "timestamp": "2021-04-13T00:34:21.500494+00:00",
   "repo": "eckelcu/internet-drafts",
   "labels": [
     {
@@ -91,7 +91,7 @@
       "id": "MDU6SXNzdWU3OTk3NTM1MzY=",
       "title": "submit update that captures feedback to -01 draft prior to IETF 110 draft submission deadline",
       "url": "https://github.com/eckelcu/internet-drafts/issues/4",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "eckelcu",
       "authorAssociation": "OWNER",
       "assignees": [
@@ -100,24 +100,32 @@
       "labels": [],
       "body": "2021-02-22 (Monday): Internet Draft submission cut-off (for all drafts, including -00) by UTC 23:59. Upload using the ID Submission Tool (https://datatracker.ietf.org/submit/).",
       "createdAt": "2021-02-02T22:16:31Z",
-      "updatedAt": "2021-02-19T18:30:53Z",
-      "closedAt": null,
-      "comments": []
+      "updatedAt": "2021-04-12T17:21:29Z",
+      "closedAt": "2021-04-12T17:21:29Z",
+      "comments": [
+        {
+          "author": "eckelcu",
+          "authorAssociation": "OWNER",
+          "body": "Submitted https://tools.ietf.org/html/draft-eckel-shmoo-ietf-hackathon-02",
+          "createdAt": "2021-04-12T17:21:29Z",
+          "updatedAt": "2021-04-12T17:21:29Z"
+        }
+      ]
     },
     {
       "number": 5,
       "id": "MDU6SXNzdWU4MDA0MzU0ODY=",
       "title": "add hackathon as an event on relevant public calendars",
       "url": "https://github.com/eckelcu/internet-drafts/issues/5",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "eckelcu",
       "authorAssociation": "OWNER",
       "assignees": [],
       "labels": [],
       "body": "Examples include, \r\n\r\nhttps://www.ripe.net/participate/meetings/calendar\r\nhttps://labs.ripe.net/hackathons\r\nhttps://nsrc.org/calendar/\r\n",
       "createdAt": "2021-02-03T15:26:16Z",
-      "updatedAt": "2021-02-03T15:26:16Z",
-      "closedAt": null,
+      "updatedAt": "2021-04-12T18:11:46Z",
+      "closedAt": "2021-04-12T18:11:46Z",
       "comments": []
     },
     {
@@ -201,15 +209,15 @@
       "id": "MDU6SXNzdWU4MjQ4MTIzMjk=",
       "title": "Add information on running code sponsorship opportunities",
       "url": "https://github.com/eckelcu/internet-drafts/issues/11",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "eckelcu",
       "authorAssociation": "OWNER",
       "assignees": [],
       "labels": [],
       "body": "",
       "createdAt": "2021-03-08T18:01:03Z",
-      "updatedAt": "2021-03-08T18:01:03Z",
-      "closedAt": null,
+      "updatedAt": "2021-04-12T19:06:22Z",
+      "closedAt": "2021-04-12T19:06:22Z",
       "comments": []
     },
     {
@@ -328,6 +336,90 @@
       "mergedBy": "eckelcu",
       "mergeCommit": {
         "oid": "4472843b1b59939edb292dd74553242b330e8de4"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 15,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEzODMyNDM4",
+      "title": "update comms responsibilities",
+      "url": "https://github.com/eckelcu/internet-drafts/pull/15",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Address issue #5 ",
+      "createdAt": "2021-04-12T18:06:14Z",
+      "updatedAt": "2021-04-12T18:28:17Z",
+      "baseRepository": "eckelcu/internet-drafts",
+      "baseRefName": "main",
+      "baseRefOid": "4472843b1b59939edb292dd74553242b330e8de4",
+      "headRepository": "eckelcu/internet-drafts",
+      "headRefName": "ietf-llc-comms",
+      "headRefOid": "eb0995cfdd9d79adba9356a162353a885dd5f53a",
+      "closedAt": "2021-04-12T18:09:22Z",
+      "mergedAt": "2021-04-12T18:09:22Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "d826481b64ebc279d93dc18b53fcb85350701cba"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 16,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEzODY0NDU1",
+      "title": "add info on running code sponsor",
+      "url": "https://github.com/eckelcu/internet-drafts/pull/16",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Address issue #11 ",
+      "createdAt": "2021-04-12T18:49:55Z",
+      "updatedAt": "2021-04-12T18:50:33Z",
+      "baseRepository": "eckelcu/internet-drafts",
+      "baseRefName": "main",
+      "baseRefOid": "d826481b64ebc279d93dc18b53fcb85350701cba",
+      "headRepository": "eckelcu/internet-drafts",
+      "headRefName": "sponsorship",
+      "headRefOid": "5f2f4ab3f5d43c05df54597a87c09db6e30b4939",
+      "closedAt": "2021-04-12T18:50:33Z",
+      "mergedAt": "2021-04-12T18:50:33Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "803fa662490df2c87fc73fc3482539ecd16184ff"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 17,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEzODcxNjEx",
+      "title": "fix broken link for running code sponsor",
+      "url": "https://github.com/eckelcu/internet-drafts/pull/17",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "Add issue #11 ",
+      "createdAt": "2021-04-12T18:59:51Z",
+      "updatedAt": "2021-04-12T19:06:49Z",
+      "baseRepository": "eckelcu/internet-drafts",
+      "baseRefName": "main",
+      "baseRefOid": "803fa662490df2c87fc73fc3482539ecd16184ff",
+      "headRepository": "eckelcu/internet-drafts",
+      "headRefName": "sponsorship",
+      "headRefOid": "db79e67ccbcab4e9d18e77f3b97a8fbb85d81dee",
+      "closedAt": "2021-04-12T19:00:33Z",
+      "mergedAt": "2021-04-12T19:00:32Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "0de0e6349251653d4afbe31b255e7603aded968c"
       },
       "comments": [],
       "reviews": []
