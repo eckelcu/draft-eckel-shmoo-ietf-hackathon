@@ -367,7 +367,9 @@ The Gather space remains available between IETF meetings, with incremental impro
 
 # Statistics and Metrics
 
-Metrics have been captured for each Hackathon. Adding these metrics is on the todo list.
+Statistics for the Hackathon have been gathered informally from the first Hackathon, at IETF 92, and more formally since IETF 101. Registration is required but it is also free, which can lead to misleading statistics. Starting with IETF 101, an effort has been made by the Secretariat to validate registrations for all in-person participants by checking registrations at the main entrance to the Hackathon room. Badges similar to those issued for the rest of the IETF meeting are now issued for the Hackathon as well. There is still no good mechanism for determining the number of remote participants.
+
+Hackathon participation has grown from 45 at IETF 92 to a maximum of 406 at IETF 104. Participation is tends to be slightly higher when the IETF meeting is located in Europe. Recent in-person Hackathons have had roughly 30-40% as many participants as the corresponding IETF meeting. For roughly 20-30% of Hackathon participants, the Hackathon is their first experience at any IETF event.
 
 ## IETF Survey Results
 
@@ -405,6 +407,7 @@ Key responsibilities include:
 * Handle venue logistics for Hackathon, Hackdemo Happy Hour, and Code Lounge (e.g., reserve room, food and beverages, AV, etc.)
 * Internal IETF promotion (e.g., email messages to IETF community)
 * Assist with external outreach, as needed, including finding sponsors
+* Validate Hackathon registrations for in-person participants, including issuing badges and participant t-shirts when available
 
 ## Sponsor
 
