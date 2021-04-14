@@ -4,8 +4,8 @@
 
 shmoo                                                           C. Eckel
 Internet-Draft                                             Cisco Systems
-Intended status: Informational                             13 April 2021
-Expires: 15 October 2021
+Intended status: Informational                             14 April 2021
+Expires: 16 October 2021
 
 
                        Running an IETF Hackathon
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 15 October 2021.
+   This Internet-Draft will expire on 16 October 2021.
 
 Copyright Notice
 
@@ -885,8 +885,23 @@ Table of Contents
 
 6.  Statistics and Metrics
 
-   Metrics have been captured for each Hackathon.  Adding these metrics
-   is on the todo list.
+   Statistics for the Hackathon have been gathered informally from the
+   first Hackathon, at IETF 92, and more formally since IETF 101.
+   Registration is required but it is also free, which can lead to
+   misleading statistics.  Starting with IETF 101, an effort has been
+   made by the Secretariat to validate registrations for all in-person
+   participants by checking registrations at the main entrance to the
+   Hackathon room.  Badges similar to those issued for the rest of the
+   IETF meeting are now issued for the Hackathon as well.  There is
+   still no good mechanism for determining the number of remote
+   participants.
+
+   Hackathon participation has grown from 45 at IETF 92 to a maximum of
+   406 at IETF 104.  Participation is tends to be slightly higher when
+   the IETF meeting is located in Europe.  Recent in-person Hackathons
+   have had roughly 30-40% as many participants as the corresponding
+   IETF meeting.  For roughly 20-30% of Hackathon participants, the
+   Hackathon is their first experience at any IETF event.
 
 6.1.  IETF Survey Results
 
@@ -972,6 +987,9 @@ Table of Contents
 
    *  Assist with external outreach, as needed, including finding
       sponsors
+
+   *  Validate Hackathon registrations for in-person participants,
+      including issuing badges and participant t-shirts when available
 
 7.3.  Sponsor
 
