@@ -48,7 +48,7 @@ This document provides a set of practices for running IETF Hackathons.
 
 # Timing
 
-The first IETF Hackathon was held the weekend before the start of the IETF 92 meeting. The rationale was to avoid conflicts yet make it relatively convenient for those attending the IETF meeting to participate in the Hackathon as well. Holding the Hackathon on the weekend was also viewed as making it more accessible to non IETF meeting attendees, including students and working professionals who would have other commitments during the week. The weekend before was viewed as better than the weekend after so that things learned during the Hackathon could be shared and discussed with the rest of the IETF community during working group sessions and the like. This worked well at IETF 92, was repeated at IETF 93, and quickly became an established norm with the IETF meeting being officially extended to include the Hackathon at the start. An additional benefit of this timing noted and appreciated by participants is that it serves as a more informal and social way to physically and mentally acclimate to changes in time zones, surroundings, and subject matter.
+The first IETF Hackathon was held the weekend before the start of the IETF 92 meeting. The rationale was to avoid conflicts yet make it relatively convenient for those attending the IETF meeting to participate in the Hackathon as well. Holding the Hackathon on the weekend was also viewed as making it more accessible to non IETF meeting participants, including students and working professionals who would have other commitments during the week. The weekend before was viewed as better than the weekend after so that things learned during the Hackathon could be shared and discussed with the rest of the IETF community during working group sessions and the like. This worked well at IETF 92, was repeated at IETF 93, and quickly became an established norm with the IETF meeting being officially extended to include the Hackathon at the start. An additional benefit of this timing noted and appreciated by participants is that it serves as a more informal and social way to physically and mentally acclimate to changes in time zones, surroundings, and subject matter.
 
 ## Agenda
 
@@ -270,9 +270,9 @@ Registration for the Hackathon is through the IETF [meeting registration](https:
 
 As with meeting registration, registrants for the Hackathon acknowledge the [Note Well](https://ietf.org/about/note-well/) during the registration process.
 
-### Attendee List
+### Participant List
 
-An active list of all registered attendees, e.g., <https://registration.ietf.org/110/participants/hackathon/>, is maintained by the Secretariat. Important information displayed for each registrant includes the set of projects and technologies in which each participant is interested and an email address. This information is optional at the time of registration and may be updated or removed by editing one's registration.
+An active list of all registered participants, e.g., <https://registration.ietf.org/110/participants/hackathon/>, is maintained by the Secretariat. Important information displayed for each registrant includes the set of projects and technologies in which each participant is interested and an email address. This information is optional at the time of registration and may be updated or removed by editing one's registration.
 
 
 ### Caps on Registrations
@@ -457,7 +457,7 @@ None.
 
 ## Privacy Considerations
 
-Participant names and email addresses are displayed publicly in the [Attendee List](#attendee-list). Participants may opt-in or opt-out of the display of their email address as part of their registration.
+Participant names and email addresses are displayed publicly in the [Participant List](#participant-list). Participants may opt-in or opt-out of the display of their email address as part of their registration.
 
 The email addresses of individual champions are often shared publicly by the champions on the wiki. This is done voluntarily by individual champions to make it easier for others to contact them.
 
