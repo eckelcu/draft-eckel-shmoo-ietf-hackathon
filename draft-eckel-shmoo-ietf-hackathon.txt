@@ -4,8 +4,8 @@
 
 shmoo                                                           C. Eckel
 Internet-Draft                                             Cisco Systems
-Intended status: Informational                             14 April 2021
-Expires: 16 October 2021
+Intended status: Informational                             15 April 2021
+Expires: 17 October 2021
 
 
                        Running an IETF Hackathon
@@ -44,7 +44,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 16 October 2021.
+   This Internet-Draft will expire on 17 October 2021.
 
 Copyright Notice
 
@@ -87,7 +87,7 @@ Table of Contents
        5.2.1.  Hackathon Webpage
        5.2.2.  Meeting Webpage
      5.3.  Registration
-       5.3.1.  Attendee List
+       5.3.1.  Participant List
        5.3.2.  Caps on Registrations
      5.4.  Meeting Wiki
        5.4.1.  Hackathon
@@ -169,14 +169,14 @@ Table of Contents
    relatively convenient for those attending the IETF meeting to
    participate in the Hackathon as well.  Holding the Hackathon on the
    weekend was also viewed as making it more accessible to non IETF
-   meeting attendees, including students and working professionals who
-   would have other commitments during the week.  The weekend before was
-   viewed as better than the weekend after so that things learned during
-   the Hackathon could be shared and discussed with the rest of the IETF
-   community during working group sessions and the like.  This worked
-   well at IETF 92, was repeated at IETF 93, and quickly became an
-   established norm with the IETF meeting being officially extended to
-   include the Hackathon at the start.  An additional benefit of this
+   meeting participants, including students and working professionals
+   who would have other commitments during the week.  The weekend before
+   was viewed as better than the weekend after so that things learned
+   during the Hackathon could be shared and discussed with the rest of
+   the IETF community during working group sessions and the like.  This
+   worked well at IETF 92, was repeated at IETF 93, and quickly became
+   an established norm with the IETF meeting being officially extended
+   to include the Hackathon at the start.  An additional benefit of this
    timing noted and appreciated by participants is that it serves as a
    more informal and social way to physically and mentally acclimate to
    changes in time zones, surroundings, and subject matter.
@@ -655,9 +655,9 @@ Table of Contents
    acknowledge the Note Well (https://ietf.org/about/note-well/) during
    the registration process.
 
-5.3.1.  Attendee List
+5.3.1.  Participant List
 
-   An active list of all registered attendees, e.g.,
+   An active list of all registered participants, e.g.,
    https://registration.ietf.org/110/participants/hackathon/
    (https://registration.ietf.org/110/participants/hackathon/), is
    maintained by the Secretariat.  Important information displayed for
@@ -1082,8 +1082,8 @@ Table of Contents
 8.1.  Privacy Considerations
 
    Participant names and email addresses are displayed publicly in the
-   Attendee List (Section 5.3.1).  Participants may opt-in or opt-out of
-   the display of their email address as part of their registration.
+   Participant List (Section 5.3.1).  Participants may opt-in or opt-out
+   of the display of their email address as part of their registration.
 
    The email addresses of individual champions are often shared publicly
    by the champions on the wiki.  This is done voluntarily by individual
