@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-04-15T00:32:11.320897+00:00",
+  "timestamp": "2021-04-18T00:32:48.704612+00:00",
   "repo": "eckelcu/internet-drafts",
   "labels": [
     {
@@ -82,7 +82,7 @@
       "labels": [],
       "body": "Network (update draft accordingly)\r\n- Remote network from IETF 109 remains available\r\n- Reusing https://tickets.meeting.ietf.org/newticket\r\n- Form now has a milestone for \"ietf-110\"\r\n- For IETF 109, had roughly 10 network requests\r\n- Network will remain up after IETF 110",
       "createdAt": "2021-02-02T22:13:23Z",
-      "updatedAt": "2021-02-19T22:17:59Z",
+      "updatedAt": "2021-04-15T21:16:03Z",
       "closedAt": "2021-02-19T22:17:59Z",
       "comments": []
     },
@@ -100,7 +100,7 @@
       "labels": [],
       "body": "2021-02-22 (Monday): Internet Draft submission cut-off (for all drafts, including -00) by UTC 23:59. Upload using the ID Submission Tool (https://datatracker.ietf.org/submit/).",
       "createdAt": "2021-02-02T22:16:31Z",
-      "updatedAt": "2021-04-12T17:21:29Z",
+      "updatedAt": "2021-04-15T21:16:29Z",
       "closedAt": "2021-04-12T17:21:29Z",
       "comments": [
         {
@@ -124,7 +124,7 @@
       "labels": [],
       "body": "Examples include, \r\n\r\nhttps://www.ripe.net/participate/meetings/calendar\r\nhttps://labs.ripe.net/hackathons\r\nhttps://nsrc.org/calendar/\r\n",
       "createdAt": "2021-02-03T15:26:16Z",
-      "updatedAt": "2021-04-12T18:11:46Z",
+      "updatedAt": "2021-04-15T21:10:39Z",
       "closedAt": "2021-04-12T18:11:46Z",
       "comments": []
     },
@@ -142,7 +142,7 @@
       "labels": [],
       "body": "The Hackathon has changed in many ways to accommodate online IETF meetings. Many of the changes and additions will be beneficial for remote participation in in-person Hackathons as well. The document should be restructured from the perspective of the Hackathon as a whole with in-person aspects and online aspects rather than as an in-person event with specific changes when held online only.",
       "createdAt": "2021-02-04T15:24:39Z",
-      "updatedAt": "2021-02-19T18:27:59Z",
+      "updatedAt": "2021-04-15T21:14:46Z",
       "closedAt": "2021-02-19T18:27:59Z",
       "comments": [
         {
@@ -168,7 +168,7 @@
       "labels": [],
       "body": "\r\n1. Overall, how satisfied were you with the Hackathon?\r\n2. How satisfied were the registration process and availability of resources to help you prepare for the Hackathon?\r\n3. How satisfied were you with the kickoff session via Meetecho?\r\n4. How satisfied were you with the week-long format of the Hackathon with individual team schedules?\r\n5. How satisfied were you with Gather and the Hackathon space within it?\r\n6. How satisfied were you with the remote networking to the virtual IETF network?\r\n7. How satisfied were you with the closing session via Meetecho?\r\n8. How likely are you to participate in a future online only IETF Hackathon?\r\n9. How likely are you to participate in a future in-person IETF Hackathon?\r\n10. Please provide any additional comments or suggestions for future IETF Hackathons.",
       "createdAt": "2021-02-17T18:52:51Z",
-      "updatedAt": "2021-04-13T14:56:08Z",
+      "updatedAt": "2021-04-15T21:10:26Z",
       "closedAt": "2021-04-13T14:56:08Z",
       "comments": []
     },
@@ -184,7 +184,7 @@
       "labels": [],
       "body": "This email alias has been created. It should to be used in place of personal email addresses in the wiki and on GitHub. It should also be covered in the draft.",
       "createdAt": "2021-02-19T17:13:36Z",
-      "updatedAt": "2021-02-19T21:59:36Z",
+      "updatedAt": "2021-04-15T21:13:39Z",
       "closedAt": "2021-02-19T21:59:36Z",
       "comments": []
     },
@@ -202,7 +202,7 @@
       "labels": [],
       "body": "List of Markdown presentation formats can be found at:\r\nhttps://stymied.medium.com/what-slides-from-markdown-5239ed31e7ac\r\nhttps://gist.github.com/johnloy/27dd124ad40e210e91c70dd1c24ac8c8\r\n\r\nIt is not clear if an RFC is needed to produce some standard, for example https://github.com/cabo/kramdown-rfc2629 which has an implementation in Ruby. A browser based implementation using Javascript may be helpful to have since it will be simpler to use, though may be more restrictive. Remark seems good for this, though one could also build something on top of Reveal to suite IETF purposes.\r\n\r\nExample of partially recreating the Hackathon template from here is at:\r\nhttps://bkmgit.github.io/tryremark/\r\nhttps://github.com/bkmgit/tryremark/tree/gh-pages\r\n\r\nMaybe a parser or modified parser specifically for IETF is better since two column layout may be good to have in a nice way, see for example:\r\n\r\nhttps://medium.com/javascript-in-plain-english/simple-markdown-parser-with-javascript-and-regular-expressions-f0c8d53449a4\r\nhttps://marked.js.org/demo/\r\n",
       "createdAt": "2021-02-19T18:35:14Z",
-      "updatedAt": "2021-02-19T20:18:05Z",
+      "updatedAt": "2021-04-15T21:15:16Z",
       "closedAt": "2021-02-19T20:18:05Z",
       "comments": []
     },
@@ -218,7 +218,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2021-03-08T18:01:03Z",
-      "updatedAt": "2021-04-12T19:06:22Z",
+      "updatedAt": "2021-04-15T21:10:05Z",
       "closedAt": "2021-04-12T19:06:22Z",
       "comments": []
     },
@@ -234,7 +234,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2021-03-08T18:01:40Z",
-      "updatedAt": "2021-04-13T23:00:50Z",
+      "updatedAt": "2021-04-15T21:09:51Z",
       "closedAt": "2021-04-13T23:00:50Z",
       "comments": []
     },
@@ -252,7 +252,7 @@
       "labels": [],
       "body": "This draft has no normative language. The references are not necessary.",
       "createdAt": "2021-04-05T18:40:06Z",
-      "updatedAt": "2021-04-05T19:07:11Z",
+      "updatedAt": "2021-04-15T21:09:37Z",
       "closedAt": "2021-04-05T19:07:11Z",
       "comments": []
     },
@@ -270,7 +270,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2021-04-13T14:28:31Z",
-      "updatedAt": "2021-04-14T22:29:45Z",
+      "updatedAt": "2021-04-15T21:08:49Z",
       "closedAt": "2021-04-14T22:29:45Z",
       "comments": []
     },
@@ -279,7 +279,7 @@
       "id": "MDU6SXNzdWU4NTgzMTQwOTQ=",
       "title": "replace \"attendee\" with \"participant\"",
       "url": "https://github.com/eckelcu/internet-drafts/issues/23",
-      "state": "OPEN",
+      "state": "CLOSED",
       "author": "eckelcu",
       "authorAssociation": "OWNER",
       "assignees": [
@@ -288,8 +288,8 @@
       "labels": [],
       "body": "Both terms are used. Participant is used most of the time, but attendee is used a few times in reference to the attendee list page that is maintained by the secretariat. The name of the page is ok, but the draft should be continue in its use of participant rather than attendee in order to avoid any confusion.",
       "createdAt": "2021-04-14T22:33:02Z",
-      "updatedAt": "2021-04-14T22:33:05Z",
-      "closedAt": null,
+      "updatedAt": "2021-04-15T21:08:23Z",
+      "closedAt": "2021-04-15T17:21:40Z",
       "comments": []
     }
   ],
@@ -362,7 +362,7 @@
       "labels": [],
       "body": "Address issue #13 ",
       "createdAt": "2021-04-05T19:03:23Z",
-      "updatedAt": "2021-04-05T19:05:30Z",
+      "updatedAt": "2021-04-15T17:23:46Z",
       "baseRepository": "eckelcu/internet-drafts",
       "baseRefName": "main",
       "baseRefOid": "277f3e9ad012e0dd616e4355112aecd584693b1e",
@@ -474,7 +474,7 @@
       "labels": [],
       "body": "addresses issue #7",
       "createdAt": "2021-04-13T14:49:32Z",
-      "updatedAt": "2021-04-13T14:51:25Z",
+      "updatedAt": "2021-04-15T17:22:56Z",
       "baseRepository": "eckelcu/internet-drafts",
       "baseRefName": "main",
       "baseRefOid": "0de0e6349251653d4afbe31b255e7603aded968c",
@@ -530,7 +530,7 @@
       "labels": [],
       "body": "address issue #12  ",
       "createdAt": "2021-04-13T22:52:57Z",
-      "updatedAt": "2021-04-13T22:59:29Z",
+      "updatedAt": "2021-04-15T17:23:42Z",
       "baseRepository": "eckelcu/internet-drafts",
       "baseRefName": "main",
       "baseRefOid": "c2c52b2978be01163bd0ea05e9bdc2a911ecb3fa",
@@ -558,7 +558,7 @@
       "labels": [],
       "body": "",
       "createdAt": "2021-04-14T22:27:03Z",
-      "updatedAt": "2021-04-14T22:28:17Z",
+      "updatedAt": "2021-04-15T17:22:32Z",
       "baseRepository": "eckelcu/internet-drafts",
       "baseRefName": "main",
       "baseRefOid": "568b5327a909a25fac2b7255289cb9370b0f0744",
@@ -570,6 +570,34 @@
       "mergedBy": "eckelcu",
       "mergeCommit": {
         "oid": "ed2a4fa477187f9f60eb4565df5ac053a51efc99"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 24,
+      "id": "MDExOlB1bGxSZXF1ZXN0NjE2MjIzMTM5",
+      "title": "replace attendee with participant for consistency",
+      "url": "https://github.com/eckelcu/internet-drafts/pull/24",
+      "state": "MERGED",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "address issue #23 ",
+      "createdAt": "2021-04-15T17:13:18Z",
+      "updatedAt": "2021-04-15T17:22:10Z",
+      "baseRepository": "eckelcu/internet-drafts",
+      "baseRefName": "main",
+      "baseRefOid": "ed2a4fa477187f9f60eb4565df5ac053a51efc99",
+      "headRepository": "eckelcu/internet-drafts",
+      "headRefName": "attendee",
+      "headRefOid": "aa242be5aa59f05803d52cd2fe1cfa88db4fff9d",
+      "closedAt": "2021-04-15T17:14:00Z",
+      "mergedAt": "2021-04-15T17:14:00Z",
+      "mergedBy": "eckelcu",
+      "mergeCommit": {
+        "oid": "318f418345255ad41ba5c8f8dc026b166437569a"
       },
       "comments": [],
       "reviews": []
