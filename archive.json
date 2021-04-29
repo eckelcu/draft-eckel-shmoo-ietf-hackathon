@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2021-04-18T00:32:48.704612+00:00",
+  "timestamp": "2021-04-29T00:31:53.253323+00:00",
   "repo": "eckelcu/internet-drafts",
   "labels": [
     {
@@ -290,6 +290,22 @@
       "createdAt": "2021-04-14T22:33:02Z",
       "updatedAt": "2021-04-15T21:08:23Z",
       "closedAt": "2021-04-15T17:21:40Z",
+      "comments": []
+    },
+    {
+      "number": 25,
+      "id": "MDU6SXNzdWU4NzAyNzUxMzc=",
+      "title": "say in the abstract why this document exists",
+      "url": "https://github.com/eckelcu/internet-drafts/issues/25",
+      "state": "OPEN",
+      "author": "eckelcu",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "On Apr 27, 2021, at 1:13 PM, Stephen Farrell <stephen.farrell@cs.tcd.ie> wrote:\r\n\r\nOne suggestion: maybe say in the abstract why this document\r\nexists? It took me a minute or two to figure that it was\r\njust documenting IETF hackathon lore and wasn't trying to\r\ndevelop new ways to organise things. That's a fine goal but\r\ngood to know that from the abstract.\r\n\r\nCheers,\r\nS.",
+      "createdAt": "2021-04-28T19:29:04Z",
+      "updatedAt": "2021-04-28T19:29:04Z",
+      "closedAt": null,
       "comments": []
     }
   ],
